@@ -32,7 +32,7 @@ For reference the list is provided below, with an equivalent OPML file in the re
 
 Divided into the above listed categories...
 
-### Must-Read
+### Must Read
 
 <ul>
 <li><a href="http://feeds.feedburner.com/CssTricks">CSS-Tricks</a></li>
