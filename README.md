@@ -1,4 +1,4 @@
-# Front-end Feeds (Work in Progress!)
+# Front-End Feeds (Work in Progress!)
 
 An up to date list of RSS feeds for front-end developers.
 
