@@ -52,7 +52,7 @@ Divided into the above listed categories...
 <ul>
 <li><a href="http://feeds.feedburner.com/alistapart/main">A List Apart: The Full Feed</a></li>
 <li><a href="http://feeds.feedburner.com/webdesignerdepot">Webdesigner Depot</a></li>
-<li><a href="http://davidwalsh.name/feed">David Walsh BlogDavid Walsh Blog</a></li>
+<li><a href="http://davidwalsh.name/feed">David Walsh Blog</a></li>
 <li><a href="http://www.bennadel.com/index.cfm?event=blog.rss">Ben Nadel's Web Development and User Experience Feed @ BenNadel.com</a></li>
 <li><a href="http://snook.ca/posts/index.rss">Snook.ca</a></li>
 <li><a href="http://feeds.feedburner.com/JohnResig">John Resig</a></li>
