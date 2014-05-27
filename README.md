@@ -19,7 +19,7 @@ You'll probably notice that a lot of stuff you expect to see here is missing. I'
 * Too many personal posts that have nothing to do with web development
 
 ## Suggestions?
-As stated above, I'm still working on this and I'm happy to take suggestions, even if it's your own feed. I know I'm missing lots of good stuf, especially newer stuff that I'm probably not as familiar with, and probably a lot on performance and tooling.
+As stated above, I'm still working on this and I'm happy to take suggestions, even if it's your own feed. I know I'm missing lots of good stuff, especially newer stuff that I'm probably not as familiar with, and probably a lot on performance and tooling.
 
 So please contribute by commenting, opening an issue, or by submitting a pull request.
 
