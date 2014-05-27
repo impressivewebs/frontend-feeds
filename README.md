@@ -169,8 +169,8 @@ Divided into the above listed categories...
   <li><a href="http://www.reddit.com/r/css.rss">Cascading Style Sheets</a></li>
   <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=53">SitePoint Forums - CSS & Page Layout</a></li>
   <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=15">SitePoint Forums - JavaScript & jQuery</a></li>
-  <li><a href="http://css-tricks.com/forums/feed">CSS-Tricks Â» All Posts</a></li>
-  <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=52">SitePoint Forums - (X)HTML</a></li>
+  <li><a href="http://css-tricks.com/forums/feed">CSS-Tricks Forum Posts</a></li>
+  <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=52">SitePoint Forums - HTML</a></li>
 </ul>
 
 ### Podcasts
