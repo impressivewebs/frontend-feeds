@@ -4,7 +4,7 @@ An up to date list of RSS feeds for front-end developers.
 
 This list is a modern take on [Paul Irish's now out-of-date list of feeds](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/). I've taken the most relevant feeds from his list and created a new feeds list.
 
-Despite the death of Google Reader, I still use RSS regularly (I use [NewsBlur](http://newsblur.com)), and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
+Despite the death of Google Reader, I still use RSS regularly, and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
 
 The feeds list is divided into five sections:
 
@@ -26,7 +26,7 @@ As stated above, I'm still working on this and I'm happy to take suggestions, ev
 
 So please contribute by commenting, opening an issue, or by submitting a pull request.
 
-For reference the list is provided below, with an equivalent OPML file in the repo, for importing into your feed reader.
+The list of feeds is below. Eventually this repo will include the OPML file for easy importing into your reader.
 
 ## The Feeds
 
