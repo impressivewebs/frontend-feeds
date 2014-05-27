@@ -39,12 +39,6 @@ For reference the list is provided below, with an equivalent OPML file in the re
     <li><a href=
     "http://bradfrostweb.com/blog/">http://bradfrostweb.com/blog/</a></li>
     <li><a href=
-    "http://www.catswhocode.com/blog/category/css-2">http://www.catswhocode.com/blog/category/css-2</a></li>
-    <li><a href=
-    "http://www.catswhocode.com/blog/category/javascript-2">http://www.catswhocode.com/blog/category/javascript-2</a></li>
-    <li><a href=
-    "http://www.catswhocode.com/blog/category/html5-2">http://www.catswhocode.com/blog/category/html5-2</a></li>
-    <li><a href=
     "http://tympanus.net/codrops/">http://tympanus.net/codrops/</a></li>
     <li><a href=
     "http://tympanus.net/codrops/collective/">http://tympanus.net/codrops/collective/</a></li>
@@ -226,4 +220,15 @@ For reference the list is provided below, with an equivalent OPML file in the re
     <li><a href="http://css-weekly.com/">http://css-weekly.com/</a></li>
     <li><a href=
     "http://web-design-weekly.com/">http://web-design-weekly.com/</a></li>
+</ul>
+
+I'd also like to include the following feeds, but they have no RSS feed, or they are WordPress categories that have no category feed:
+
+<ul>
+    <li><a href=
+    "http://www.catswhocode.com/blog/category/css-2">http://www.catswhocode.com/blog/category/css-2</a></li>
+    <li><a href=
+    "http://www.catswhocode.com/blog/category/javascript-2">http://www.catswhocode.com/blog/category/javascript-2</a></li>
+    <li><a href=
+    "http://www.catswhocode.com/blog/category/html5-2">http://www.catswhocode.com/blog/category/html5-2</a></li>
 </ul>
