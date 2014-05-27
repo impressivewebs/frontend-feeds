@@ -168,7 +168,7 @@ Divided into the above listed categories...
 
 ## Missing Feeds?
 
-I'd also like to include the following feeds, but they have no RSS feed, or they are WordPress categories that have no category feed:
+I'd also like to include the following feeds, but the feeds aren't working or else they don't have one that I can see:
 
 http://lab.alexcican.com/<br>
 http://filamentgroup.com/lab/<br>
