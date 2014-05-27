@@ -42,8 +42,8 @@ Divided into the above listed categories...
 <li><a href="http://tympanus.net/codrops/feed">Codrops</a></li>
 <li><a href="http://feeds.feedburner.com/alistapart/abridged">A List Apart: The Abridged Feed</a></li>
 <li><a href="http://feeds.feedburner.com/OpenWebPlatformDailyDigest">Open Web Platform Daily Digest</a></li>
-<li><a href="http://www.sitepoint.com/javascript/feed">SitePoint Â» JavaScript</a></li>
-<li><a href="http://www.sitepoint.com/css/feed">SitePoint Â» CSS</a></li>
+<li><a href="http://www.sitepoint.com/javascript/feed">SitePoint JavaScript</a></li>
+<li><a href="http://www.sitepoint.com/css/feed">SitePoint CSS</a></li>
 <li><a href="http://www.smashingmagazine.com/feed">Smashing Magazine</a></li>
 </ul>
 
