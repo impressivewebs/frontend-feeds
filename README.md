@@ -36,7 +36,6 @@ Divided into the above listed categories...
 
 <ul>
 <li><a href="http://feeds.feedburner.com/CssTricks">CSS-Tricks</a></li>
-<li><a href="http://feeds.feedburner.com/24ways">24 ways</a></li>
 <li><a href="http://code.tutsplus.com/posts.atom">Tuts+ Code</a></li>
 <li><a href="http://feeds.feedburner.com/html5rocks">HTML5Rocks</a></li>
 <li><a href="http://tympanus.net/codrops/feed">Codrops</a></li>
@@ -50,6 +49,7 @@ Divided into the above listed categories...
 ### Great to Read
 
 <ul>
+<li><a href="http://feeds.feedburner.com/24ways">24 ways</a></li>
 <li><a href="http://feeds.feedburner.com/alistapart/main">A List Apart: The Full Feed</a></li>
 <li><a href="http://feeds.feedburner.com/webdesignerdepot">Webdesigner Depot</a></li>
 <li><a href="http://davidwalsh.name/feed">David Walsh Blog</a></li>
