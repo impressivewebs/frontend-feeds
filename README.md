@@ -141,8 +141,8 @@ Divided into the above listed categories...
 <li><a href="http://feedpress.me/heydesigner">Hey, designer!</a></li>
 <li><a href="http://www.cssdrive.com/index.php/news/rss_2.0">CSS Drive News</a></li>
 <li><a href="http://www.echojs.com/rss">Echo JS</a></li>
-<li><a href="http://feeds.feedburner.com/CSSNetwork">Impressive WebsCSS Network</a></li>
-<li><a href="http://tympanus.net/codrops/collective/feed">Codrops Â» Collective</a></li>
+<li><a href="http://feeds.feedburner.com/CSSNetwork">Impressive Webs CSS Network</a></li>
+<li><a href="http://tympanus.net/codrops/collective/feed">Codrops Collective</a></li>
 </ul>
 
 ### Dailies and Weeklies
