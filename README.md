@@ -170,7 +170,7 @@ Divided into the above listed categories...
 
 I'd also like to include the following feeds, but they have no RSS feed, or they are WordPress categories that have no category feed:
 
-http://lab.alexcican.com/
-http://filamentgroup.com/lab/
-http://www.nngroup.com/articles/
-http://daverupert.com/atom.xml
+http://lab.alexcican.com/<br>
+http://filamentgroup.com/lab/<br>
+http://www.nngroup.com/articles/<br>
+http://daverupert.com/atom.xml<br>
