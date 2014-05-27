@@ -170,11 +170,7 @@ Divided into the above listed categories...
 
 I'd also like to include the following feeds, but they have no RSS feed, or they are WordPress categories that have no category feed:
 
-<ul>
-    <li><a href=
-    "http://www.catswhocode.com/blog/category/css-2">http://www.catswhocode.com/blog/category/css-2</a></li>
-    <li><a href=
-    "http://www.catswhocode.com/blog/category/javascript-2">http://www.catswhocode.com/blog/category/javascript-2</a></li>
-    <li><a href=
-    "http://www.catswhocode.com/blog/category/html5-2">http://www.catswhocode.com/blog/category/html5-2</a></li>
-</ul>
+http://lab.alexcican.com/
+http://filamentgroup.com/lab/
+http://www.nngroup.com/articles/
+http://daverupert.com/atom.xml
