@@ -74,6 +74,7 @@ Divided into the above listed categories...
   <li><a href="http://feeds.feedburner.com/TheCSSNinja">The CSS Ninja</a></li>
   <li><a href="http://adactio.com/journal/rss">Adactio: Journal</a></li>
   <li><a href="http://addyosmani.com/blog/feed">AddyOsmani.com | Articles for developers</a></li>
+  <li><a href="http://appendto.com/feed/rss">AppendTo</a></li>
   <li><a href="http://feeds.feedburner.com/urn-rss20">UNSTOPPABLE ROBOT NINJA</a></li>
   <li><a href="http://rss.badassjs.com">Badass JavaScript</a></li>
   <li><a href="http://googledevelopers.blogspot.com/feeds/posts/default?alt=rss">Google Developers Blog</a></li>
