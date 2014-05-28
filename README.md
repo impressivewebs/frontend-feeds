@@ -138,6 +138,9 @@ Divided into the above listed categories...
   <li><a href="http://mir.aculo.us/feed">mir.aculo.us</a></li>
   <li><a href="http://www.webdirections.org/feed">Web Directions</a></li>
   <li><a href="http://www.2ality.com/feeds/posts/default?alt=rss">②ality – JavaScript and more</a></li>
+  <li><a href="http://www.cssmojo.com/rss.xml">CSSmojo</a></li>
+  <li><a href="http://feeds.feedburner.com/456bereastreet">456 Berea Street</a></li>
+  <li><a href="http://feeds.feedburner.com/redteamdesign">RedTeamDesign</a></li>
 </ul>
 
 ### Feedception (News lists, link lists, etc.)
