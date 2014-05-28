@@ -2,7 +2,7 @@
 
 An up to date list of RSS feeds for front-end developers.
 
-This list is a modern take on [Paul Irish's now out-of-date list of feeds](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/). I've taken the most relevant feeds from his list and created a new feeds list.
+This list is a modified version of [Paul Irish's list of front-end feeds](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/). I've taken the most relevant feeds from his list and created a new feeds list.
 
 Despite the death of Google Reader, I still use RSS regularly, and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
 
