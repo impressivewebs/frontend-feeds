@@ -96,6 +96,7 @@ Divided into the above listed categories...
   <li><a href="http://feeds.feedburner.com/bocoup">Bocoup Blog</a></li>
   <li><a href="http://mathiasbynens.be/notes.rss">Mathias Bynens</a></li>
   <li><a href="http://feeds.feedburner.com/mdo">Mark Otto</a></li>
+  <li><a href="http://mobiletestingfordummies.tumblr.com/">Testing for Dummies</a></li>
   <li><a href="http://feeds.feedburner.com/thesassway">The Sass Way</a></li>
   <li><a href="http://feeds.feedburner.com/brad-frosts-blog">Brad Frost Web</a></li>
   <li><a href="http://feeds.feedburner.com/philipwalton">Philip Walton</a></li>
