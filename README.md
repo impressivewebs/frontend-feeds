@@ -37,13 +37,11 @@ Divided into the above listed categories...
 
 <ul>
   <li><a href="http://feeds.feedburner.com/CssTricks">CSS-Tricks</a></li>
-  <li><a href="http://feeds.feedburner.com/24ways">24 ways</a></li>
   <li><a href="http://code.tutsplus.com/posts.atom">Tuts+ Code</a></li>
   <li><a href="http://feeds.feedburner.com/html5rocks">HTML5Rocks</a></li>
   <li><a href="http://tympanus.net/codrops/feed">Codrops</a></li>
   <li><a href="http://feeds.feedburner.com/alistapart/abridged">A List Apart: The Abridged Feed</a></li>
   <li><a href="http://feeds.feedburner.com/OpenWebPlatformDailyDigest">Open Web Platform Daily Digest</a></li>
-  <li><a href="http://www.sitepoint.com/javascript/feed">SitePoint JavaScript</a></li>
   <li><a href="http://www.sitepoint.com/css/feed">SitePoint CSS</a></li>
   <li><a href="http://www.smashingmagazine.com/feed">Smashing Magazine</a></li>
 </ul>
@@ -51,7 +49,9 @@ Divided into the above listed categories...
 ### Great to Read
 
 <ul>
-<li><a href="http://feeds.feedburner.com/alistapart/main">A List Apart: The Full Feed</a></li>
+  <li><a href="http://feeds.feedburner.com/24ways">24 ways</a></li>
+  <li><a href="http://feeds.feedburner.com/alistapart/main">A List Apart: The Full Feed</a></li>
+  <li><a href="http://www.sitepoint.com/javascript/feed">SitePoint JavaScript</a></li>
   <li><a href="http://feeds.feedburner.com/webdesignerdepot">Webdesigner Depot</a></li>
   <li><a href="http://davidwalsh.name/feed">David Walsh Blog</a></li>
   <li><a href="http://www.bennadel.com/index.cfm?event=blog.rss">Ben Nadel's Web Development and User Experience Feed @ BenNadel.com</a></li>
