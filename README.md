@@ -153,6 +153,7 @@ Divided into the above listed categories...
 <ul>
   <li><a href="http://web-design-weekly.com/feed">Web Design Weekly</a></li>
   <li><a href="http://responsivedesignweekly.com/feed">Responsive Design Weekly</a></li>
+  <li><a href="http://designpepper.com/atom.xml">A Drip of JavaScript</a></li>
   <li><a href="http://sidebar.io/feed.xml">Sidebar</a></li>
   <li><a href="http://feeds.feedburner.com/CSS-Weekly">CSS Weekly</a></li>
   <li><a href="http://javascriptweekly.com/rss/161kj581">JavaScript Weekly</a></li>
