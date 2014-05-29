@@ -27,7 +27,7 @@ As stated above, I'm still working on this and I'm happy to take suggestions, ev
 
 So please contribute by commenting, opening an issue, or by submitting a pull request.
 
-The list of feeds is below. Eventually this repo will include the OPML file for easy importing into your reader.
+The list of feeds is below and there's also an OPML (.xml) file that you can import directly into your feed reader of choice.
 
 ## The Feeds
 
