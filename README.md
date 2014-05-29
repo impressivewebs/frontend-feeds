@@ -174,7 +174,7 @@ Divided into the above listed categories...
   <li><a href="http://stackoverflow.com/feeds/tag?tagnames=javascript&sort=newest">Newest questions tagged javascript - Stack Overflow</a></li>
   <li><a href="http://stackoverflow.com/feeds/tag?tagnames=jquery&sort=newest">Newest questions tagged jquery - Stack Overflow</a></li>
   <li><a href="http://stackoverflow.com/feeds/tag?tagnames=css&sort=newest">Newest questions tagged css - Stack Overflow</a></li>
-  <li><a href="http://www.reddit.com/r/css.rss">Cascading Style Sheets</a></li>
+  <li><a href="http://www.reddit.com/r/css.rss">Reddit CSS</a></li>
   <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=53">SitePoint Forums - CSS & Page Layout</a></li>
   <li><a href="http://www.sitepoint.com/forums/external.php?type=RSS2&forumids=15">SitePoint Forums - JavaScript & jQuery</a></li>
   <li><a href="http://css-tricks.com/forums/feed">CSS-Tricks Forum Posts</a></li>
