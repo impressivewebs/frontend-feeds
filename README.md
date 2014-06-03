@@ -142,6 +142,7 @@ Divided into the above listed categories...
   <li><a href="http://feeds.feedburner.com/456bereastreet">456 Berea Street</a></li>
   <li><a href="http://feeds.feedburner.com/redteamdesign">RedTeamDesign</a></li>
   <li><a href="http://www.heydonworks.com/rss.php">HeydonWorks</a></li>
+  <li><a href="http://http://feeds.feedburner.com/cloudfour">Cloud Four</a></li>
 </ul>
 
 ### Feedception (News lists, link lists, etc.)
