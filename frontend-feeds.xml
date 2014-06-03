@@ -141,6 +141,7 @@
             <outline type="rss" title="HTML5 Weekly" text="HTML5 Weekly" htmlUrl="http://html5weekly.com/rss/1e4m5lnd" xmlUrl="http://html5weekly.com/rss/1e4m5lnd"/>
             <outline type="rss" title="appendTo » A2 Newsletters" text="appendTo » A2 Newsletters" htmlUrl="http://appendto.com/modern-web-observer/archive/feed" xmlUrl="http://appendto.com/modern-web-observer/archive/feed"/>
             <outline type="rss" title="Mobile Web Weekly" text="Mobile Web Weekly" htmlUrl="http://mobilewebweekly.co/rss/1o7ebm00" xmlUrl="http://mobilewebweekly.co/rss/1o7ebm00"/>
+            <outline type="rss" title="Web Development Reading List" text="Web Development Reading List" htmlUrl="http://wdrl.info/feed.xml" xmlUrl="http://wdrl.info/feed.xml"/>
         </outline>
         <outline title="Q&amp;A" text="Q&amp;A">
             <outline type="rss" title="Newest questions tagged javascript - Stack Overflow" text="Newest questions tagged javascript - Stack Overflow" htmlUrl="http://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest"/>

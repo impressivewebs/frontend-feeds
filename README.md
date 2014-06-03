@@ -1,6 +1,6 @@
 # Front-end Feeds (Work in Progress!)
 
-An up to date list of RSS feeds for front-end developers.
+An up-to-date list of RSS feeds for front-end developers.
 
 This list is a modified version of [Paul Irish's list of front-end feeds](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/). I've taken the most relevant feeds from his list and created a new feeds list.
 
@@ -170,6 +170,7 @@ Divided into the above listed categories...
   <li><a href="http://html5weekly.com/rss/1e4m5lnd">HTML5 Weekly</a></li>
   <li><a href="http://appendto.com/modern-web-observer/archive/feed/">The Modern Web Observer</a></li>
   <li><a href="http://mobilewebweekly.co/rss/1o7ebm00">Mobile Web Weekly</a></li>
+  <li><a href="http://wdrl.info/feed.xml">Web Development Reading List</a></li>
 </ul>
 
 ### Q&A (Stack Overflow, etc.)
