@@ -164,7 +164,7 @@ Divided into the above listed categories...
   <li><a href="http://sidebar.io/feed.xml">Sidebar</a></li>
   <li><a href="http://feeds.feedburner.com/CSS-Weekly">CSS Weekly</a></li>
   <li><a href="http://javascriptweekly.com/rss/161kj581">JavaScript Weekly</a></li>
-  <li><a href="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d">Web Tools Weekly Archive Feed</a></li>
+  <li><a href="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d">Web Tools Weekly</a></li>
   <li><a href="http://html5weekly.com/rss/1e4m5lnd">HTML5 Weekly</a></li>
   <li><a href="http://appendto.com/modern-web-observer/archive/feed/">The Modern Web Observer</a></li>
 </ul>

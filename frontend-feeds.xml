@@ -135,7 +135,7 @@
             <outline type="rss" title="CSS Weekly" text="CSS Weekly" htmlUrl="http://feeds.feedburner.com/CSS-Weekly" xmlUrl="http://feeds.feedburner.com/CSS-Weekly"/>
             <outline type="rss" title="Design Pepper" text="Design Pepper" htmlUrl="http://designpepper.com/atom.xml" xmlUrl="http://designpepper.com/atom.xml"/>
             <outline type="rss" title="JavaScript Weekly" text="JavaScript Weekly" htmlUrl="http://javascriptweekly.com/rss/161kj581" xmlUrl="http://javascriptweekly.com/rss/161kj581"/>
-            <outline type="rss" title="Web Tools Weekly Archive Feed" text="Web Tools Weekly Archive Feed" htmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d" xmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d"/>
+            <outline type="rss" title="Web Tools Weekly" text="Web Tools Weekly" htmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d" xmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d"/>
             <outline type="rss" title="HTML5 Weekly" text="HTML5 Weekly" htmlUrl="http://html5weekly.com/rss/1e4m5lnd" xmlUrl="http://html5weekly.com/rss/1e4m5lnd"/>
             <outline type="rss" title="appendTo » A2 Newsletters" text="appendTo » A2 Newsletters" htmlUrl="http://appendto.com/modern-web-observer/archive/feed" xmlUrl="http://appendto.com/modern-web-observer/archive/feed"/>
         </outline>
