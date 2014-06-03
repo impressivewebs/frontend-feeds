@@ -106,6 +106,7 @@
             <outline type="rss" title="CSSmojo" text="CSSmojo" htmlUrl="http://www.cssmojo.com/rss.xml" xmlUrl="http://www.cssmojo.com/rss.xml"/>
             <outline type="rss" title="456 Berea Street" text="456 Berea Street" htmlUrl="http://feeds.feedburner.com/456bereastreet" xmlUrl="http://feeds.feedburner.com/456bereastreet"/>
             <outline type="rss" title="RedTeamDesign" text="RedTeamDesign" htmlUrl="http://feeds.feedburner.com/redteamdesign" xmlUrl="http://feeds.feedburner.com/redteamdesign"/>
+            <outline type="rss" title="HeydonWorks" text="HeydonWorks" htmlUrl="http://www.heydonworks.com/rss.php" xmlUrl="http://www.heydonworks.com/rss.php"/>
         </outline>
         <outline title="Podcasts" text="Podcasts">
             <outline type="rss" title="Javascript Jabber" text="Javascript Jabber" htmlUrl="http://feeds.feedburner.com/JavascriptJabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber"/>
