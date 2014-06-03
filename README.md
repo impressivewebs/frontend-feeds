@@ -205,6 +205,5 @@ Divided into the above listed categories...
 I'd also like to include the following feeds, but the feeds aren't working or else they don't have one that I can see:
 
 http://lab.alexcican.com/<br>
-http://filamentgroup.com/lab/<br>
 http://www.nngroup.com/articles/<br>
 http://daverupert.com/atom.xml<br>
