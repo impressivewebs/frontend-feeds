@@ -167,6 +167,7 @@ Divided into the above listed categories...
   <li><a href="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&id=104d6bcc2d">Web Tools Weekly</a></li>
   <li><a href="http://html5weekly.com/rss/1e4m5lnd">HTML5 Weekly</a></li>
   <li><a href="http://appendto.com/modern-web-observer/archive/feed/">The Modern Web Observer</a></li>
+  <li><a href="http://mobilewebweekly.co/rss/1o7ebm00">Mobile Web Weekly</a></li>
 </ul>
 
 ### Q&A (Stack Overflow, etc.)
