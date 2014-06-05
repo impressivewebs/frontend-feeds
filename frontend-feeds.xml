@@ -110,6 +110,8 @@
             <outline type="rss" title="Cloud Four" text="Cloud Four" htmlUrl="http://feeds.feedburner.com/cloudfour" xmlUrl="http://feeds.feedburner.com/cloudfour"/>
             <outline type="rss" title="Filament Group" text="Filament Group" htmlUrl="http://filamentgroup.com/lab/atom.xml" xmlUrl="http://filamentgroup.com/lab/atom.xml"/>
             <outline type="rss" title="Web Reflection" text="Web Reflection" htmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss"/>
+            <outline type="rss" title="Web Reflection" text="Web Reflection" htmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss"/>
+            <outline type="rss" title="Nicolas Gallagher" text="Nicolas Gallagher" htmlUrl="http://nicolasgallagher.com/feed.xml" xmlUrl="http://nicolasgallagher.com/feed.xml"/>
         </outline>
         <outline title="Podcasts" text="Podcasts">
             <outline type="rss" title="Javascript Jabber" text="Javascript Jabber" htmlUrl="http://feeds.feedburner.com/JavascriptJabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber"/>

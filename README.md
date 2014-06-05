@@ -10,8 +10,8 @@ The feeds list is divided into six sections:
 
 1. Must Read
 2. Great to Read
-3. Dailies and Weeklies
-4. Feedception (News lists, link lists, etc.)
+3. Feedception (News lists, link lists, etc.)
+4. Dailies and Weeklies
 5. Q&A (Stack Overflow, forums, etc.)
 6. Podcasts
 
@@ -145,6 +145,7 @@ Divided into the above listed categories...
   <li><a href="http://feeds.feedburner.com/cloudfour">Cloud Four</a></li>
   <li><a href="http://filamentgroup.com/lab/atom.xml">Filament Group</a></li>
   <li><a href="http://webreflection.blogspot.com/feeds/posts/default?alt=rss">Web Reflection</a></li>
+  <li><a href="http://nicolasgallagher.com/feed.xml">Nicolas Gallagher</a></li>
 </ul>
 
 ### Feedception (News lists, link lists, etc.)
