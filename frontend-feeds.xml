@@ -112,6 +112,7 @@
             <outline type="rss" title="Web Reflection" text="Web Reflection" htmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss"/>
             <outline type="rss" title="Web Reflection" text="Web Reflection" htmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss"/>
             <outline type="rss" title="Nicolas Gallagher" text="Nicolas Gallagher" htmlUrl="http://nicolasgallagher.com/feed.xml" xmlUrl="http://nicolasgallagher.com/feed.xml"/>
+            <outline type="rss" title="Osvaldas Valutis" text="Osvaldas Valutis" htmlUrl="http://osvaldas.info/rss/blog/" xmlUrl="http://osvaldas.info/rss/blog/"/>
         </outline>
         <outline title="Podcasts" text="Podcasts">
             <outline type="rss" title="Javascript Jabber" text="Javascript Jabber" htmlUrl="http://feeds.feedburner.com/JavascriptJabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber"/>

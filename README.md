@@ -146,6 +146,7 @@ Divided into the above listed categories...
   <li><a href="http://filamentgroup.com/lab/atom.xml">Filament Group</a></li>
   <li><a href="http://webreflection.blogspot.com/feeds/posts/default?alt=rss">Web Reflection</a></li>
   <li><a href="http://nicolasgallagher.com/feed.xml">Nicolas Gallagher</a></li>
+  <li><a href="http://osvaldas.info/rss/blog/">Osvaldas Valutis</a></li>
 </ul>
 
 ### Feedception (News lists, link lists, etc.)
