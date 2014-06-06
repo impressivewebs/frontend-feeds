@@ -202,6 +202,7 @@ Divided into the above listed categories...
   <li><a href="http://vimeo.com/fripfrap/videos/rss">Vimeo / Frip Frap's videos</a></li>
   <li><a href="http://backtofrontshow.com/feed">The Back to Front Show</a></li>
   <li><a href="http://gdata.youtube.com/feeds/base/users/sassbites/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile">Sass Bites YouTube Podcast</a></li>
+  <li><a href="http://www.modern.ie/en-us/podcast/rss">modern.IE Podcast</a></li>
 </ul>
 
 ## Missing Feeds?
