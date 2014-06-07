@@ -125,7 +125,8 @@
             <outline type="rss" title="Vimeo / Frip Frap's videos" text="Vimeo / Frip Frap's videos" htmlUrl="http://vimeo.com/fripfrap/videos/rss" xmlUrl="http://vimeo.com/fripfrap/videos/rss"/>
             <outline type="rss" title="The Back to Front Show" text="The Back to Front Show" htmlUrl="http://backtofrontshow.com/feed" xmlUrl="http://backtofrontshow.com/feed"/>
             <outline type="rss" title="Uploads by Sass Bites Podcast" text="Uploads by Sass Bites Podcast" htmlUrl="http://gdata.youtube.com/feeds/base/users/sassbites/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" xmlUrl="http://gdata.youtube.com/feeds/base/users/sassbites/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile"/>
-            <outline type="rss" title="modern.IE Podcast" text="odern.IE Podcast" htmlUrl="http://www.modern.ie/en-us/podcast/rss" xmlUrl="http://www.modern.ie/en-us/podcast/rss"/>
+            <outline type="rss" title="modern.IE Podcast" text="modern.IE Podcast" htmlUrl="http://www.modern.ie/en-us/podcast/rss" xmlUrl="http://www.modern.ie/en-us/podcast/rss"/>
+            <outline type="rss" title="workingdraft.de" text="workingdraft.de (unfortunately only in German)" htmlUrl="http://workingdraft.de/feed" xmlUrl="http://workingdraft.de/feed"/>
         </outline>
         <outline title="Feedception" text="Feedception">
             <outline type="rss" title="Aaron T. Grogg" text="Aaron T. Grogg" htmlUrl="http://aarontgrogg.com/feed" xmlUrl="http://aarontgrogg.com/feed"/>
