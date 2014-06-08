@@ -1,6 +1,6 @@
 # 前端信息源(整理中)
 
-为前端开发工程师提供优质信息源，不定期更新。
+为前端开发工程师提供的优质信息源，不定期更新。
 
 这份列表是[Paul Irish's list of front-end feeds](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/)的修订版，在保留原先相关内容的基础上添加了一些新源。
 
