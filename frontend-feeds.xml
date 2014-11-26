@@ -14,7 +14,7 @@
             <outline type="rss" title="A List Apart: The Abridged Feed" text="A List Apart: The Abridged Feed" htmlUrl="http://feeds.feedburner.com/alistapart/abridged" xmlUrl="http://feeds.feedburner.com/alistapart/abridged"/>
             <outline type="rss" title="Open Web Platform Daily Digest" text="Open Web Platform Daily Digest" htmlUrl="http://feeds.feedburner.com/OpenWebPlatformDailyDigest" xmlUrl="http://feeds.feedburner.com/OpenWebPlatformDailyDigest"/>
             <outline type="rss" title="SitePoint » JavaScript" text="SitePoint » JavaScript" htmlUrl="http://www.sitepoint.com/javascript/feed" xmlUrl="http://www.sitepoint.com/javascript/feed"/>
-            <outline type="rss" title="SitePoint » CSS" text="SitePoint » CSS" htmlUrl="http://www.sitepoint.com/css/feed" xmlUrl="http://www.sitepoint.com/css/feed"/>
+            <outline type="rss" title="SitePoint » HTML & CSS" text="SitePoint » HTML & CSS" htmlUrl="http://www.sitepoint.com/html-css/feed/" xmlUrl="http://www.sitepoint.com/html-css/feed/"/>
             <outline type="rss" title="Smashing Magazine" text="Smashing Magazine" htmlUrl="http://www.smashingmagazine.com/feed" xmlUrl="http://www.smashingmagazine.com/feed"/>
         </outline>
         <outline title="Great to Read" text="Great to Read">
@@ -36,7 +36,6 @@
             <outline type="rss" title="journal" text="journal" htmlUrl="http://www.markboulton.co.uk/journal/feed" xmlUrl="http://www.markboulton.co.uk/journal/feed"/>
             <outline type="rss" title="CSS Wizardry" text="CSS Wizardry" htmlUrl="http://feeds.feedburner.com/csswizardrycom" xmlUrl="http://feeds.feedburner.com/csswizardrycom"/>
             <outline type="rss" title="Trent Walton" text="Trent Walton" htmlUrl="http://trentwalton.com/feed" xmlUrl="http://trentwalton.com/feed"/>
-            <outline type="rss" title="JeffCroft.com" text="JeffCroft.com" htmlUrl="http://jeffcroft.com/feeds/latest-items" xmlUrl="http://jeffcroft.com/feeds/latest-items"/>
             <outline type="rss" title="NCZOnline" text="NCZOnline" htmlUrl="http://feeds.feedburner.com/nczonline" xmlUrl="http://feeds.feedburner.com/nczonline"/>
             <outline type="rss" title="The CSS Ninja" text="The CSS Ninja" htmlUrl="http://feeds.feedburner.com/TheCSSNinja" xmlUrl="http://feeds.feedburner.com/TheCSSNinja"/>
             <outline type="rss" title="Adactio: Journal" text="Adactio: Journal" htmlUrl="http://adactio.com/journal/rss" xmlUrl="http://adactio.com/journal/rss"/>
@@ -66,8 +65,7 @@
             <outline type="rss" title="The Sass Way" text="The Sass Way" htmlUrl="http://feeds.feedburner.com/thesassway" xmlUrl="http://feeds.feedburner.com/thesassway"/>
             <outline type="rss" title="Brad Frost Web » Brad Frost Web | Web Design, Speaking, Consulting, Music, and Art" text="Brad Frost Web » Brad Frost Web | Web Design, Speaking, Consulting, Music, and Art" htmlUrl="http://feeds.feedburner.com/brad-frosts-blog" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog"/>
             <outline type="rss" title="Philip Walton" text="Philip Walton" htmlUrl="http://feeds.feedburner.com/philipwalton" xmlUrl="http://feeds.feedburner.com/philipwalton"/>
-            <outline type="rss" title="HugoGiraudel.com" text="HugoGiraudel.com" htmlUrl="http://hugogiraudel.com/feeds/feed.xml" xmlUrl="http://hugogiraudel.com/feeds/feed.xml"/>
-            <outline type="rss" title="Flippin' Awesome" text="Flippin' Awesome" htmlUrl="http://feeds.feedburner.com/FlippinAwesome" xmlUrl="http://feeds.feedburner.com/FlippinAwesome"/>
+            <outline type="rss" title="HugoGiraudel.com" text="HugoGiraudel.com" htmlUrl="http://hugogiraudel.com/rss" xmlUrl="http://hugogiraudel.com/rss"/>
             <outline type="rss" title="Perishable Press" text="Perishable Press" htmlUrl="http://feeds.feedburner.com/perishablepress" xmlUrl="http://feeds.feedburner.com/perishablepress"/>
             <outline type="rss" title="QuirksBlog" text="QuirksBlog" htmlUrl="http://www.quirksmode.org/blog/index.xml" xmlUrl="http://www.quirksmode.org/blog/index.xml"/>
             <outline type="rss" title="Bruce Lawson's personal site" text="Bruce Lawson's personal site" htmlUrl="http://www.brucelawson.co.uk/feed" xmlUrl="http://www.brucelawson.co.uk/feed"/>
@@ -86,7 +84,6 @@
             <outline type="rss" title="Adactio: Articles" text="Adactio: Articles" htmlUrl="http://adactio.com/articles/rss" xmlUrl="http://adactio.com/articles/rss"/>
             <outline type="rss" title="UX Magazine" text="UX Magazine" htmlUrl="http://feeds.uxmag.com/uxm" xmlUrl="http://feeds.uxmag.com/uxm"/>
             <outline type="rss" title="HTML5 Hub" text="HTML5 Hub" htmlUrl="http://html5hub.com/feed" xmlUrl="http://html5hub.com/feed"/>
-            <outline type="rss" title="SitePoint » HTML" text="SitePoint » HTML" htmlUrl="http://www.sitepoint.com/html/feed" xmlUrl="http://www.sitepoint.com/html/feed"/>
             <outline type="rss" title="Tuts+ Web Design" text="Tuts+ Web Design" htmlUrl="http://webdesign.tutsplus.com/posts.atom" xmlUrl="http://webdesign.tutsplus.com/posts.atom"/>
             <outline type="rss" title="SaraSoueidan.com" text="SaraSoueidan.com" htmlUrl="http://feeds.feedburner.com/sarasoueidan" xmlUrl="http://feeds.feedburner.com/sarasoueidan"/>
             <outline type="rss" title="Fleeting Epiphanies" text="Fleeting Epiphanies" htmlUrl="http://blog.w3conversions.com/feed" xmlUrl="http://blog.w3conversions.com/feed"/>
@@ -106,7 +103,7 @@
             <outline type="rss" title="CSSmojo" text="CSSmojo" htmlUrl="http://www.cssmojo.com/rss.xml" xmlUrl="http://www.cssmojo.com/rss.xml"/>
             <outline type="rss" title="456 Berea Street" text="456 Berea Street" htmlUrl="http://feeds.feedburner.com/456bereastreet" xmlUrl="http://feeds.feedburner.com/456bereastreet"/>
             <outline type="rss" title="RedTeamDesign" text="RedTeamDesign" htmlUrl="http://feeds.feedburner.com/redteamdesign" xmlUrl="http://feeds.feedburner.com/redteamdesign"/>
-            <outline type="rss" title="HeydonWorks" text="HeydonWorks" htmlUrl="http://www.heydonworks.com/rss.php" xmlUrl="http://www.heydonworks.com/rss.php"/>
+            <outline type="rss" title="HeydonWorks" text="HeydonWorks" htmlUrl="http://www.heydonworks.com/feed" xmlUrl="http://www.heydonworks.com/feed"/>
             <outline type="rss" title="Cloud Four" text="Cloud Four" htmlUrl="http://feeds.feedburner.com/cloudfour" xmlUrl="http://feeds.feedburner.com/cloudfour"/>
             <outline type="rss" title="Filament Group" text="Filament Group" htmlUrl="http://filamentgroup.com/lab/atom.xml" xmlUrl="http://filamentgroup.com/lab/atom.xml"/>
             <outline type="rss" title="Web Reflection" text="Web Reflection" htmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="http://webreflection.blogspot.com/feeds/posts/default?alt=rss"/>
@@ -153,7 +150,7 @@
             <outline type="rss" title="Newest questions tagged jquery - Stack Overflow" text="Newest questions tagged jquery - Stack Overflow" htmlUrl="http://stackoverflow.com/feeds/tag?tagnames=jquery&amp;sort=newest" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=jquery&amp;sort=newest"/>
             <outline type="rss" title="Newest questions tagged css - Stack Overflow" text="Newest questions tagged css - Stack Overflow" htmlUrl="http://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest"/>
             <outline type="rss" title="Reddit CSS" text="Reddit CSS" htmlUrl="http://www.reddit.com/r/css.rss" xmlUrl="http://www.reddit.com/r/css.rss"/>
-            <outline type="rss" title="SitePoint Forums - CSS &amp;amp; Page Layout" text="SitePoint Forums - CSS &amp;amp; Page Layout" htmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=53" xmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=53"/>
+            <outline type="rss" title="SitePoint Forums - CSS" text="SitePoint Forums - CSS" htmlUrl="http://community.sitepoint.com/c/css.rss.rss" xmlUrl="http://community.sitepoint.com/c/css.rss.rss"/>
             <outline type="rss" title="SitePoint Forums - JavaScript &amp;amp; jQuery" text="SitePoint Forums - JavaScript &amp;amp; jQuery" htmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=15" xmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=15"/>
             <outline type="rss" title="CSS-Tricks » All Posts" text="CSS-Tricks » All Posts" htmlUrl="http://css-tricks.com/forums/feed" xmlUrl="http://css-tricks.com/forums/feed"/>
             <outline type="rss" title="SitePoint Forums - (X)HTML" text="SitePoint Forums - (X)HTML" htmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=52" xmlUrl="http://www.sitepoint.com/forums/external.php?type=RSS2&amp;forumids=52"/>
