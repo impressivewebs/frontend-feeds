@@ -63,7 +63,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://1stwebdesigner.com/feed/">RSS</a>] <a href="https://1stwebdesigner.com">1stwebdesigner</a></li>
   <li>[<a href="https://www.24a11y.com/feed/">RSS</a>] <a href="https://www.24a11y.com">24 Accessibility</a></li>
   <li>[<a href="https://feeds.feedburner.com/24ways">RSS</a>] <a href="https://24ways.org/">24 ways</a></li>
-  <li>[<a href="https://alistapart.com/main/feed/">RSS</a>] <a href="https://alistapart.com">A List Apart: The Abridged Feed</a></li>
+  <li>[<a href="https://alistapart.com/main/feed/">RSS</a>] <a href="https://alistapart.com">A List Apart</a></li>
   <li>[<a href="https://auth0.com/blog/rss.xml">RSS</a>] <a href="https://auth0.com/blog/">Auth0 Blog</a></li>
   <li>[<a href="https://blog.bitsrc.io/feed">RSS</a>] <a href="https://blog.bitsrc.io">Bits and Pieces</a></li>
   <li>[<a href="https://www.codeinwp.com/feed/">RSS</a>] <a href="https://www.codeinwp.com">CodeinWP</a></li>
@@ -75,7 +75,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://blog.fullstacktraining.com/rss/">RSS</a>] <a href="https://blog.fullstacktraining.com/">Full Stack Training</a></li>
   <li>[<a href="https://gomakethings.com/feed/index.xml">RSS</a>] <a href="https://gomakethings.com">Go Make Things</a></li>
   <li>[<a href="https://www.blog.gov.uk/feed/">RSS</a>] <a href="https://www.blog.gov.uk">GOV.UK Blogs</a></li>
-  <li>[<a href="https://feed.infoq.com/javascript/">RSS</a>] <a href="https://www.infoq.com">InfoQ - JavaScript</a></li>
+  <li>[<a href="https://feed.infoq.com/javascript/">RSS</a>] <a href="https://www.infoq.com/javascript/">InfoQ - JavaScript</a></li>
   <li>[<a href="https://www.javascriptjanuary.com/blog?format=rss">RSS</a>] <a href="https://www.javascriptjanuary.com/">JavaScript January</a></li>
   <li>[<a href="https://www.kirupa.com/modular/kirupa.xml">RSS</a>] <a href="https://www.kirupa.com/">Kirupa</a></li>
   <li>[<a href="https://levelup.gitconnected.com/feed">RSS</a>] <a href="https://levelup.gitconnected.com">Level Up Coding</a></li>
@@ -86,7 +86,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.sitepen.com/feed/">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
-  <li>[<a href="https://www.twilio.com/blog/tag/javascript/feed">RSS</a>] <a href="https://www.twilio.com/blog/tag/javascript">javascript - Twilio Blog</a></li>
+  <li>[<a href="https://www.twilio.com/blog/tag/javascript/feed">RSS</a>] <a href="https://www.twilio.com/blog/tag/javascript">Twilio - JavaScript</a></li>
   <li>[<a href="https://vueschool.io/articles/feed/">RSS</a>] <a href="https://vueschool.io/articles">Vue.js Tutorials</a></li>
   <li>[<a href="https://calendar.perfplanet.com/feed/">RSS</a>] <a href="https://calendar.perfplanet.com">Web Performance Calendar</a></li>
   <li>[<a href="https://web.dev/feed.xml">RSS</a>] <a href="https://web.dev">web.dev</a></li>
