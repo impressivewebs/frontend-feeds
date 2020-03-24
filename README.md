@@ -87,7 +87,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
   <li>[<a href="https://www.twilio.com/blog/tag/javascript/feed">RSS</a>] <a href="https://www.twilio.com/blog/tag/javascript">Twilio - JavaScript</a></li>
-  <li>[<a href="https://vueschool.io/articles/feed/">RSS</a>] <a href="https://vueschool.io/articles">Vue.js Tutorials</a></li>
+  <li>[<a href="https://vueschool.io/articles/feed/">RSS</a>] <a href="https://vueschool.io/articles">Vue School</a></li>
   <li>[<a href="https://calendar.perfplanet.com/feed/">RSS</a>] <a href="https://calendar.perfplanet.com">Web Performance Calendar</a></li>
   <li>[<a href="https://web.dev/feed.xml">RSS</a>] <a href="https://web.dev">web.dev</a></li>
 
@@ -183,7 +183,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://kilianvalkhof.com/feed/">RSS</a>] <a href="https://kilianvalkhof.com">Kilian Valkhof</a></li>
   <li>[<a href="https://krasimirtsonev.com/blog/rss">RSS</a>] <a href="http://krasimirtsonev.com/blog">Krasimir Tsonev</a></li>
   <li>[<a href="https://laurakalbag.com/posts/index.xml">RSS</a>] <a href="https://laurakalbag.com/posts/">Laura Kalbag</a></li>
-  <li>[<a href="http://feeds2.feedburner.com/ImpressiveWebs">RSS</a>] <a href="https://www.impressivewebs.com">Louis Lazaris</a></li>
+  <li>[<a href="https://www.impressivewebs.com/feed">RSS</a>] <a href="https://www.impressivewebs.com">Louis Lazaris</a></li>
   <li>[<a href="https://marcozehe.de/feed/">RSS</a>] <a href="https://marcozehe.de">Marco Zehe</a></li>
   <li>[<a href="https://marcus.io/feed">RSS</a>] <a href="https://marcus.io/blog">Marcus Hermann</a></li>
   <li>[<a href="https://feeds.feedburner.com/mariusschulz">RSS</a>] <a href="https://mariusschulz.com">Marius Schulz</a></li>
