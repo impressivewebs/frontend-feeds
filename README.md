@@ -102,7 +102,7 @@ These are large blogs/websites similar to the ones in the previous category that
 These are some of the more popular front-end blogs that feature a single author.
 
 <ul>
-  <li>[<a href="https://addyosmani.com/rss.xml">RSS</a>] <a href="http://addyosmani.com">AddyOsmani.com</a></li>
+  <li>[<a href="https://addyosmani.com/rss.xml">RSS</a>] <a href="http://addyosmani.com">Addy Osmani</a></li>
   <li>[<a href="https://feeds.feedburner.com/2ality">RSS</a>] <a href="https://2ality.com/">Axel Rauschmayer</a></li>
   <li>[<a href="https://feeds.feedburner.com/brad-frosts-blog">RSS</a>] <a href="https://bradfrost.com">Brad Frost</a></li>
   <li>[<a href="https://www.brucelawson.co.uk/feed/">RSS</a>] <a href="https://www.brucelawson.co.uk">Bruce Lawson</a></li>
