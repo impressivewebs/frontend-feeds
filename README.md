@@ -14,10 +14,10 @@ The feeds list is divided into six sections, which I find is easier to digest wh
 4. [More Front-end Bloggers](#more-front-end-bloggers)
 5. [Hackernoon Tags](#hackernoon-tags)
 6. [Browsers, Engines, etc.](#browsers-engines-etc)
-7. [Libraries, Frameworks, etc.](#libraries-framewowrks-etc)
-8. [Company &amp; Startup Blogs](#company-startup-blogs)
-9. [Developer &amp; Designer News](#developer-designer-news)
-10. [Q&amp;A Sites &amp; Forums](#qa-sites-forums)
+7. [Libraries, Frameworks, etc.](#libraries-frameworks-etc)
+8. [Company &amp; Startup Blogs](#company--startup-blogs)
+9. [Developer &amp; Designer News](#developer--designer-news)
+10. [Q&amp;A Sites &amp; Forums](#qa-sites--forums)
 11. [YouTube Channels](#youtube-channels)
 
 I've excluded some feeds from this list for one or more of the following reasons:
