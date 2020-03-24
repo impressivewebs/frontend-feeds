@@ -1,6 +1,6 @@
 # Frontend Feeds (Updated March 2020)
 
-An up-to-date list of RSS feeds for front-end developers.
+An up-to-date list of RSS feeds for front-end developers. [See 2020 blog post](https://www.impressivewebs.com/frontend-rss-feeds-2020/).
 
 Despite the death of Google Reader, I still use RSS regularly, and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
 
