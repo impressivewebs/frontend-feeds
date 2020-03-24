@@ -26,7 +26,7 @@ I've excluded some feeds from this list for one or more of the following reasons
 * Posts are very infrequent (e.g. 2 per year or fewer)
 * Too many personal posts and other things that have nothing to do with web development, with no way to filter
 * Too many list posts, sponsored content, etc.
-* Paywalls (e.g. I've excluded all Medium feeds)
+* Paywalls (e.g. I've excluded most Medium feeds)
 
 
 ## Suggestions?
@@ -254,8 +254,8 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://blog.chromium.org/feeds/posts/default">RSS</a>] <a href="https://blog.chromium.org/">Chromium Blog</a></li>
   <li>[<a href="https://spreadprivacy.com/rss/">RSS</a>] <a href="https://spreadprivacy.com/">DuckDuckGo Blog</a></li>
   <li>[<a href="https://developers.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://developers.googleblog.com/">Google Developers Blog</a></li>
-  <li>[<a href="https://developers.google.com/web/updates/rss.xml">RSS</a>] <a href="https://developers.google.com/web/updates/?utm_source=feed&amp;utm_medium=feed&amp;utm_campaign=updates_feed">Google Developers Updates</a></li>
-  <li>[<a href="https://developers.google.com/web/fundamentals/rss.xml">RSS</a>] <a href="https://developers.google.com/web/fundamentals/?utm_source=feed&amp;utm_medium=feed&amp;utm_campaign=fundamentals_feed">Google Web Fundamentals</a></li>
+  <li>[<a href="https://developers.google.com/web/updates/rss.xml">RSS</a>] <a href="https://developers.google.com/web/updates/">Google Developers Updates</a></li>
+  <li>[<a href="https://developers.google.com/web/fundamentals/rss.xml">RSS</a>] <a href="https://developers.google.com/web/fundamentals/">Google Web Fundamentals</a></li>
   <li>[<a href="https://webmasters.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://webmasters.googleblog.com/">Google Webmaster Central Blog</a></li>
   <li>[<a href="https://blog.mozilla.org/feed/">RSS</a>] <a href="https://blog.mozilla.org">Mozilla Blogs</a></li>
   <li>[<a href="https://hacks.mozilla.org/feed/">RSS</a>] <a href="https://hacks.mozilla.org">Mozilla Hacks</a></li>
@@ -265,7 +265,7 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://www.w3.org/blog/news/feed">RSS</a>] <a href="https://www.w3.org/blog/news">W3C News</a></li>
   <li>[<a href="https://www.w3.org/WAI/feed.xml">RSS</a>] <a href="https://www.w3.org/WAI/">Web Accessibility Initiative</a></li>
   <li>[<a href="https://webaim.org/blog/feed">RSS</a>] <a href="https://webaim.org/blog">WebAIM Blog</a></li>
-  <li>[<a href="https://webkit.org/feed/">RSS</a>] <a href="https://webkit.org">WebKit</a></li>
+  <li>[<a href="https://webkit.org/feed/">RSS</a>] <a href="https://webkit.org/blog/">WebKit Blog</a></li>
   <li>[<a href="https://blog.whatwg.org/feed">RSS</a>] <a href="https://blog.whatwg.org">WHATWG Blog</a></li>
 </ul>
 
@@ -287,7 +287,7 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
   <li>[<a href="https://news.ycombinator.com/showrss">RSS</a>] <a href="https://news.ycombinator.com/">Show HN</a></li>
   <li>[<a href="https://svelte.dev/blog/rss.xml">RSS</a>] <a href="https://svelte.dev/blog">Svelte Blog</a></li>
   <li>[<a href="https://news.vuejs.org/feed.xml">RSS</a>] <a href="https://news.vuejs.org/feed.xml">Vue.js News</a></li>
-  <li>[<a href="https://medium.com/feed/the-vue-point">RSS</a>] <a href="https://medium.com/the-vue-point">The Vue Point - Medium</a></li>
+  <li>[<a href="https://medium.com/feed/the-vue-point">RSS</a>] <a href="https://medium.com/the-vue-point">The Vue Point</a></li>
 </ul>
 
 
@@ -315,7 +315,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://www.levelaccess.com/feed/">RSS</a>] <a href="https://www.levelaccess.com">Level Access</a></li>
   <li>[<a href="https://blog.logrocket.com/feed/">RSS</a>] <a href="https://blog.logrocket.com">LogRocket</a></li>
   <li>[<a href="https://www.machmetrics.com/speed-blog/feed/">RSS</a>] <a href="https://www.machmetrics.com/speed-blog">MachMetrics Speed Blog</a></li>
-  <li>[<a href="https://netflixtechblog.com/feed">RSS</a>] <a href="https://netflixtechblog.com">Netflix TechBlog - Medium</a></li>
+  <li>[<a href="https://netflixtechblog.com/feed">RSS</a>] <a href="https://netflixtechblog.com">Netflix TechBlog</a></li>
   <li>[<a href="https://blog.npmjs.org/rss">RSS</a>] <a href="https://blog.npmjs.org/">npm blog</a></li>
   <li>[<a href="https://www.shimmercat.com/feed.xml">RSS</a>] <a href="https://www.shimmercat.com/">ShimmerCat</a></li>
   <li>[<a href="https://engineering.shopify.com/blogs/engineering.atom">RSS</a>] <a href="https://engineering.shopify.com/blogs/engineering">Shopify Engineering</a></li>
