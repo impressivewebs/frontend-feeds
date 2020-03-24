@@ -80,9 +80,9 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.kirupa.com/modular/kirupa.xml">RSS</a>] <a href="https://www.kirupa.com/">Kirupa</a></li>
   <li>[<a href="https://levelup.gitconnected.com/feed">RSS</a>] <a href="https://levelup.gitconnected.com">Level Up Coding</a></li>
   <li>[<a href="https://love2dev.com/feed.rss">RSS</a>] <a href="https://love2dev.com/">Love2Dev</a></li>
-  <li>[<a href="https://www.nngroup.com/feed/rss/">RSS</a>] <a href="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</a></li>
+  <li>[<a href="https://www.nngroup.com/feed/rss/">RSS</a>] <a href="https://www.nngroup.com/">Nielsen Norman Group</a></li>
   <li>[<a href="https://developer.paciellogroup.com/feed/">RSS</a>] <a href="https://developer.paciellogroup.com">Paciello Group Blog</a></li>
-  <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="http://scotch.io/feed">Scotch.io</a></li>
+  <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="http://scotch.io/">Scotch.io</a></li>
   <li>[<a href="https://www.sitepen.com/feed/">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
@@ -286,7 +286,7 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
   <li>[<a href="https://sass-lang.com/feed.xml">RSS</a>] <a href="https://sass-lang.com/blog">Sass Blog</a></li>
   <li>[<a href="https://news.ycombinator.com/showrss">RSS</a>] <a href="https://news.ycombinator.com/">Show HN</a></li>
   <li>[<a href="https://svelte.dev/blog/rss.xml">RSS</a>] <a href="https://svelte.dev/blog">Svelte Blog</a></li>
-  <li>[<a href="https://news.vuejs.org/feed.xml">RSS</a>] <a href="https://news.vuejs.org/feed.xml">Vue.js News</a></li>
+  <li>[<a href="https://news.vuejs.org/feed.xml">RSS</a>] <a href="https://news.vuejs.org/">Vue.js News</a></li>
   <li>[<a href="https://medium.com/feed/the-vue-point">RSS</a>] <a href="https://medium.com/the-vue-point">The Vue Point</a></li>
 </ul>
 
