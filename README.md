@@ -37,7 +37,7 @@ The list of feeds is in an [OPML file](https://file.org/extension/opml) that you
 
 
 ## The List of Feeds
-Here is the full list of feeds, categorized the same way as in the OPML file. This list is alphabetical, whereas the OPML file is not. But that shouldn't be a problem because your feed reader should organize the feeds alphabetically on import.
+Here is the full list of feeds, categorized the same way as in the OPML file. This list is alphabetical within each category, whereas the OPML file is not. But that shouldn't be a problem because your feed reader should organize the feeds alphabetically (in each top-level category) on import.
 
 
 ### The Giants
