@@ -14,7 +14,6 @@
       <outline type="rss" title="SitePoint" text="SitePoint" htmlUrl="http://www.sitepoint.com/" xmlUrl="https://www.sitepoint.com/feed/"/>
       <outline type="rss" title="Tuts+ Code" text="Tuts+ Code" htmlUrl="https://code.tutsplus.com/" xmlUrl="https://code.tutsplus.com/posts.atom"/>
       <outline type="rss" title="Hacker News" text="Hacker News" htmlUrl="https://news.ycombinator.com/" xmlUrl="https://news.ycombinator.com/rss"/>
-      <outline type="rss" title="Show Hacker News" text="Show Hacker News" htmlUrl="https://news.ycombinator.com/show" xmlUrl="https://news.ycombinator.com/showrss"/>
     </outline>
 
     <outline title="Multi-Author Sites" text="Multi-Author Blogs">
@@ -214,6 +213,7 @@
       <outline type="rss" title="Svelte Blog" text="Svelte Blog" htmlUrl="https://svelte.dev/blog" xmlUrl="https://svelte.dev/blog/rss.xml"/>
       <outline type="rss" title="GSAP Blog" text="GSAP Blog" htmlUrl="https://greensock.com/blog/" xmlUrl="https://greensock.com/blog/?rss=1"/>
       <outline type="rss" title="Sass Blog" text="Sass Blog" htmlUrl="https://sass-lang.com/blog" xmlUrl="https://sass-lang.com/feed.xml"/>
+      <outline type="rss" title="Show Hacker News" text="Show Hacker News" htmlUrl="https://news.ycombinator.com/show" xmlUrl="https://news.ycombinator.com/showrss"/>
       <outline type="rss" title="Babel.js Blog" text="Babel.js Blog" htmlUrl="https://babeljs.io/blog/" xmlUrl="https://babeljs.io/blog/atom.xml"/>
       <outline type="rss" title="Inclusive Components" text="Inclusive Components" htmlUrl="https://inclusive-components.design/" xmlUrl="https://inclusive-components.design/rss/"/>
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="https://nodejs.org/en/blog/" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
@@ -237,6 +237,7 @@
       <outline type="rss" title="Level Access" text="Level Access" htmlUrl="https://www.levelaccess.com/" xmlUrl="https://www.levelaccess.com/feed/"/>
       <outline type="rss" title="Axess Lab" text="Axess Lab" htmlUrl="https://axesslab.com/articles/" xmlUrl="https://axesslab.com/feed/"/>
       <outline type="rss" title="GitHub Engineering" text="GitHub Engineering" htmlUrl="https://githubengineering.com/" xmlUrl="https://github.blog/engineering.atom"/>
+      <outline type="rss" title="Heroku Blog" text="Heroku Blog" htmlUrl="https://blog.heroku.com/" xmlUrl="https://blog.heroku.com/feed"/>
       <outline type="rss" title="Volument Blog" text="Volument Blog" htmlUrl="https://volument.com/blog/" xmlUrl="https://volument.com/rss.xml"/>
       <outline type="rss" title="thoughtbot" text="thoughtbot" htmlUrl="https://thoughtbot.com/blog" xmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"/>
       <outline type="rss" title="Netflix TechBlog" text="Netflix TechBlog" htmlUrl="https://netflixtechblog.com/" xmlUrl="https://netflixtechblog.com/feed"/>
