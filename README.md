@@ -352,8 +352,10 @@ These are category feeds from Stack Overflow and front-end related subreddit fee
   <li>[<a href="http://www.reddit.com/r/css.rss">RSS</a>] <a href="https://www.reddit.com/r/css">/r/css</a></li>
   <li>[<a href="https://www.reddit.com/r/javascript.rss">RSS</a>] <a href="https://www.reddit.com/r/javascript">/r/javascript</a></li>
   <li>[<a href="https://www.reddit.com/r/reactjs.rss">RSS</a>] <a href="https://www.reddit.com/r/reactjs">/r/reactjs</a></li>
+  <li>[<a href="https://www.reddit.com/r/vuejs.rss">RSS</a>] <a href="https://www.reddit.com/r/vuejs">/r/vuejs</a></li>
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=javascript&amp;sort=newest">Stack Overflow - JavaScript</a></li>
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=reactjs&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=reactjs&amp;sort=newest">Stack Overflow - React</a></li>
+  <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=vue.js&amp;sort=newest">Stack Overflow - Vue</a></li>
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=css&amp;sort=newest">Stack Overflow - CSS</a></li>
 </ul>
 
@@ -365,7 +367,7 @@ These are RSS feeds for YouTube channels. I'm sure I could add a lot more to thi
 
 <ul>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCfV36TX5AejfAGIbtwTc7Zw">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris Hawkes's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks' YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA">RSS</a>] <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q">RSS</a>] <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function's YouTube Videos</a></li>

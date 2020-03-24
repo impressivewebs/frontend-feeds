@@ -264,13 +264,15 @@
       <outline type="rss" title="JavaSript - Stack Overflow" text="JavaSript - Stack Overflow" htmlUrl="https://stackoverflow.com/questions/tagged/javascript" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest"/>
       <outline type="rss" title="React - Stack Overflow" text="React - Stack Overflow" htmlUrl="https://stackoverflow.com/questions/tagged/reactjs" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=reactjs&amp;sort=newest"/>
       <outline type="rss" title="CSS - Stack Overflow" text="CSS - Stack Overflow" htmlUrl="https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest"/>
+      <outline type="rss" title="Vue - Stack Overflow" text="Vue - Stack Overflow" htmlUrl="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest"/>
       <outline type="rss" title="/r/css" text="/r/css" htmlUrl="http://www.reddit.com/r/css" xmlUrl="http://www.reddit.com/r/css.rss"/>
       <outline type="rss" title="/r/javascript" text="/r/javascript" htmlUrl="https://www.reddit.com/r/javascript/" xmlUrl="https://www.reddit.com/r/javascript.rss"/>
       <outline type="rss" title="/r/reactjs" text="/r/reactjs" htmlUrl="https://www.reddit.com/r/reactjs/" xmlUrl="https://www.reddit.com/r/reactjs.rss"/>
+      <outline type="rss" title="/r/vuejs" text="/r/vuejs" htmlUrl="https://www.reddit.com/r/vuejs/" xmlUrl="https://www.reddit.com/r/vuejs.rss"/>
     </outline>
 
     <outline title="11 - YouTube Channels" text="11 - YouTube Channels">
-      <outline htmlUrl="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA" text="CSS-Tricks' YouTube Videos" title="CSS-Tricks' YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCxQvqii1ZqheK2UFB0jYPEA" text="Web Tools Weekly's YouTube Videos" title="Web Tools Weekly's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQvqii1ZqheK2UFB0jYPEA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCSDtqcJ8ZXviPrEcj1vuLiQ" text="Smashing Magazine's YouTube Videos" title="Smashing Magazine's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSDtqcJ8ZXviPrEcj1vuLiQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" text="freeCodeCamp.org's YouTube Videos" title="freeCodeCamp.org's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ" />
