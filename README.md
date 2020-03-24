@@ -8,17 +8,17 @@ This list was originally inspired by Paul Irish's list of front-end feeds [from 
 
 The feeds list is divided into six sections, which I find is easier to digest when perusing it all weekly, or even daily:
 
-1. The Giants
-2. Multi-author Blogs
-3. Top Front-end Bloggers
-4. More Front-end Bloggers
-5. Hackernoon Tags
-6. Browsers, Engines, etc.
-7. Libraries, Frameworks, etc.
-8. Company/Startup Blogs
-9. Developer/Designer News
-10. Q&amp;A Sites
-11. YouTube Channels
+1. [The Giants](#the-giants)
+2. [Multi-author Blogs](#multi-author-blogs)
+3. [Top Front-end Bloggers](#top-front-end-bloggers)
+4. [More Front-end Bloggers](#more-front-end-bloggers)
+5. [Hackernoon Tags](#hackernoon-tags)
+6. [Browsers, Engines, etc.](#browsers-engines-etc)
+7. [Libraries, Frameworks, etc.](#libraries-framewowrks-etc)
+8. [Company &amp; Startup Blogs](#company-startup-blogs)
+9. [Developer &amp; Designer News](#developer-designer-news)
+10. [Q&amp;A Sites &amp; Forums](#qa-sites-forums)
+11. [YouTube Channels](#youtube-channels)
 
 I've excluded some feeds from this list for one or more of the following reasons:
 
@@ -293,7 +293,7 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
 
 
 
-### Company/Startup Blogs
+### Company &amp; Startup Blogs
 These are similar to the multi-author blogs, but are blogs tied to a specific product, startup, company, etc.
 
 <ul>
@@ -328,7 +328,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
 
 
 
-### Developer/Designer News
+### Developer &amp; Designer News
 These are feeds that focus on news, links, etc. In other words, feeds within feeds.
 
 <ul>
@@ -345,7 +345,7 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
 
 
 
-### Q&amp;A Sites / Forums
+### Q&amp;A Sites &amp; Forums
 These are category feeds from Stack Overflow and front-end related subreddit feeds from Reddit.
 
 <ul>
