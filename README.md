@@ -44,8 +44,8 @@ Here is the full list of feeds, categorized the same way as in the OPML file. Th
 These are the sites with the most traffic, most popular, etc.
 
 <ul>
-  <li>[<a href="https://css-tricks.com/feed/">RSS</a>] <a href="https://css-tricks.com">CSS-Tricks</a></li>
   <li>[<a href="https://tympanus.net/codrops/feed/">RSS</a>] <a href="https://tympanus.net/codrops">Codrops</a></li>
+  <li>[<a href="https://css-tricks.com/feed/">RSS</a>] <a href="https://css-tricks.com">CSS-Tricks</a></li>
   <li>[<a href="https://dev.to/feed">RSS</a>] <a href="https://dev.to">DEV Community</a></li>
   <li>[<a href="https://code.tutsplus.com/posts.atom">RSS</a>] <a href="https://code.tutsplus.com">Envato Tuts+ Code</a></li>
   <li>[<a href="https://news.ycombinator.com/rss">RSS</a>] <a href="https://news.ycombinator.com/">Hacker News</a></li>
