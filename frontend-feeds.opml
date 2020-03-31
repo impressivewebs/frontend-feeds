@@ -198,6 +198,7 @@
       <outline type="rss" title="AdBlock Plus Blog" text="AdBlock Plus Blog" htmlUrl="https://adblockplus.org/blog/" xmlUrl="https://adblockplus.org/atom/?section=blog"/>
       <outline type="rss" title="DuckDuckGo Blog" text="DuckDuckGo Blog" htmlUrl="https://spreadprivacy.com/" xmlUrl="https://spreadprivacy.com/rss/"/>
       <outline type="rss" title="Google Web Fundamentals" text="Google Web Fundamentals" htmlUrl="https://developers.google.com/web/fundamentals/" xmlUrl="https://developers.google.com/web/fundamentals/rss.xml"/>
+      <outline type="rss" title="W3C Blog" text="W3C Blog" htmlUrl="https://www.w3.org/blog/" xmlUrl="https://www.w3.org/blog/feed/"/>
       <outline type="rss" title="W3C News" text="W3C News" htmlUrl="https://www.w3.org/blog/news/" xmlUrl="https://www.w3.org/blog/news/feed"/>
       <outline type="rss" title="WebAIM Blog" text="WebAIM Blog" htmlUrl="https://webaim.org/" xmlUrl="https://webaim.org/blog/feed"/>
       <outline type="rss" title="WHATWG Blog" text="WHATWG Blog" htmlUrl="https://blog.whatwg.org/" xmlUrl="https://blog.whatwg.org/feed"/>

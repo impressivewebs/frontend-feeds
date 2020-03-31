@@ -262,6 +262,7 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://blogs.windows.com/msedgedev/feed/">RSS</a>] <a href="https://blogs.windows.com/msedgedev">MS Edge Blog</a></li>
   <li>[<a href="https://blogs.opera.com/news/feed/">RSS</a>] <a href="https://blogs.opera.com/news">Opera News</a></li>
   <li>[<a href="https://v8.dev/blog.atom">RSS</a>] <a href="https://v8.dev/">V8 Blog</a></li>
+  <li>[<a href="https://www.w3.org/blog/feed">RSS</a>] <a href="https://www.w3.org/blog/">W3C Blog</a></li>
   <li>[<a href="https://www.w3.org/blog/news/feed">RSS</a>] <a href="https://www.w3.org/blog/news">W3C News</a></li>
   <li>[<a href="https://www.w3.org/WAI/feed.xml">RSS</a>] <a href="https://www.w3.org/WAI/">Web Accessibility Initiative</a></li>
   <li>[<a href="https://webaim.org/blog/feed">RSS</a>] <a href="https://webaim.org/blog">WebAIM Blog</a></li>
