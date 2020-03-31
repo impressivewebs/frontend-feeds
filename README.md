@@ -50,8 +50,8 @@ These are the sites with the most traffic, most popular, etc.
   <li>[<a href="https://code.tutsplus.com/posts.atom">RSS</a>] <a href="https://code.tutsplus.com">Envato Tuts+ Code</a></li>
   <li>[<a href="https://news.ycombinator.com/rss">RSS</a>] <a href="https://news.ycombinator.com/">Hacker News</a></li>
   <li>[<a href="https://hackernoon.com/feed">RSS</a>] <a href="https://hackernoon.com">Hackernoon</a></li>
-  <li>[<a href="https://www.smashingmagazine.com/feed">RSS</a>] <a href="https://www.smashingmagazine.com/articles/">Smashing Magazine</a></li>
   <li>[<a href="https://www.sitepoint.com/feed/">RSS</a>] <a href="https://www.sitepoint.com">SitePoint</a></li>
+  <li>[<a href="https://www.smashingmagazine.com/feed">RSS</a>] <a href="https://www.smashingmagazine.com/articles/">Smashing Magazine</a></li>
 </ul>
 
 
