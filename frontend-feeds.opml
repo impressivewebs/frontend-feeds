@@ -49,6 +49,7 @@
       <outline type="rss" title="Full Stack Training" text="Full Stack Training" htmlUrl="https://blog.fullstacktraining.com/" xmlUrl="https://blog.fullstacktraining.com/rss/"/>
       <outline type="rss" title="DZone Web Dev" text="DZone Web Dev" htmlUrl="https://dzone.com/web-development-programming-tutorials-tools-news" xmlUrl="http://feeds.dzone.com/webdev"/>
       <outline type="rss" title="WebGL Fundamentals" text="WebGL Fundamentals" htmlUrl="https://webglfundamentals.org/" xmlUrl="https://webglfundamentals.org/atom.xml"/>
+      <outline type="rss" title="Alligator.io" text="Alligator.io" htmlUrl="https://alligator.io/" xmlUrl="https://alligator.io/feed.xml"/>
     </outline>
 
     <outline title="Top Front-end Bloggers" text="Top Front-end Bloggers">
@@ -168,7 +169,9 @@
       <outline type="rss" title="Antoine Vastel" text="Antoine Vastel" htmlUrl="https://antoinevastel.com/" xmlUrl="https://antoinevastel.com/feed.xml"/>
       <outline type="rss" title="Mosh Hamedani" text="Mosh Hamedani" htmlUrl="https://programmingwithmosh.com/" xmlUrl="https://programmingwithmosh.com/feed"/>
       <outline type="rss" title="Preston Lamb" text="Preston Lamb" htmlUrl="https://www.prestonlamb.com/blog/" xmlUrl="https://www.prestonlamb.com/blog-feed.xml"/>
-
+      <outline type="rss" title="Matej Latin" text="Matej Latin" htmlUrl="https://betterwebtype.com/blog/" xmlUrl="https://betterwebtype.com/feed.xml"/>
+      <outline type="rss" title="Sarah L. Fossheim" text="Sarah L. Fossheim" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://fossheim.io/feed.xml"/>
+      <outline type="rss" title="Josh W. Comeau" text="Josh W. Comeau" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://joshwcomeau.com/rss.xml"/>
     </outline>
 
     <outline title="Hackernoon Tags" text="Hackernoon Tags">
@@ -247,6 +250,7 @@
       <outline type="rss" title="ShimmerCat Blog" text="ShimmerCat Blog" htmlUrl="https://www.shimmercat.com/blog/" xmlUrl="https://www.shimmercat.com/feed.xml"/>
       <outline type="rss" title="Code as Craft (Etsy Engineering)" text="Code as Craft (Etsy Engineering)" htmlUrl="https://codeascraft.com/" xmlUrl="https://codeascraft.com/feed/"/>
       <outline type="rss" title="Twitter Engineering" text="Twitter Engineering" htmlUrl="https://blog.twitter.com/engineering/" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss"/>
+      <outline type="rss" title="9elements Blog" text="9elements Blog" htmlUrl="https://9elements.com/blog" xmlUrl="https://9elements.com/blog/rss/"/>
     </outline>
 
     <outline title="Developer/Designer News" text="Developer/Designer News">

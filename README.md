@@ -158,6 +158,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://bryanlrobinson.com/feed.xml">RSS</a>] <a href="https://bryanlrobinson.com">Bryan Robinson</a></li>
   <li>[<a href="https://catalin.red/feed">RSS</a>] <a href="https://catalin.red/">Catalin Rosu</a></li>
   <li>[<a href="https://www.chenhuijing.com/feed.xml">RSS</a>] <a href="https://www.chenhuijing.com/">Chen Hui Jing</a></li>
+  <li>[<a href="https://joshwcomeau.com/rss.xml">RSS</a>] <a href="https://joshwcomeau.com/">Josh W. Comeau</a></li>
   <li>[<a href="https://www.dan-davies.co.uk/feed">RSS</a>] <a href="https://www.dan-davies.co.uk">Dan Davies</a></li>
   <li>[<a href="https://daveceddia.com/feed.xml">RSS</a>] <a href="https://daveceddia.com">Dave Ceddia</a></li>
   <li>[<a href="https://dbushell.com/rss.xml">RSS</a>] <a href="https://dbushell.com">David Bushell</a></li>
@@ -189,6 +190,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://feeds.feedburner.com/mariusschulz">RSS</a>] <a href="https://mariusschulz.com">Marius Schulz</a></li>
   <li>[<a href="https://blog.isquaredsoftware.com/index.xml">RSS</a>] <a href="https://blog.isquaredsoftware.com/">Mark Erikson</a></li>
   <li>[<a href="https://markosaric.com/feed/">RSS</a>] <a href="https://markosaric.com">Marko Saric</a></li>
+  <li>[<a href="https://betterwebtype.com/feed.xml">RSS</a>] <a href="https://betterwebtype.com/feed.xml">Matej Latin</a></li>
   <li>[<a href="https://mxstbr.blog/feed.atom">RSS</a>] <a href="https://mxstbr.blog/">Max Stoiber</a></li>
   <li>[<a href="https://justmarkup.com/feed/feed.xml">RSS</a>] <a href="https://justmarkup.com/log">Michael Scharnagl</a></li>
   <li>[<a href="https://css-irl.info/rss.xml">RSS</a>] <a href="https://css-irl.info">Michelle Barker</a></li>
@@ -207,6 +209,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://feeds.feedburner.com/robertnyman">RSS</a>] <a href="https://robertnyman.com">Robert's Nyman</a></li>
   <li>[<a href="https://www.robinosborne.co.uk/feed/">RSS</a>] <a href="https://www.robinosborne.co.uk">Robin Osborne</a></li>
   <li>[<a href="https://www.robinwieruch.de/index.xml">RSS</a>] <a href="https://www.robinwieruch.de">Robin Wieruch</a></li>
+  <li>[<a href="https://fossheim.io/feed.xml">RSS</a>] <a href="https://fossheim.io/writing/">Sarah L. Fossheim</a></li>
   <li>[<a href="https://www.scottohara.me/feed.xml">RSS</a>] <a href="https://scottohara.me//">Scott O’Hara</a></li>
   <li>[<a href="https://scottvinkle.me/blogs/blog.atom">RSS</a>] <a href="https://scottvinkle.me/blogs/blog">Scott Vinkle</a></li>
   <li>[<a href="https://www.swyx.io/rss.xml">RSS</a>] <a href="https://swyx.io">Sean Wang</a></li>
@@ -222,7 +225,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.trysmudford.com/blog/index.xml">RSS</a>] <a href="https://www.trysmudford.com/blog/">Trys Mudford</a></li>
   <li>[<a href="http://thecodebarbarian.com/feed.xml">RSS</a>] <a href="http://thecodebarbarian.com">Valeri Karpov</a></li>
   <li>[<a href="https://viljamis.com/atom.xml">RSS</a>] <a href="https://viljamis.com/">Viljami Salminen</a></li>
-  <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>  
+  <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>
 </ul>
 
 
@@ -298,6 +301,8 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
 These are similar to the multi-author blogs, but are blogs tied to a specific product, startup, company, etc.
 
 <ul>
+  <li>[<a href="https://9elements.com/blog/rss">RSS</a>] <a href="https://9elements.com/blog/">9elements Blog</a></li>
+  <li>[<a href="https://alligator.io/feed.xml">RSS</a>] <a href="https://alligator.io/">Alligator.io</a></li>
   <li>[<a href="https://americanexpress.io/feed.xml">RSS</a>] <a href="https://americanexpress.io/">AMEX Technology</a></li>
   <li>[<a href="https://axesslab.com/feed/">RSS</a>] <a href="https://axesslab.com">Axess Lab</a></li>
   <li>[<a href="https://bocoup.com/feed">RSS</a>] <a href="https://bocoup.com">Bocoup</a></li>
