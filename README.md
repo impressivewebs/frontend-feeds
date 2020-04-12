@@ -152,6 +152,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://ashleynolan.co.uk/feed.xml">RSS</a>] <a href="https://www.ashleynolan.co.uk/">Ashley Nolan</a></li>
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
   <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="http://benmccormick.org">Ben McCormick</a></li>
+  <li>[<a href="https://blog.benmyers.dev/feed.xml">RSS</a>] <a href="https://blog.benmyers.dev/">Ben Myers</a></li>
   <li>[<a href="https://uglyduck.ca/atom.xml">RSS</a>] <a href="https://uglyduck.ca/">Bradley Taunt</a></li>
   <li>[<a href="https://www.bram.us/feed/">RSS</a>] <a href="https://www.bram.us">Bram Van Damme</a></li>
   <li>[<a href="https://remotesynthesis.com/feed.xml">RSS</a>] <a href="https://remotesynthesis.com/">Brian Rinaldi</a></li>
@@ -202,6 +203,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://paul.kinlan.me/index.xml">RSS</a>] <a href="https://paul.kinlan.me/">Paul Kinlan</a></li>
   <li>[<a href="https://philna.sh/feed.xml">RSS</a>] <a href="https://philna.sh/">Phil Nash</a></li>
   <li>[<a href="https://www.prestonlamb.com/blog-feed.xml">RSS</a>] <a href="https://www.prestonlamb.com">Preston Lamb</a></li>
+  <li>[<a href="https://www.digitala11y.com/feed/">RSS</a>] <a href="https://www.digitala11y.com/">Raghavendra Satish Peri</a></li>
   <li>[<a href="https://www.raymondcamden.com/feed.xml">RSS</a>] <a href="https://www.raymondcamden.com/">Raymond Camden</a></li>
   <li>[<a href="http://raganwald.com/atom.xml">RSS</a>] <a href="http://raganwald.com/">Reginald Braithwaite</a></li>
   <li>[<a href="https://pqina․nl/feed.xml">RSS</a>] <a href="https://pqina.nl">Rik Schennink</a></li>
@@ -256,6 +258,7 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://www.blog.google/products/chrome/rss">RSS</a>] <a href="https://www.blog.google/products/chrome/">Chrome Blog</a></li>
   <li>[<a href="https://blog.chromium.org/feeds/posts/default">RSS</a>] <a href="https://blog.chromium.org/">Chromium Blog</a></li>
   <li>[<a href="https://spreadprivacy.com/rss/">RSS</a>] <a href="https://spreadprivacy.com/">DuckDuckGo Blog</a></li>
+  <li>[<a href="https://blog.freedomscientific.com/feed/">RSS</a>] <a href="https://blog.freedomscientific.com/">Freedom Scientific</a></li>
   <li>[<a href="https://developers.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://developers.googleblog.com/">Google Developers Blog</a></li>
   <li>[<a href="https://developers.google.com/web/updates/rss.xml">RSS</a>] <a href="https://developers.google.com/web/updates/">Google Developers Updates</a></li>
   <li>[<a href="https://developers.google.com/web/fundamentals/rss.xml">RSS</a>] <a href="https://developers.google.com/web/fundamentals/">Google Web Fundamentals</a></li>

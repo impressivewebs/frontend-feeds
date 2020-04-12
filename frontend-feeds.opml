@@ -172,6 +172,8 @@
       <outline type="rss" title="Matej Latin" text="Matej Latin" htmlUrl="https://betterwebtype.com/blog/" xmlUrl="https://betterwebtype.com/feed.xml"/>
       <outline type="rss" title="Sarah L. Fossheim" text="Sarah L. Fossheim" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://fossheim.io/feed.xml"/>
       <outline type="rss" title="Josh W. Comeau" text="Josh W. Comeau" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://joshwcomeau.com/rss.xml"/>
+      <outline type="rss" title="Raghavendra Satish Peri" text="Raghavendra Satish Peri" htmlUrl="https://www.digitala11y.com/" xmlUrl="https://www.digitala11y.com/feed/"/>
+      <outline type="rss" title="Ben Myers" text="Ben Myers" htmlUrl="https://blog.benmyers.dev/" xmlUrl="https://blog.benmyers.dev/feed.xml"/>
     </outline>
 
     <outline title="Hackernoon Tags" text="Hackernoon Tags">
@@ -206,6 +208,7 @@
       <outline type="rss" title="WebAIM Blog" text="WebAIM Blog" htmlUrl="https://webaim.org/" xmlUrl="https://webaim.org/blog/feed"/>
       <outline type="rss" title="WHATWG Blog" text="WHATWG Blog" htmlUrl="https://blog.whatwg.org/" xmlUrl="https://blog.whatwg.org/feed"/>
       <outline type="rss" title="Web Accessibility Initiative" text="Web Accessibility Initiative" htmlUrl="https://www.w3.org/WAI/" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
+      <outline type="rss" title="Freedom Scientific" text="Freedom Scientific" htmlUrl="https://blog.freedomscientific.com/" xmlUrl="https://blog.freedomscientific.com/feed/"/>
     </outline>
 
     <outline title="Libraries, Frameworks, etc." text="Libraries, Frameworks, etc.">
