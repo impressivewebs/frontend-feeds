@@ -174,6 +174,8 @@
       <outline type="rss" title="Josh W. Comeau" text="Josh W. Comeau" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://joshwcomeau.com/rss.xml"/>
       <outline type="rss" title="Raghavendra Satish Peri" text="Raghavendra Satish Peri" htmlUrl="https://www.digitala11y.com/" xmlUrl="https://www.digitala11y.com/feed/"/>
       <outline type="rss" title="Ben Myers" text="Ben Myers" htmlUrl="https://blog.benmyers.dev/" xmlUrl="https://blog.benmyers.dev/feed.xml"/>
+      <outline type="rss" title="Michael Thiessen" text="Michael Thiessen" htmlUrl="https://michaelnthiessen.com/articles" xmlUrl="https://michaelnthiessen.com/rss.xml"/>
+      <outline type="rss" title="Anthony Gore" text="Anthony Gore" htmlUrl="https://vuejsdevelopers.com/" xmlUrl="https://vuejsdevelopers.com/atom.xml"/>
     </outline>
 
     <outline title="Hackernoon Tags" text="Hackernoon Tags">
@@ -294,6 +296,8 @@
       <outline htmlUrl="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw" text="GoogleDevelopers's YouTube Videos" title="GoogleDevelopers's YouTube Videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads" />
       <outline htmlUrl="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA" text="keyframers's YouTube Videos" title="keyframers's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCwIu7m0WpCNXiKZfysX54Zg" text="Zell Liew's YouTube Videos" title="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwIu7m0WpCNXiKZfysX54Zg" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag" text="Chris On Code's YouTube Videos" title="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag" />
+
     </outline>
 
   </body>

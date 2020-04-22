@@ -148,6 +148,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="http://ishadeed.com/">Ahmed Shadeed</a></li>
   <li>[<a href="https://wattenberger.com/rss">RSS</a>] <a href="https://wattenberger.com">Amelia Wattenberger</a></li>
   <li>[<a href="https://hankchizljaw.com/feed/all.xml">RSS</a>] <a href="https://andy-bell.design/">Andy Bell</a></li>
+  <li>[<a href="https://vuejsdevelopers.com/atom.xml">RSS</a>] <a href="https://vuejsdevelopers.com/">Anthony Gore</a></li>
   <li>[<a href="https://antoinevastel.com/feed.xml">RSS</a>] <a href="https://antoinevastel.com/">Antoine Vastel</a></li>
   <li>[<a href="https://ashleynolan.co.uk/feed.xml">RSS</a>] <a href="https://www.ashleynolan.co.uk/">Ashley Nolan</a></li>
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
@@ -194,6 +195,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://betterwebtype.com/feed.xml">RSS</a>] <a href="https://betterwebtype.com/feed.xml">Matej Latin</a></li>
   <li>[<a href="https://mxstbr.blog/feed.atom">RSS</a>] <a href="https://mxstbr.blog/">Max Stoiber</a></li>
   <li>[<a href="https://justmarkup.com/feed/feed.xml">RSS</a>] <a href="https://justmarkup.com/log">Michael Scharnagl</a></li>
+  <li>[<a href="https://michaelnthiessen.com/rss.xml">RSS</a>] <a href="https://michaelnthiessen.com/articles">Michael Thiessen</a></li>
   <li>[<a href="https://css-irl.info/rss.xml">RSS</a>] <a href="https://css-irl.info">Michelle Barker</a></li>
   <li>[<a href="https://www.madebymike.com.au/feed.xml">RSS</a>] <a href="https://www.madebymike.com.au/">Mike Riethmuller</a></li>
   <li>[<a href="https://mike.sherov.com/rss.xml">RSS</a>] <a href="https://mike.sherov.com/">Mike Sherov</a></li>
@@ -376,6 +378,7 @@ These are RSS feeds for YouTube channels. I'm sure I could add a lot more to thi
 
 <ul>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCfV36TX5AejfAGIbtwTc7Zw">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris Hawkes's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris On Code's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks' YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA">RSS</a>] <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
