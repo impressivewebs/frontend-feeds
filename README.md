@@ -150,6 +150,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://vuejsdevelopers.com/atom.xml">RSS</a>] <a href="https://vuejsdevelopers.com/">Anthony Gore</a></li>
   <li>[<a href="https://antoinevastel.com/feed.xml">RSS</a>] <a href="https://antoinevastel.com/">Antoine Vastel</a></li>
   <li>[<a href="https://ashleynolan.co.uk/feed.xml">RSS</a>] <a href="https://www.ashleynolan.co.uk/">Ashley Nolan</a></li>
+  <li>[<a href="https://stegosource.com/blog/feed/">RSS</a>] <a href="https://stegosource.com/blog/">Austin Gil</a></li>
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
   <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="http://benmccormick.org">Ben McCormick</a></li>
   <li>[<a href="https://blog.benmyers.dev/feed.xml">RSS</a>] <a href="https://blog.benmyers.dev/">Ben Myers</a></li>
@@ -381,8 +382,9 @@ These are category feeds from Stack Overflow and front-end related subreddit fee
 These are RSS feeds for YouTube channels. I'm sure I could add a lot more to this category, I simply haven't done a lot of research in this area yet.
 
 <ul>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw">RSS</a>] <a href="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw">Ben Awad's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCfV36TX5AejfAGIbtwTc7Zw">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris Hawkes's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris On Code's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag">RSS</a>] <a href="https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag">Chris On Code's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks' YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA">RSS</a>] <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
@@ -391,6 +393,8 @@ These are RSS feeds for YouTube channels. I'm sure I could add a lot more to thi
   <li>[<a href="http://gdata.youtube.com/feeds/base/users/ImpressiveWebs/uploads">RSS</a>] <a href="https://www.youtube.com/channel/UC8fcRfj0bhyfT7_vLajV7gA">ImpressiveWebs's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVCacndDCfGDf41P-z0iA">RSS</a>] <a href="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA">JSConf's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA">RSS</a>] <a href="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA">keyframers's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWPY8W-FAZ2HdDiJp2RC_sQ">RSS</a>] <a href="https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ">Leigh Halladay's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCW5YeuERMmlnqo4oq8vwUpg">RSS</a>] <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UChs1F5WNk3wYkefIEVGxpLQ">RSS</a>] <a href="https://www.youtube.com/channel/UChs1F5WNk3wYkefIEVGxpLQ">Peter Cooper's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCSDtqcJ8ZXviPrEcj1vuLiQ">RSS</a>] <a href="https://www.youtube.com/channel/UCSDtqcJ8ZXviPrEcj1vuLiQ">Smashing Magazine's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQvqii1ZqheK2UFB0jYPEA">RSS</a>] <a href="https://www.youtube.com/channel/UCxQvqii1ZqheK2UFB0jYPEA">Web Tools Weekly's YouTube Videos</a></li>

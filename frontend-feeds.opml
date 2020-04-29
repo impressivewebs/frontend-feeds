@@ -96,6 +96,7 @@
       <outline type="rss" title="Anthony Gore" text="Anthony Gore" htmlUrl="https://vuejsdevelopers.com/" xmlUrl="https://vuejsdevelopers.com/atom.xml"/>
       <outline type="rss" title="Antoine Vastel" text="Antoine Vastel" htmlUrl="https://antoinevastel.com/" xmlUrl="https://antoinevastel.com/feed.xml"/>
       <outline type="rss" title="Ashley Nolan" text="Ashley Nolan" htmlUrl="https://ashleynolan.co.uk/" xmlUrl="https://ashleynolan.co.uk/feed.xml"/>
+      <outline type="rss" title="Austin Gil" text="Austin Gil" htmlUrl="https://stegosource.com/blog/" xmlUrl="https://stegosource.com/feed/"/>
       <outline type="rss" title="Ben Frain" text="Ben Frain" htmlUrl="https://benfrain.com/blog/" xmlUrl="https://benfrain.com/feed/"/>
       <outline type="rss" title="Ben McCormick" text="Ben McCormick" htmlUrl="https://benmccormick.org/archive/" xmlUrl="https://benmccormick.org/rss/"/>
       <outline type="rss" title="Ben Myers" text="Ben Myers" htmlUrl="https://blog.benmyers.dev/" xmlUrl="https://blog.benmyers.dev/feed.xml"/>
@@ -286,6 +287,7 @@
     </outline>
 
     <outline title="11 - YouTube Channels" text="11 - YouTube Channels">
+      <outline htmlUrl="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw" text="Ben Awad's YouTube Videos" title="Ben Awad's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw" />
       <outline htmlUrl="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw" text="Chris Hawkes's YouTube Videos" title="Chris Hawkes's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfV36TX5AejfAGIbtwTc7Zw" />
       <outline htmlUrl="https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag" text="Chris On Code's YouTube Videos" title="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag" />
       <outline htmlUrl="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA" text="CSS-Tricks' YouTube Videos" title="CSS-Tricks' YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA" />
@@ -296,6 +298,8 @@
       <outline htmlUrl="https://www.youtube.com/channel/UC8fcRfj0bhyfT7_vLajV7gA" text="ImpressiveWebs's YouTube Videos" title="Impressive Webs's YouTube Videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/ImpressiveWebs/uploads" />
       <outline htmlUrl="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA" text="JSConf's YouTube Videos" title="JSConf's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVCacndDCfGDf41P-z0iA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA" text="keyframers's YouTube Videos" title="keyframers's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ" text="Leigh Halladay's YouTube Videos" title="keyframers's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?UCWPY8W-FAZ2HdDiJp2RC_sQ" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg" text="Net Ninja's YouTube Videos" title="Net Ninja's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW5YeuERMmlnqo4oq8vwUpg" />
       <outline htmlUrl="https://www.youtube.com/channel/UChs1F5WNk3wYkefIEVGxpLQ" text="Peter Cooper's YouTube Videos" title="Peter Cooper's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChs1F5WNk3wYkefIEVGxpLQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UCSDtqcJ8ZXviPrEcj1vuLiQ" text="Smashing Magazine's YouTube Videos" title="Smashing Magazine's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSDtqcJ8ZXviPrEcj1vuLiQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UCxQvqii1ZqheK2UFB0jYPEA" text="Web Tools Weekly's YouTube Videos" title="Web Tools Weekly's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQvqii1ZqheK2UFB0jYPEA" />
