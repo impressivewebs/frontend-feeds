@@ -22,7 +22,6 @@
       <outline type="rss" title="24 ways" text="24 ways" htmlUrl="https://24ways.org/" xmlUrl="https://feeds.feedburner.com/24ways"/>
       <outline type="rss" title="A List Apart: The Abridged Feed" text="A List Apart: The Abridged Feed" htmlUrl="https://alistapart.com/" xmlUrl="https://alistapart.com/main/feed/"/>
       <outline type="rss" title="Alligator.io" text="Alligator.io" htmlUrl="https://alligator.io/" xmlUrl="https://alligator.io/feed.xml"/>
-      <outline type="rss" title="Auth0 Blog" text="Auth0 Blog" htmlUrl="https://auth0.com/blog/" xmlUrl="https://auth0.com/blog/rss.xml"/>
       <outline type="rss" title="Bits and Pieces" text="Bits and Pieces" htmlUrl="https://blog.bitsrc.io/" xmlUrl="https://blog.bitsrc.io/feed"/>
       <outline type="rss" title="CodeinWP" text="CodeinWP" htmlUrl="https://www.codeinwp.com/" xmlUrl="https://www.codeinwp.com/feed/"/>
       <outline type="rss" title="CodeSource.io" text="CodeSource.io" htmlUrl="https://codesource.io/" xmlUrl="https://codesource.io/feed/"/>
@@ -237,6 +236,7 @@
     <outline title="Company/Startup Blogs" text="Company/Startup Blogs">
       <outline type="rss" title="9elements Blog" text="9elements Blog" htmlUrl="https://9elements.com/blog" xmlUrl="https://9elements.com/blog/rss/"/>
       <outline type="rss" title="AMEX Technology" text="AMEX Technology" htmlUrl="https://americanexpress.io/" xmlUrl="https://americanexpress.io/feed.xml"/>
+      <outline type="rss" title="Auth0 Blog" text="Auth0 Blog" htmlUrl="https://auth0.com/blog/" xmlUrl="https://auth0.com/blog/rss.xml"/>
       <outline type="rss" title="Axess Lab" text="Axess Lab" htmlUrl="https://axesslab.com/articles/" xmlUrl="https://axesslab.com/feed/"/>
       <outline type="rss" title="Bocoup Blog" text="Bocoup Blog" htmlUrl="https://bocoup.com/blog" xmlUrl="https://bocoup.com/feed"/>
       <outline type="rss" title="Calibre Blog" text="Calibre Blog" htmlUrl="https://calibreapp.com/blog/" xmlUrl="https://calibreapp.com/blog/rss.xml"/>
@@ -293,6 +293,7 @@
       <outline htmlUrl="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA" text="CSS-Tricks' YouTube Videos" title="CSS-Tricks' YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA" text="Fireship's YouTube Videos" title="Fireship's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" />
       <outline htmlUrl="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" text="freeCodeCamp.org's YouTube Videos" title="freeCodeCamp.org's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA" text="Florin Pop's YouTube Videos" title="Florin Pop's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-1X402kT-JlLdAitxSMA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" text="Fun Fun Function's YouTube Videos" title="Fun Fun Function's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q" />
       <outline htmlUrl="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw" text="GoogleDevelopers's YouTube Videos" title="GoogleDevelopers's YouTube Videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads" />
       <outline htmlUrl="https://www.youtube.com/channel/UC8fcRfj0bhyfT7_vLajV7gA" text="ImpressiveWebs's YouTube Videos" title="Impressive Webs's YouTube Videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/ImpressiveWebs/uploads" />

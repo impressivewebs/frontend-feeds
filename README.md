@@ -65,7 +65,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://feeds.feedburner.com/24ways">RSS</a>] <a href="https://24ways.org/">24 ways</a></li>
   <li>[<a href="https://alistapart.com/main/feed/">RSS</a>] <a href="https://alistapart.com">A List Apart</a></li>
   <li>[<a href="https://alligator.io/feed.xml">RSS</a>] <a href="https://alligator.io/">Alligator.io</a></li>
-  <li>[<a href="https://auth0.com/blog/rss.xml">RSS</a>] <a href="https://auth0.com/blog/">Auth0 Blog</a></li>
   <li>[<a href="https://blog.bitsrc.io/feed">RSS</a>] <a href="https://blog.bitsrc.io">Bits and Pieces</a></li>
   <li>[<a href="https://www.codeinwp.com/feed/">RSS</a>] <a href="https://www.codeinwp.com">CodeinWP</a></li>
   <li>[<a href="https://codesource.io/feed/">RSS</a>] <a href="https://codesource.io">CodeSource.io</a></li>
@@ -314,6 +313,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
 <ul>
   <li>[<a href="https://9elements.com/blog/rss">RSS</a>] <a href="https://9elements.com/blog/">9elements Blog</a></li>
   <li>[<a href="https://americanexpress.io/feed.xml">RSS</a>] <a href="https://americanexpress.io/">AMEX Technology</a></li>
+  <li>[<a href="https://auth0.com/blog/rss.xml">RSS</a>] <a href="https://auth0.com/blog/">Auth0 Blog</a></li>
   <li>[<a href="https://axesslab.com/feed/">RSS</a>] <a href="https://axesslab.com">Axess Lab</a></li>
   <li>[<a href="https://bocoup.com/feed">RSS</a>] <a href="https://bocoup.com">Bocoup</a></li>
   <li>[<a href="https://calibreapp.com/blog/rss.xml">RSS</a>] <a href="https://calibreapp.com">Calibre</a></li>
@@ -387,6 +387,7 @@ These are RSS feeds for YouTube channels. I'm sure I could add a lot more to thi
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag">RSS</a>] <a href="https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag">Chris On Code's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks' YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA">RSS</a>] <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-1X402kT-JlLdAitxSMA">RSS</a>] <a href="https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA">Florin Pop's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q">RSS</a>] <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function's YouTube Videos</a></li>
   <li>[<a href="http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads">RSS</a>] <a href="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw">GoogleDevelopers's YouTube Videos</a></li>
