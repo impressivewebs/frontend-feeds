@@ -48,7 +48,7 @@ These are the sites with the most traffic, most popular, etc.
   <li>[<a href="https://css-tricks.com/feed/">RSS</a>] <a href="https://css-tricks.com">CSS-Tricks</a></li>
   <li>[<a href="https://dev.to/feed">RSS</a>] <a href="https://dev.to">DEV Community</a></li>
   <li>[<a href="https://code.tutsplus.com/posts.atom">RSS</a>] <a href="https://code.tutsplus.com">Envato Tuts+ Code</a></li>
-  <li>[<a href="https://news.ycombinator.com/rss">RSS</a>] <a href="https://news.ycombinator.com/">Hacker News</a></li>
+  <li>[<a href="https://hnrss.org/frontpage">RSS</a>] <a href="https://news.ycombinator.com/">Hacker News</a></li>
   <li>[<a href="https://hackernoon.com/feed">RSS</a>] <a href="https://hackernoon.com">Hackernoon</a></li>
   <li>[<a href="https://www.sitepoint.com/feed/">RSS</a>] <a href="https://www.sitepoint.com">SitePoint</a></li>
   <li>[<a href="https://www.smashingmagazine.com/feed">RSS</a>] <a href="https://www.smashingmagazine.com/articles/">Smashing Magazine</a></li>
@@ -153,7 +153,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
   <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="http://benmccormick.org">Ben McCormick</a></li>
   <li>[<a href="https://blog.benmyers.dev/feed.xml">RSS</a>] <a href="https://blog.benmyers.dev/">Ben Myers</a></li>
-  <li>[<a href="https://uglyduck.ca/atom.xml">RSS</a>] <a href="https://uglyduck.ca/">Bradley Taunt</a></li>
+  <li>[<a href="https://uglyduck.ca/feed/">RSS</a>] <a href="https://uglyduck.ca/">Bradley Taunt</a></li>
   <li>[<a href="https://www.bram.us/feed/">RSS</a>] <a href="https://www.bram.us">Bram Van Damme</a></li>
   <li>[<a href="https://remotesynthesis.com/feed.xml">RSS</a>] <a href="https://remotesynthesis.com/">Brian Rinaldi</a></li>
   <li>[<a href="https://www.brucelawson.co.uk/feed/">RSS</a>] <a href="https://www.brucelawson.co.uk/">Bruce Lawson</a></li>

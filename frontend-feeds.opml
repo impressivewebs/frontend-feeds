@@ -13,7 +13,7 @@
       <outline type="rss" title="Hackernoon" text="Hackernoon" htmlUrl="https://hackernoon.com/" xmlUrl="https://hackernoon.com/feed"/>
       <outline type="rss" title="SitePoint" text="SitePoint" htmlUrl="http://www.sitepoint.com/" xmlUrl="https://www.sitepoint.com/feed/"/>
       <outline type="rss" title="Tuts+ Code" text="Tuts+ Code" htmlUrl="https://code.tutsplus.com/" xmlUrl="https://code.tutsplus.com/posts.atom"/>
-      <outline type="rss" title="Hacker News" text="Hacker News" htmlUrl="https://news.ycombinator.com/" xmlUrl="https://news.ycombinator.com/rss"/>
+      <outline type="rss" title="Hacker News" text="Hacker News" htmlUrl="https://news.ycombinator.com/" xmlUrl="https://hnrss.org/frontpage"/>
     </outline>
 
     <outline title="Multi-Author Sites" text="Multi-Author Blogs">
@@ -99,7 +99,7 @@
       <outline type="rss" title="Ben Frain" text="Ben Frain" htmlUrl="https://benfrain.com/blog/" xmlUrl="https://benfrain.com/feed/"/>
       <outline type="rss" title="Ben McCormick" text="Ben McCormick" htmlUrl="https://benmccormick.org/archive/" xmlUrl="https://benmccormick.org/rss/"/>
       <outline type="rss" title="Ben Myers" text="Ben Myers" htmlUrl="https://blog.benmyers.dev/" xmlUrl="https://blog.benmyers.dev/feed.xml"/>
-      <outline type="rss" title="Bradley Taunt" text="Bradley Taunt" htmlUrl="https://uglyduck.ca/blog/" xmlUrl="https://uglyduck.ca/atom.xml"/>
+      <outline type="rss" title="Bradley Taunt" text="Bradley Taunt" htmlUrl="https://uglyduck.ca/blog/" xmlUrl="https://uglyduck.ca/feed/"/>
       <outline type="rss" title="Bram Van Damme" text="Bram Van Damme" htmlUrl="https://www.bram.us/" xmlUrl="https://www.bram.us/feed/"/>
       <outline type="rss" title="Brian Rinaldi" text="Brian Rinaldi" htmlUrl="https://remotesynthesis.com/" xmlUrl="https://remotesynthesis.com/feed.xml"/>
       <outline type="rss" title="Bruce Lawson" text="Bruce Lawson" htmlUrl="https://www.brucelawson.co.uk/" xmlUrl="https://www.brucelawson.co.uk/feed/"/>
