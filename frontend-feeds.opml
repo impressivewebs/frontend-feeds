@@ -169,6 +169,7 @@
       <outline type="rss" title="Sean Wang" text="Sean Wang" htmlUrl="https://www.swyx.io/writing" xmlUrl="https://www.swyx.io/rss.xml"/>
       <outline type="rss" title="Sindre Sorhus" text="Sindre Sorhus" htmlUrl="https://blog.sindresorhus.com/" xmlUrl="https://blog.sindresorhus.com/feed"/>
       <outline type="rss" title="Sjoerd De Voorhoede" text="Sjoerd De Voorhoede" htmlUrl="https://www.voorhoede.nl/en/blog/" xmlUrl="https://www.voorhoede.nl/blog-feed.xml"/>
+      <outline type="rss" title="Stephanie Eckles" text="Stephanie Eckles" htmlUrl="https://moderncss.dev/" xmlUrl="https://moderncss.dev/feed/"/>
       <outline type="rss" title="Stefan Judis" text="Stefan Judis" htmlUrl="https://www.stefanjudis.com/blog/" xmlUrl="https://www.stefanjudis.com/rss.xml"/>
       <outline type="rss" title="Stephanie Stimac" text="Stephanie Stimac" htmlUrl="https://blog.stephaniestimac.com/" xmlUrl="https://blog.stephaniestimac.com/feed/feed.xml"/>
       <outline type="rss" title="Stéphanie Walter" text="Stéphanie Walter" htmlUrl="https://stephaniewalter.design/blog/" xmlUrl="https://stephaniewalter.design/feed/"/>
@@ -205,7 +206,8 @@
       <outline type="rss" title="Google Developers Updates" text="Google Decelopers Updates" htmlUrl="https://developers.google.com/web/updates/" xmlUrl="https://developers.google.com/web/updates/rss.xml"/>
       <outline type="rss" title="Google Web Fundamentals" text="Google Web Fundamentals" htmlUrl="https://developers.google.com/web/fundamentals/" xmlUrl="https://developers.google.com/web/fundamentals/rss.xml"/>
       <outline type="rss" title="Google Webmaster Blog" text="Google Webmaster Blog" htmlUrl="https://webmasters.googleblog.com/" xmlUrl="https://webmasters.googleblog.com/feeds/posts/default"/>
-      <outline type="rss" title="Mozilla Blogs" text="Mozilla Blogs" htmlUrl="https://blog.mozilla.org/" xmlUrl="https://blog.mozilla.org/feed/"/>
+      <outline type="rss" title="Mozilla Accessibility" text="Mozilla Accessibility" htmlUrl="https://blog.mozilla.org/accessibility/" xmlUrl="https://blog.mozilla.org/accessibility/feed/"/>
+      <outline type="rss" title="Mozilla Blog" text="Mozilla Blog" htmlUrl="https://blog.mozilla.org/" xmlUrl="https://blog.mozilla.org/feed/"/>
       <outline type="rss" title="Mozilla Hacks" text="Mozilla Hacks" htmlUrl="https://hacks.mozilla.org/" xmlUrl="https://hacks.mozilla.org/feed/"/>
       <outline type="rss" title="MS Edge Blog" text="MS Edge Blog" htmlUrl="https://blogs.windows.com/msedgedev/" xmlUrl="https://blogs.windows.com/msedgedev/feed/"/>
       <outline type="rss" title="Opera News" text="Opera News" htmlUrl="https://blogs.opera.com/news/" xmlUrl="https://blogs.opera.com/news/feed/"/>

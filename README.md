@@ -223,6 +223,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.swyx.io/rss.xml">RSS</a>] <a href="https://swyx.io">Sean Wang</a></li>
   <li>[<a href="https://blog.sindresorhus.com/feed">RSS</a>] <a href="https://blog.sindresorhus.com">Sindre Sorhus</a></li>
   <li>[<a href="https://www.voorhoede.nl/blog-feed.xml">RSS</a>] <a href="https://www.voorhoede.nl/en/blog">Sjoerd De Voorhoede</a></li>
+  <li>[<a href="https://moderncss.dev/feed/">RSS</a>] <a href="https://moderncss.dev/">Stephanie Eckles</a></li>
   <li>[<a href="https://www.stefanjudis.com/rss.xml">RSS</a>] <a href="https://www.stefanjudis.com">Stefan Judis</a></li>
   <li>[<a href="https://blog.stephaniestimac.com/feed/feed.xml">RSS</a>] <a href="https://blog.stephaniestimac.com">Stephanie Stimac</a></li>
   <li>[<a href="https://stephaniewalter.design/feed/">RSS</a>] <a href="https://stephaniewalter.design">Stéphanie Walter</a></li>
@@ -270,7 +271,8 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://developers.google.com/web/updates/rss.xml">RSS</a>] <a href="https://developers.google.com/web/updates/">Google Developers Updates</a></li>
   <li>[<a href="https://developers.google.com/web/fundamentals/rss.xml">RSS</a>] <a href="https://developers.google.com/web/fundamentals/">Google Web Fundamentals</a></li>
   <li>[<a href="https://webmasters.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://webmasters.googleblog.com/">Google Webmaster Central Blog</a></li>
-  <li>[<a href="https://blog.mozilla.org/feed/">RSS</a>] <a href="https://blog.mozilla.org">Mozilla Blogs</a></li>
+  <li>[<a href="https://blog.mozilla.org/accessibility/feed/">RSS</a>] <a href="https://blog.mozilla.org/accessibility/">Mozilla Accessibility</a></li>
+  <li>[<a href="https://blog.mozilla.org/feed/">RSS</a>] <a href="https://blog.mozilla.org">Mozilla Blog</a></li>
   <li>[<a href="https://hacks.mozilla.org/feed/">RSS</a>] <a href="https://hacks.mozilla.org">Mozilla Hacks</a></li>
   <li>[<a href="https://blogs.windows.com/msedgedev/feed/">RSS</a>] <a href="https://blogs.windows.com/msedgedev">MS Edge Blog</a></li>
   <li>[<a href="https://blogs.opera.com/news/feed/">RSS</a>] <a href="https://blogs.opera.com/news">Opera News</a></li>
