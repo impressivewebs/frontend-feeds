@@ -182,6 +182,7 @@
       <outline type="rss" title="Valeri Karpov" text="Valeri Karpov" htmlUrl="https://thecodebarbarian.com/" xmlUrl="https://thecodebarbarian.com/feed.xml"/>
       <outline type="rss" title="Viljami Salminen" text="Viljami Salminen" htmlUrl="https://viljamis.com/" xmlUrl="https://viljamis.com/atom.xml"/>
       <outline type="rss" title="Zell Liew" text="Zell Liew" htmlUrl="https://zellwk.com/blog/" xmlUrl="https://zellwk.com/feed.xml"/>
+      <outline type="rss" text="Silvestar Bistrović" title="Silvestar Bistrović" htmlUrl="https://www.silvestar.codes/" xmlUrl="https://www.silvestar.codes/rss2.xml"/>
     </outline>
 
     <outline title="Hackernoon Tags" text="Hackernoon Tags">
