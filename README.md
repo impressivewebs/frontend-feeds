@@ -162,6 +162,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.chenhuijing.com/feed.xml">RSS</a>] <a href="https://www.chenhuijing.com/">Chen Hui Jing</a></li>
   <li>[<a href="https://joshwcomeau.com/rss.xml">RSS</a>] <a href="https://joshwcomeau.com/">Josh W. Comeau</a></li>
   <li>[<a href="https://www.dan-davies.co.uk/feed">RSS</a>] <a href="https://www.dan-davies.co.uk">Dan Davies</a></li>
+  <li>[<a href="https://darekkay.com/atom.xml">RSS</a>] <a href="https://darekkay.com">Darek Kay</a></li>
   <li>[<a href="https://daveceddia.com/feed.xml">RSS</a>] <a href="https://daveceddia.com">Dave Ceddia</a></li>
   <li>[<a href="https://dbushell.com/rss.xml">RSS</a>] <a href="https://dbushell.com">David Bushell</a></li>
   <li>[<a href="https://accessibledreams.home.blog/feed/">RSS</a>] <a href="https://accessibledreams.home.blog">Dennie Declercq</a></li>
