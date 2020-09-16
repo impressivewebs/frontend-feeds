@@ -16,7 +16,7 @@
       <outline type="rss" title="Hacker News" text="Hacker News" htmlUrl="https://news.ycombinator.com/" xmlUrl="https://hnrss.org/frontpage"/>
     </outline>
 
-    <outline title="Multi-Author Sites" text="Multi-Author Blogs">
+    <outline title="Multi-Author Blogs" text="Multi-Author Blogs">
       <outline type="rss" title="1stwebdesigner" text="1stwebdesigner" htmlUrl="https://1stwebdesigner.com/" xmlUrl="https://1stwebdesigner.com/feed/"/>
       <outline type="rss" title="24 Accessibility" text="24 Accessibility" htmlUrl="https://www.24a11y.com/" xmlUrl="https://www.24a11y.com/feed/"/>
       <outline type="rss" title="24 ways" text="24 ways" htmlUrl="https://24ways.org/" xmlUrl="https://feeds.feedburner.com/24ways"/>
@@ -27,6 +27,7 @@
       <outline type="rss" title="CodeSource.io" text="CodeSource.io" htmlUrl="https://codesource.io/" xmlUrl="https://codesource.io/feed/"/>
       <outline type="rss" title="CodyHouse" text="CodyHouse" htmlUrl="https://codyhouse.co/blog" xmlUrl="https://feeds.feedburner.com/codyhouse/feeds"/>
       <outline type="rss" title="Deque Accessibility Blog" text="Deque Accessibility Blog" htmlUrl="https://www.deque.com/blog/" xmlUrl="https://www.deque.com/feed/"/>
+      <outline type="rss" title="Design Modo" text="Design Modo" htmlUrl="https://designmodo.com/" xmlUrl="https://designmodo.com/feed/"/>
       <outline type="rss" title="DZone Web Dev" text="DZone Web Dev" htmlUrl="https://dzone.com/web-development-programming-tutorials-tools-news" xmlUrl="http://feeds.dzone.com/webdev"/>
       <outline type="rss" title="Filament Group" text="Filament Group" htmlUrl="https://www.filamentgroup.com/lab/" xmlUrl="https://www.filamentgroup.com/lab/atom.xml"/>
       <outline type="rss" title="Full Stack Training" text="Full Stack Training" htmlUrl="https://blog.fullstacktraining.com/" xmlUrl="https://blog.fullstacktraining.com/rss/"/>
@@ -58,6 +59,7 @@
       <outline type="rss" title="Christian Heilmann" text="Christian Heilmann" htmlUrl="https://christianheilmann.com/feed" xmlUrl="https://christianheilmann.com/feed/"/>
       <outline type="rss" title="Dan Abramov" text="Dan Abramov" htmlUrl="https://overreacted.io/" xmlUrl="https://overreacted.io/rss.xml"/>
       <outline type="rss" title="Dave Rupert" text="Dave Rupert" htmlUrl="https://daverupert.com/" xmlUrl="https://daverupert.com/atom.xml"/>
+      <outline type="rss" title="David Flanagan" text="David Flanagan" htmlUrl="https://davidflanagan.com/" xmlUrl="https://davidflanagan.com/feed.xml"/>
       <outline type="rss" title="David Walsh" text="David Walsh" htmlUrl="https://davidwalsh.name/" xmlUrl="https://davidwalsh.name/feed/atom"/>
       <outline type="rss" title="Ethan Marcotte" text="Ethan Marcotte" htmlUrl="https://ethanmarcotte.com/wrote/" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml"/>
       <outline type="rss" title="Harry Roberts" text="Harry Roberts" htmlUrl="https://csswizardry.com/archive/" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
@@ -135,6 +137,7 @@
       <outline type="rss" title="Kilian Valkhof" text="Kilian Valkhof" htmlUrl="https://kilianvalkhof.com/" xmlUrl="https://kilianvalkhof.com/feed/"/>
       <outline type="rss" title="Krasimir Tsonev" text="Krasimir Tsonev" htmlUrl="https://krasimirtsonev.com/blog/" xmlUrl="https://krasimirtsonev.com/blog/rss"/>
       <outline type="rss" title="Laura Kalbag" text="Laura Kalbag" htmlUrl="https://laurakalbag.com/posts/" xmlUrl="https://laurakalbag.com/posts/index.xml"/>
+      <outline type="rss" title="Lindsey Kopacz" text="Lindsey Kopacz" htmlUrl="https://www.a11ywithlindsey.com/blog" xmlUrl="https://www.a11ywithlindsey.com/rss.xml"/>
       <outline type="rss" title="Louis Lazaris" text="Louis Lazaris" htmlUrl="https://www.impressivewebs.com/" xmlUrl="https://www.impressivewebs.com/feed"/>
       <outline type="rss" title="Manuel Matuzović" text="Manuel Matuzović" htmlUrl="https://www.matuzo.at/blog/" xmlUrl="https://www.matuzo.at/feed.xml"/>
       <outline type="rss" title="Marco Zehe" text="Marco Zehe" htmlUrl="https://marcozehe.de/" xmlUrl="https://marcozehe.de/feed/"/>
@@ -301,6 +304,7 @@
       <outline htmlUrl="https://www.youtube.com/channel/UC8fcRfj0bhyfT7_vLajV7gA" text="ImpressiveWebs's YouTube Videos" title="Impressive Webs's YouTube Videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/ImpressiveWebs/uploads" />
       <outline htmlUrl="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA" text="JSConf's YouTube Videos" title="JSConf's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVCacndDCfGDf41P-z0iA" />
       <outline htmlUrl="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA" text="keyframers's YouTube Videos" title="keyframers's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCwjglHy7pCPF4ES-S7FKxQg" text="KnifeCircus's YouTube Videos" title="KnifeCircus's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjglHy7pCPF4ES-S7FKxQg" />
       <outline htmlUrl="https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ" text="Leigh Halladay's YouTube Videos" title="keyframers's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?UCWPY8W-FAZ2HdDiJp2RC_sQ" />
       <outline htmlUrl="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg" text="Net Ninja's YouTube Videos" title="Net Ninja's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW5YeuERMmlnqo4oq8vwUpg" />
       <outline htmlUrl="https://www.youtube.com/channel/UChs1F5WNk3wYkefIEVGxpLQ" text="Peter Cooper's YouTube Videos" title="Peter Cooper's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChs1F5WNk3wYkefIEVGxpLQ" />
