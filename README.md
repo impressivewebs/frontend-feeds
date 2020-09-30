@@ -395,8 +395,8 @@ These are RSS feeds for YouTube channels. I'm sure I could add a lot more to thi
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-1X402kT-JlLdAitxSMA">RSS</a>] <a href="https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA">Florin Pop's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q">RSS</a>] <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function's YouTube Videos</a></li>
-  <li>[<a href="http://gdata.youtube.com/feeds/base/users/GoogleDevelopers/uploads">RSS</a>] <a href="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw">GoogleDevelopers's YouTube Videos</a></li>
-  <li>[<a href="http://gdata.youtube.com/feeds/base/users/ImpressiveWebs/uploads">RSS</a>] <a href="https://www.youtube.com/channel/UC8fcRfj0bhyfT7_vLajV7gA">ImpressiveWebs's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw">RSS</a>] <a href="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw">GoogleDevelopers's YouTube Videos</a></li>
+  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8fcRfj0bhyfT7_vLajV7gA">RSS</a>] <a href="https://www.youtube.com/user/ImpressiveWebs">Impressive Webs's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVCacndDCfGDf41P-z0iA">RSS</a>] <a href="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA">JSConf's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA">RSS</a>] <a href="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA">keyframers's YouTube Videos</a></li>
   <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjglHy7pCPF4ES-S7FKxQg">RSS</a>] <a href="https://www.youtube.com/channel/UCwjglHy7pCPF4ES-S7FKxQg">KnifeCircus's YouTube Videos</a></li>
