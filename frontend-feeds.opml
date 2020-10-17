@@ -92,6 +92,7 @@
       <outline type="rss" title="Adam Silver" text="Adam Silver" htmlUrl="https://adamsilver.io/articles/" xmlUrl="https://adamsilver.io/atom.xml"/>
       <outline type="rss" title="Adrian Roselli" text="Adrian Roselli" htmlUrl="https://adrianroselli.com/" xmlUrl="https://adrianroselli.com/feed"/>
       <outline type="rss" title="Ahmed Shadeed" text="Ahmed Shadeed" htmlUrl="https://ishadeed.com/articles/" xmlUrl="http://ishadeed.com/feed.xml"/>
+      <outline type="rss" title="Alex Trost" text="Alex Trost" htmlUrl="https://frontend.horse/" xmlUrl="https://frontend.horse/rss.xml"/>
       <outline type="rss" title="Amelia Wattenberger" text="Amelia Wattenberger" htmlUrl="https://wattenberger.com/" xmlUrl="https://wattenberger.com/rss"/>
       <outline type="rss" title="Andy Bell" text="Andy Bell" htmlUrl="https://hankchizljaw.com/" xmlUrl="https://hankchizljaw.com/feed/all.xml"/>
       <outline type="rss" title="Anthony Gore" text="Anthony Gore" htmlUrl="https://vuejsdevelopers.com/" xmlUrl="https://vuejsdevelopers.com/atom.xml"/>

@@ -146,7 +146,8 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://adamsilver.io/atom.xml">RSS</a>] <a href="https://adamsilver.io">Adam Silver</a></li>
   <li>[<a href="https://adrianroselli.com/feed">RSS</a>] <a href="https://adrianroselli.com">Adrian Roselli</a></li>
   <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="http://ishadeed.com/">Ahmed Shadeed</a></li>
-  <li>[<a href="https://wattenberger.com/rss">RSS</a>] <a href="https://wattenberger.com">Amelia Wattenberger</a></li>
+  <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="http://ishadeed.com/">Ahmed Shadeed</a></li>
+  <li>[<a href="https://frontend.horse/rss.xml">RSS</a>] <a href="https://frontend.horse/">Alex Trost</a></li>
   <li>[<a href="https://hankchizljaw.com/feed/all.xml">RSS</a>] <a href="https://hankchizljaw.com/">Andy Bell</a></li>
   <li>[<a href="https://vuejsdevelopers.com/atom.xml">RSS</a>] <a href="https://vuejsdevelopers.com/">Anthony Gore</a></li>
   <li>[<a href="https://antoinevastel.com/feed.xml">RSS</a>] <a href="https://antoinevastel.com/">Antoine Vastel</a></li>
