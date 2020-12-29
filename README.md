@@ -63,6 +63,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://1stwebdesigner.com/feed/">RSS</a>] <a href="https://1stwebdesigner.com">1stwebdesigner</a></li>
   <li>[<a href="https://www.24a11y.com/feed/">RSS</a>] <a href="https://www.24a11y.com">24 Accessibility</a></li>
   <li>[<a href="https://feeds.feedburner.com/24ways">RSS</a>] <a href="https://24ways.org/">24 ways</a></li>
+  <li>[<a href="https://www.30secondsofcode.org/feed">RSS</a>] <a href="https://www.30secondsofcode.org/">30 seconds of code</a></li>
   <li>[<a href="https://alistapart.com/main/feed/">RSS</a>] <a href="https://alistapart.com">A List Apart</a></li>
   <li>[<a href="https://alligator.io/feed.xml">RSS</a>] <a href="https://alligator.io/">Alligator.io</a></li>
   <li>[<a href="https://blog.bitsrc.io/feed">RSS</a>] <a href="https://blog.bitsrc.io">Bits and Pieces</a></li>
@@ -93,7 +94,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://web.dev/feed.xml">RSS</a>] <a href="https://web.dev">web.dev</a></li>
   <li>[<a href="https://www.webdesignerdepot.com/feed/">RSS</a>] <a href="https://www.webdesignerdepot.com">Webdesigner Depot</a></li>
   <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="http://webglfundamentals.org/">WebGL Fundamentals</a></li>
-  <li>[<a href="https://www.30secondsofcode.org/feed">RSS</a>] <a href="https://www.30secondsofcode.org/">30 seconds of code</a></li>
 </ul>
 
 
