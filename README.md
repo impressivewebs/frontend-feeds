@@ -93,6 +93,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://web.dev/feed.xml">RSS</a>] <a href="https://web.dev">web.dev</a></li>
   <li>[<a href="https://www.webdesignerdepot.com/feed/">RSS</a>] <a href="https://www.webdesignerdepot.com">Webdesigner Depot</a></li>
   <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="http://webglfundamentals.org/">WebGL Fundamentals</a></li>
+  <li>[<a href="https://www.30secondsofcode.org/feed">RSS</a>] <a href="https://www.30secondsofcode.org/">30 seconds of code</a></li>
 </ul>
 
 
