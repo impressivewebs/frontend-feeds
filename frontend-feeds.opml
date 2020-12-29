@@ -50,6 +50,7 @@
       <outline type="rss" title="web.dev" text="web.dev" htmlUrl="https://web.dev/" xmlUrl="https://web.dev/feed.xml"/>
       <outline type="rss" title="Webdesigner Depot" text="Webdesigner Depot" htmlUrl="https://www.webdesignerdepot.com/" xmlUrl="https://www.webdesignerdepot.com/feed/"/>
       <outline type="rss" title="WebGL Fundamentals" text="WebGL Fundamentals" htmlUrl="https://webglfundamentals.org/" xmlUrl="https://webglfundamentals.org/atom.xml"/>
+      <outline type="rss" title="30 seconds of code" text="30 seconds of code" htmlUrl="https://www.30secondsofcode.org/" xmlUrl="https://www.30secondsofcode.org/feed"/>
     </outline>
 
     <outline title="Top Front-end Bloggers" text="Top Front-end Bloggers">
