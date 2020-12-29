@@ -20,6 +20,7 @@
       <outline type="rss" title="1stwebdesigner" text="1stwebdesigner" htmlUrl="https://1stwebdesigner.com/" xmlUrl="https://1stwebdesigner.com/feed/"/>
       <outline type="rss" title="24 Accessibility" text="24 Accessibility" htmlUrl="https://www.24a11y.com/" xmlUrl="https://www.24a11y.com/feed/"/>
       <outline type="rss" title="24 ways" text="24 ways" htmlUrl="https://24ways.org/" xmlUrl="https://feeds.feedburner.com/24ways"/>
+      <outline type="rss" title="30 seconds of code" text="30 seconds of code" htmlUrl="https://www.30secondsofcode.org/" xmlUrl="https://www.30secondsofcode.org/feed"/>
       <outline type="rss" title="A List Apart: The Abridged Feed" text="A List Apart: The Abridged Feed" htmlUrl="https://alistapart.com/" xmlUrl="https://alistapart.com/main/feed/"/>
       <outline type="rss" title="Alligator.io" text="Alligator.io" htmlUrl="https://alligator.io/" xmlUrl="https://alligator.io/feed.xml"/>
       <outline type="rss" title="Bits and Pieces" text="Bits and Pieces" htmlUrl="https://blog.bitsrc.io/" xmlUrl="https://blog.bitsrc.io/feed"/>
@@ -50,7 +51,6 @@
       <outline type="rss" title="web.dev" text="web.dev" htmlUrl="https://web.dev/" xmlUrl="https://web.dev/feed.xml"/>
       <outline type="rss" title="Webdesigner Depot" text="Webdesigner Depot" htmlUrl="https://www.webdesignerdepot.com/" xmlUrl="https://www.webdesignerdepot.com/feed/"/>
       <outline type="rss" title="WebGL Fundamentals" text="WebGL Fundamentals" htmlUrl="https://webglfundamentals.org/" xmlUrl="https://webglfundamentals.org/atom.xml"/>
-      <outline type="rss" title="30 seconds of code" text="30 seconds of code" htmlUrl="https://www.30secondsofcode.org/" xmlUrl="https://www.30secondsofcode.org/feed"/>
     </outline>
 
     <outline title="Top Front-end Bloggers" text="Top Front-end Bloggers">
