@@ -175,6 +175,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://meyerweb.com/eric/thoughts/category/tech/rss2/full/">RSS</a>] <a href="https://meyerweb.com/eric/thoughts">Eric Meyer</a></li>
   <li>[<a href="https://erikrunyon.com/feed.xml">RSS</a>] <a href="https://erikrunyon.com/">Erik Runyon</a></li>
   <li>[<a href="https://flaviocopes.com/index.xml">RSS</a>] <a href="https://flaviocopes.com/">Flavio Copes</a></li>
+  <li>[<a href="https://writingjavascript.com/rss.xml">RSS</a>] <a href="https://writingjavascript.com/">Fredrik Söderström</a></li>
   <li>[<a href="https://geoffgraham.me/feed/">RSS</a>] <a href="https://geoffgraham.me">Geoff Graham</a></li>
   <li>[<a href="https://www.giftegwuenu.com/rss.xml">RSS</a>] <a href="https://www.giftegwuenu.com/">Gift Egwuenu</a></li>
   <li>[<a href="https://harrycresswell.com/articles/feed.xml">RSS</a>] <a href="https://harrycresswell.com/articles/">Harry Cresswell</a></li>
