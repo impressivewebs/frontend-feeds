@@ -1,10 +1,10 @@
-# Frontend Feeds (Updated March 2020)
+# Frontend Feeds
 
-An up-to-date list of RSS feeds for front-end developers. [See 2020 blog post](https://www.impressivewebs.com/frontend-rss-feeds-2020/).
+An up-to-date list of RSS feeds for front-end developers (overhauled as of March 2020). [See 2020 blog post](https://www.impressivewebs.com/frontend-rss-feeds-2020/).
 
 Despite the death of Google Reader, I still use RSS regularly, and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
 
-This list was originally inspired by Paul Irish's list of front-end feeds [from 2011](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/), but it's evolved quite a bit since then. I built my own list, which I published [in 2014](https://www.impressivewebs.com/frontend-rss-feeds-revisited/), but I felt like it needed another refresh. For this update, I consulted [Šime Vidas' huge feeds list](https://github.com/simevidas/web-dev-feeds) to round this one out, along with a number of other sources.
+This list was originally inspired by Paul Irish's list of front-end feeds [from 2011](https://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/), but it's evolved quite a bit since then. I built my own list, which I published [in 2014](https://www.impressivewebs.com/frontend-rss-feeds-revisited/), but I felt like it needed another refresh. For this update, I consulted [Šime Vidas' huge feeds list](https://github.com/simevidas/web-dev-feeds) to round this one out, along with a number of other sources.
 
 The feeds list is divided into six sections, which I find is easier to digest when perusing it all weekly, or even daily:
 
@@ -72,7 +72,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://feeds.feedburner.com/codyhouse/feeds">RSS</a>] <a href="https://codyhouse.co">CodyHouse</a></li>
   <li>[<a href="https://www.deque.com/feed/">RSS</a>] <a href="https://www.deque.com">Deque</a></li>
   <li>[<a href="https://designmodo.com/feed/">RSS</a>] <a href="https://designmodo.com/">Design Modo</a></li>
-  <li>[<a href="http://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
+  <li>[<a href="https://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
   <li>[<a href="https://www.filamentgroup.com/lab/atom.xml">RSS</a>] <a href="https://filamentgroup.com/lab/">Filament Group, Inc: Lab</a></li>
   <li>[<a href="https://blog.fullstacktraining.com/rss/">RSS</a>] <a href="https://blog.fullstacktraining.com/">Full Stack Training</a></li>
   <li>[<a href="https://gomakethings.com/feed/index.xml">RSS</a>] <a href="https://gomakethings.com">Go Make Things</a></li>
@@ -84,7 +84,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://love2dev.com/feed.rss">RSS</a>] <a href="https://love2dev.com/">Love2Dev</a></li>
   <li>[<a href="https://www.nngroup.com/feed/rss/">RSS</a>] <a href="https://www.nngroup.com/articles">Nielsen Norman Group</a></li>
   <li>[<a href="https://developer.paciellogroup.com/feed/">RSS</a>] <a href="https://developer.paciellogroup.com">Paciello Group Blog</a></li>
-  <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="http://scotch.io/">Scotch.io</a></li>
+  <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="https://scotch.io/">Scotch.io</a></li>
   <li>[<a href="https://www.sitepen.com/feed/">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
@@ -93,7 +93,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://calendar.perfplanet.com/feed/">RSS</a>] <a href="https://calendar.perfplanet.com">Web Performance Calendar</a></li>
   <li>[<a href="https://web.dev/feed.xml">RSS</a>] <a href="https://web.dev">web.dev</a></li>
   <li>[<a href="https://www.webdesignerdepot.com/feed/">RSS</a>] <a href="https://www.webdesignerdepot.com">Webdesigner Depot</a></li>
-  <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="http://webglfundamentals.org/">WebGL Fundamentals</a></li>
+  <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="https://webglfundamentals.org/">WebGL Fundamentals</a></li>
 </ul>
 
 
@@ -103,36 +103,36 @@ These are large blogs/websites similar to the ones in the previous category that
 These are some of the more popular front-end blogs that feature a single author.
 
 <ul>
-  <li>[<a href="https://addyosmani.com/rss.xml">RSS</a>] <a href="http://addyosmani.com">Addy Osmani</a></li>
+  <li>[<a href="https://addyosmani.com/rss.xml">RSS</a>] <a href="https://addyosmani.com">Addy Osmani</a></li>
   <li>[<a href="https://feeds.feedburner.com/2ality">RSS</a>] <a href="https://2ality.com/">Axel Rauschmayer</a></li>
   <li>[<a href="https://feeds.feedburner.com/brad-frosts-blog">RSS</a>] <a href="https://bradfrost.com">Brad Frost</a></li>
   <li>[<a href="https://christianheilmann.com/feed/">RSS</a>] <a href="https://christianheilmann.com">Christian Heilmann</a></li>
   <li>[<a href="https://overreacted.io/rss.xml">RSS</a>] <a href="https://overreacted.io">Dan Abramov</a></li>
-  <li>[<a href="https://daverupert.com/atom.xml">RSS</a>] <a href="http://daverupert.com">Dave Rupert</a></li>
+  <li>[<a href="https://daverupert.com/atom.xml">RSS</a>] <a href="https://daverupert.com">Dave Rupert</a></li>
   <li>[<a href="https://davidflanagan.com/feed.xml">RSS</a>] <a href="https://davidflanagan.com/">David Flanagan</a></li>
   <li>[<a href="https://davidwalsh.name/feed">RSS</a>] <a href="https://davidwalsh.name">David Walsh</a></li>
   <li>[<a href="https://ethanmarcotte.com/wrote/feed.xml">RSS</a>] <a href="https://ethanmarcotte.com">Ethan Marcotte</a></li>
   <li>[<a href="https://feeds.feedburner.com/csswizardry">RSS</a>] <a href="https://csswizardry.com/">Harry Roberts</a></li>
-  <li>[<a href="https://jakearchibald.com/posts.rss">RSS</a>] <a href="http://jakearchibald.com/">Jake Archibald</a></li>
+  <li>[<a href="https://jakearchibald.com/posts.rss">RSS</a>] <a href="https://jakearchibald.com/">Jake Archibald</a></li>
   <li>[<a href="https://meiert.com/en/feed/">RSS</a>] <a href="https://meiert.com/en/">Jens Meiert</a></li>
   <li>[<a href="https://adactio.com/articles/rss">RSS</a>] <a href="https://adactio.com/articles/">Jeremy Keith (Articles)</a></li>
   <li>[<a href="https://adactio.com/journal/rss">RSS</a>] <a href="https://adactio.com/journal/">Jeremy Keith (Journal)</a></li>
   <li>[<a href="https://snook.ca/jonathan/index.rdf">RSS</a>] <a href="https://snook.ca/">Jonathan Snook</a></li>
   <li>[<a href="https://kentcdodds.com/blog/rss.xml">RSS</a>] <a href="https://kentcdodds.com">Kent C. Dodds</a></li>
-  <li>[<a href="https://lea.verou.me/feed/">RSS</a>] <a href="http://lea.verou.me">Lea Verou</a></li>
-  <li>[<a href="https://markdotto.com/atom.xml">RSS</a>] <a href="http://markdotto.com/">Mark Otto</a></li>
+  <li>[<a href="https://lea.verou.me/feed/">RSS</a>] <a href="https://lea.verou.me">Lea Verou</a></li>
+  <li>[<a href="https://markdotto.com/atom.xml">RSS</a>] <a href="https://markdotto.com/">Mark Otto</a></li>
   <li>[<a href="https://mathiasbynens.be/notes.atom">RSS</a>] <a href="https://mathiasbynens.be/notes">Mathias Bynens</a></li>
   <li>[<a href="https://humanwhocodes.com/feeds/blog.xml">RSS</a>] <a href="https://humanwhocodes.com/">Nicholas C. Zakas</a></li>
-  <li>[<a href="https://www.quirksmode.org/blog/atom.xml">RSS</a>] <a href="http://www.quirksmode.org/blog/">Peter-Paul Koch</a></li>
+  <li>[<a href="https://www.quirksmode.org/blog/atom.xml">RSS</a>] <a href="https://www.quirksmode.org/blog/">Peter-Paul Koch</a></li>
   <li>[<a href="https://feeds.feedburner.com/philipwalton">RSS</a>] <a href="https://philipwalton.com/">Philip Walton</a></li>
-  <li>[<a href="https://rachelandrew.co.uk/archives/rss.php">RSS</a>] <a href="http://rachelandrew.co.uk/archives">Rachel Andrew</a></li>
+  <li>[<a href="https://rachelandrew.co.uk/archives/rss.php">RSS</a>] <a href="https://rachelandrew.co.uk/archives">Rachel Andrew</a></li>
   <li>[<a href="https://remysharp.com/feed.xml">RSS</a>] <a href="https://remysharp.com">Remy Sharp</a></li>
   <li>[<a href="https://www.sarasoueidan.com/blog/index.xml">RSS</a>] <a href="https://sarasoueidan.com/blog/">Sara Soueidan</a></li>
   <li>[<a href="https://www.phpied.com/feed/">RSS</a>] <a href="https://www.phpied.com">Stoyan Stefanov</a></li>
-  <li>[<a href="https://www.xanthir.com/blog/atom/">RSS</a>] <a href="http://www.xanthir.com/blog/">Tab Atkins</a></li>
+  <li>[<a href="https://www.xanthir.com/blog/atom/">RSS</a>] <a href="https://www.xanthir.com/blog/">Tab Atkins</a></li>
   <li>[<a href="https://timkadlec.com/remembers/atom.xml">RSS</a>] <a href="https://timkadlec.com/remembers/">Tim Kadlec</a></li>
-  <li>[<a href="https://trentwalton.com/feed.xml">RSS</a>] <a href="http://trentwalton.com">Trent Walton</a></li>
-  <li>[<a href="https://una.im/feed.xml">RSS</a>] <a href="http://una.github.io">Una Kravets</a></li>
+  <li>[<a href="https://trentwalton.com/feed.xml">RSS</a>] <a href="https://trentwalton.com">Trent Walton</a></li>
+  <li>[<a href="https://una.im/feed.xml">RSS</a>] <a href="https://una.github.io">Una Kravets</a></li>
   <li>[<a href="https://www.zachleat.com/web/feed/">RSS</a>] <a href="https://www.zachleat.com/web/">Zach Leatherman</a></li>
 </ul>
 
@@ -145,9 +145,9 @@ This is a boatload of other front-end bloggers that you might find useful.
 <ul>
   <li>[<a href="https://www.aaron-powell.com/posts/index.xml">RSS</a>] <a href="https://www.aaron-powell.com/posts/">Aaron Powell</a></li>
   <li>[<a href="https://adamsilver.io/atom.xml">RSS</a>] <a href="https://adamsilver.io">Adam Silver</a></li>
+  <li>[<a href="https://www.codingexercises.com/feed.xml">RSS</a>] <a href="https://www.codingexercises.com/">Ajdin Imsirovic</a></li>
   <li>[<a href="https://adrianroselli.com/feed">RSS</a>] <a href="https://adrianroselli.com">Adrian Roselli</a></li>
-  <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="http://ishadeed.com/">Ahmed Shadeed</a></li>
-  <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="http://ishadeed.com/">Ahmed Shadeed</a></li>
+  <li>[<a href="https://ishadeed.com/feed.xml">RSS</a>] <a href="https://ishadeed.com/">Ahmed Shadeed</a></li>
   <li>[<a href="https://frontend.horse/rss.xml">RSS</a>] <a href="https://frontend.horse/">Alex Trost</a></li>
   <li>[<a href="https://hankchizljaw.com/feed/all.xml">RSS</a>] <a href="https://hankchizljaw.com/">Andy Bell</a></li>
   <li>[<a href="https://vuejsdevelopers.com/atom.xml">RSS</a>] <a href="https://vuejsdevelopers.com/">Anthony Gore</a></li>
@@ -155,7 +155,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://ashleynolan.co.uk/feed.xml">RSS</a>] <a href="https://www.ashleynolan.co.uk/">Ashley Nolan</a></li>
   <li>[<a href="https://stegosource.com/blog/feed/">RSS</a>] <a href="https://stegosource.com/blog/">Austin Gil</a></li>
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
-  <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="http://benmccormick.org">Ben McCormick</a></li>
+  <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="https://benmccormick.org">Ben McCormick</a></li>
   <li>[<a href="https://blog.benmyers.dev/feed.xml">RSS</a>] <a href="https://blog.benmyers.dev/">Ben Myers</a></li>
   <li>[<a href="https://uglyduck.ca/feed/">RSS</a>] <a href="https://uglyduck.ca/">Bradley Taunt</a></li>
   <li>[<a href="https://www.bram.us/feed/">RSS</a>] <a href="https://www.bram.us">Bram Van Damme</a></li>
@@ -185,13 +185,13 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://hugogiraudel.com/rss/index.xml">RSS</a>] <a href="https://hugogiraudel.com/">Hugo Giraudel</a></li>
   <li>[<a href="https://hussein-alhammad.com/blog/rss.xml">RSS</a>] <a href="https://hussein-alhammad.com/blog/">Hussein Al Hammad</a></li>
   <li>[<a href="https://bitsofco.de/rss/">RSS</a>] <a href="https://bitsofco.de/">Ire Aderinokun</a></li>
-  <li>[<a href="https://www.jackfranklin.co.uk/feed.xml">RSS</a>] <a href="http://www.jackfranklin.co.uk">Jack Franklin</a></li>
-  <li>[<a href="https://jrsinclair.com/index.rss">RSS</a>] <a href="http://jrsinclair.com">James Sinclair</a></li>
+  <li>[<a href="https://www.jackfranklin.co.uk/feed.xml">RSS</a>] <a href="https://www.jackfranklin.co.uk">Jack Franklin</a></li>
+  <li>[<a href="https://jrsinclair.com/index.rss">RSS</a>] <a href="https://jrsinclair.com">James Sinclair</a></li>
   <li>[<a href="https://feeds.feedburner.com/perishablepress">RSS</a>] <a href="https://perishablepress.com">Jeff Starr</a></li>
   <li>[<a href="https://jameshfisher.com/feed.xml">RSS</a>] <a href="https://jameshfisher.com/">Jim Fisher</a></li>
   <li>[<a href="https://destroytoday.com/feeds/all">RSS</a>] <a href="https://2020.destroytoday.com/feeds/all">Jonnie Hallman</a></li>
   <li>[<a href="https://kilianvalkhof.com/feed/">RSS</a>] <a href="https://kilianvalkhof.com">Kilian Valkhof</a></li>
-  <li>[<a href="https://krasimirtsonev.com/blog/rss">RSS</a>] <a href="http://krasimirtsonev.com/blog">Krasimir Tsonev</a></li>
+  <li>[<a href="https://krasimirtsonev.com/blog/rss">RSS</a>] <a href="https://krasimirtsonev.com/blog">Krasimir Tsonev</a></li>
   <li>[<a href="https://laurakalbag.com/posts/index.xml">RSS</a>] <a href="https://laurakalbag.com/posts/">Laura Kalbag</a></li>
   <li>[<a href="https://www.a11ywithlindsey.com/rss.xml">RSS</a>] <a href="https://www.a11ywithlindsey.com/blog">Lindsey Kopacz</a></li>
   <li>[<a href="https://www.impressivewebs.com/feed">RSS</a>] <a href="https://www.impressivewebs.com">Louis Lazaris</a></li>
@@ -216,7 +216,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.prestonlamb.com/blog-feed.xml">RSS</a>] <a href="https://www.prestonlamb.com">Preston Lamb</a></li>
   <li>[<a href="https://www.digitala11y.com/feed/">RSS</a>] <a href="https://www.digitala11y.com/">Raghavendra Satish Peri</a></li>
   <li>[<a href="https://www.raymondcamden.com/feed.xml">RSS</a>] <a href="https://www.raymondcamden.com/">Raymond Camden</a></li>
-  <li>[<a href="http://raganwald.com/atom.xml">RSS</a>] <a href="http://raganwald.com/">Reginald Braithwaite</a></li>
+  <li>[<a href="https://raganwald.com/atom.xml">RSS</a>] <a href="https://raganwald.com/">Reginald Braithwaite</a></li>
   <li>[<a href="https://pqina․nl/feed.xml">RSS</a>] <a href="https://pqina.nl">Rik Schennink</a></li>
   <li>[<a href="https://htmlcssjavascript.com/feed/">RSS</a>] <a href="https://htmlcssjavascript.com">Rob Larsen</a></li>
   <li>[<a href="https://feeds.feedburner.com/robertnyman">RSS</a>] <a href="https://robertnyman.com">Robert's Nyman</a></li>
@@ -232,13 +232,13 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.stefanjudis.com/rss.xml">RSS</a>] <a href="https://www.stefanjudis.com">Stefan Judis</a></li>
   <li>[<a href="https://blog.stephaniestimac.com/feed/feed.xml">RSS</a>] <a href="https://blog.stephaniestimac.com">Stephanie Stimac</a></li>
   <li>[<a href="https://stephaniewalter.design/feed/">RSS</a>] <a href="https://stephaniewalter.design">Stéphanie Walter</a></li>
-  <li>[<a href="https://alwaystwisted.com/rss.php">RSS</a>] <a href="http://alwaystwisted.com/">Stuart Robson</a></li>
+  <li>[<a href="https://alwaystwisted.com/rss.php">RSS</a>] <a href="https://alwaystwisted.com/">Stuart Robson</a></li>
   <li>[<a href="https://swizec.com/blog/feed">RSS</a>] <a href="https://swizec.com/blog">Swizec Teller</a></li>
   <li>[<a href="https://lihautan.com/rss.xml">RSS</a>] <a href="https://lihautan.com">Tan Li Hau</a></li>
   <li>[<a href="https://www.taniarascia.com/rss.xml">RSS</a>] <a href="https://www.taniarascia.com/">Tania Rascia</a></li>
   <li>[<a href="https://www.iamtimsmith.com/rss.xml">RSS</a>] <a href="https://www.iamtimsmith.com">Tim Smith</a></li>
   <li>[<a href="https://www.trysmudford.com/blog/index.xml">RSS</a>] <a href="https://www.trysmudford.com/blog/">Trys Mudford</a></li>
-  <li>[<a href="http://thecodebarbarian.com/feed.xml">RSS</a>] <a href="http://thecodebarbarian.com">Valeri Karpov</a></li>
+  <li>[<a href="https://thecodebarbarian.com/feed.xml">RSS</a>] <a href="https://thecodebarbarian.com">Valeri Karpov</a></li>
   <li>[<a href="https://viljamis.com/atom.xml">RSS</a>] <a href="https://viljamis.com/">Viljami Salminen</a></li>
   <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>
 </ul>
@@ -272,10 +272,10 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://blog.chromium.org/feeds/posts/default">RSS</a>] <a href="https://blog.chromium.org/">Chromium Blog</a></li>
   <li>[<a href="https://spreadprivacy.com/rss/">RSS</a>] <a href="https://spreadprivacy.com/">DuckDuckGo Blog</a></li>
   <li>[<a href="https://blog.freedomscientific.com/feed/">RSS</a>] <a href="https://blog.freedomscientific.com/">Freedom Scientific</a></li>
-  <li>[<a href="https://developers.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://developers.googleblog.com/">Google Developers Blog</a></li>
+  <li>[<a href="https://developers.googleblog.com/feeds/posts/default">RSS</a>] <a href="https://developers.googleblog.com/">Google Developers Blog</a></li>
   <li>[<a href="https://developers.google.com/web/updates/rss.xml">RSS</a>] <a href="https://developers.google.com/web/updates/">Google Developers Updates</a></li>
   <li>[<a href="https://developers.google.com/web/fundamentals/rss.xml">RSS</a>] <a href="https://developers.google.com/web/fundamentals/">Google Web Fundamentals</a></li>
-  <li>[<a href="https://webmasters.googleblog.com/feeds/posts/default">RSS</a>] <a href="http://webmasters.googleblog.com/">Google Webmaster Central Blog</a></li>
+  <li>[<a href="https://webmasters.googleblog.com/feeds/posts/default">RSS</a>] <a href="https://webmasters.googleblog.com/">Google Webmaster Central Blog</a></li>
   <li>[<a href="https://blog.mozilla.org/accessibility/feed/">RSS</a>] <a href="https://blog.mozilla.org/accessibility/">Mozilla Accessibility</a></li>
   <li>[<a href="https://blog.mozilla.org/feed/">RSS</a>] <a href="https://blog.mozilla.org">Mozilla Blog</a></li>
   <li>[<a href="https://hacks.mozilla.org/feed/">RSS</a>] <a href="https://hacks.mozilla.org">Mozilla Hacks</a></li>
@@ -299,7 +299,7 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
 <ul>
   <li>[<a href="https://blog.angular.io/feed">RSS</a>] <a href="https://blog.angular.io">Angular Blog</a></li>
   <li>[<a href="https://babeljs.io/blog/atom.xml">RSS</a>] <a href="https://babeljs.io/blog">Babel.js Blog</a></li>
-  <li>[<a href="https://blog.getbootstrap.com/feed.xml">RSS</a>] <a href="http://blog.getbootstrap.com/">Bootstrap Blog</a></li>
+  <li>[<a href="https://blog.getbootstrap.com/feed.xml">RSS</a>] <a href="https://blog.getbootstrap.com/">Bootstrap Blog</a></li>
   <li>[<a href="https://greensock.com/blog/?rss=1">RSS</a>] <a href="https://greensock.com/blog/">GSAP Blog</a></li>
   <li>[<a href="https://inclusive-components.design/rss/">RSS</a>] <a href="https://inclusive-components.design/">Inclusive Components</a></li>
   <li>[<a href="https://nodejs.org/en/feed/blog.xml">RSS</a>] <a href="https://nodejs.org/en/">Node.js Blog</a></li>
@@ -328,7 +328,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://blog.cloudflare.com/rss/">RSS</a>] <a href="https://blog.cloudflare.com/">Cloudflare Blog</a></li>
   <li>[<a href="https://blog.codepen.io/feed/">RSS</a>] <a href="https://blog.codepen.io">CodePen Blog</a></li>
   <li>[<a href="https://www.debugbear.com/blog/feed/rss">RSS</a>] <a href="https://www.debugbear.com/blog">DebugBear Blog</a></li>
-  <li>[<a href="http://codeascraft.com/feed/">RSS</a>] <a href="https://codeascraft.com">Etsy Engineering</a></li>
+  <li>[<a href="https://codeascraft.com/feed/">RSS</a>] <a href="https://codeascraft.com">Etsy Engineering</a></li>
   <li>[<a href="https://engineering.fb.com/feed/">RSS</a>] <a href="https://engineering.fb.com">Facebook Engineering</a></li>
   <li>[<a href="https://getflywheel.com/layout/feed/">RSS</a>] <a href="https://getflywheel.com/layout">Flywheel Blog</a></li>
   <li>[<a href="https://github.blog/feed/">RSS</a>] <a href="https://github.blog">The GitHub Blog</a></li>
@@ -358,11 +358,11 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
   <li>[<a href="https://tympanus.net/codrops/collective/feed/">RSS</a>] <a href="https://tympanus.net/codrops">Codrops Collective</a></li>
   <li>[<a href="https://dailydevlinks.com/feed/">RSS</a>] <a href="https://dailydevlinks.com">dailydevlinks</a></li>
   <li>[<a href="https://www.designernews.co/?format=atom">RSS</a>] <a href="https://www.designernews.co">Designer News</a></li>
-  <li>[<a href="https://www.echojs.com/rss">RSS</a>] <a href="http://www.echojs.com">Echo JS</a></li>
-  <li>[<a href="http://feedpress.me/heydesigner">RSS</a>] <a href="https://heydesigner.com">HeyDesigner</a></li>
+  <li>[<a href="https://www.echojs.com/rss">RSS</a>] <a href="https://www.echojs.com">Echo JS</a></li>
+  <li>[<a href="https://feedpress.me/heydesigner">RSS</a>] <a href="https://heydesigner.com">HeyDesigner</a></li>
   <li>[<a href="https://wdrl.info/feed">RSS</a>] <a href="https://wdrl.info/archive">Web Development Reading List (WDRL)</a></li>
   <li>[<a href="https://webplatform.news/feed.xml">RSS</a>] <a href="https://webplatform.news/">Web Platform News</a></li>
-  <li>[<a href="https://feeds.feedburner.com/webdesignernews">RSS</a>] <a href="http://www.webdesignernews.com">WebdesignerNews</a></li>
+  <li>[<a href="https://feeds.feedburner.com/webdesignernews">RSS</a>] <a href="https://www.webdesignernews.com">WebdesignerNews</a></li>
 </ul>
 
 
@@ -372,7 +372,7 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
 These are category feeds from Stack Overflow and front-end related subreddit feeds from Reddit.
 
 <ul>
-  <li>[<a href="http://www.reddit.com/r/css.rss">RSS</a>] <a href="https://www.reddit.com/r/css">/r/css</a></li>
+  <li>[<a href="https://www.reddit.com/r/css.rss">RSS</a>] <a href="https://www.reddit.com/r/css">/r/css</a></li>
   <li>[<a href="https://www.reddit.com/r/javascript.rss">RSS</a>] <a href="https://www.reddit.com/r/javascript">/r/javascript</a></li>
   <li>[<a href="https://www.reddit.com/r/reactjs.rss">RSS</a>] <a href="https://www.reddit.com/r/reactjs">/r/reactjs</a></li>
   <li>[<a href="https://www.reddit.com/r/vuejs.rss">RSS</a>] <a href="https://www.reddit.com/r/vuejs">/r/vuejs</a></li>
