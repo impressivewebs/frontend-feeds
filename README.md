@@ -212,6 +212,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://miketaylr.com/posts/rss.xml">RSS</a>] <a href="https://miketaylr.com/posts">Mike Taylor</a></li>
   <li>[<a href="https://programmingwithmosh.com/feed">RSS</a>] <a href="https://programmingwithmosh.com">Mosh Hamedani</a></li>
   <li>[<a href="https://typeofnan.dev/rss.xml">RSS</a>] <a href="https://typeofnan.dev">Nick Scialli</a></li>
+  <li>[<a href="https://trekhleb.dev/rss.xml">RSS</a>] <a href="https://trekhleb.dev">Oleksii Trekhleb</a></li>
   <li>[<a href="https://paul.kinlan.me/index.xml">RSS</a>] <a href="https://paul.kinlan.me/">Paul Kinlan</a></li>
   <li>[<a href="https://philna.sh/feed.xml">RSS</a>] <a href="https://philna.sh/">Phil Nash</a></li>
   <li>[<a href="https://www.prestonlamb.com/blog-feed.xml">RSS</a>] <a href="https://www.prestonlamb.com">Preston Lamb</a></li>
