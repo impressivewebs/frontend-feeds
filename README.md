@@ -360,7 +360,7 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
   <li>[<a href="https://dailydevlinks.com/feed/">RSS</a>] <a href="https://dailydevlinks.com">dailydevlinks</a></li>
   <li>[<a href="https://www.designernews.co/?format=atom">RSS</a>] <a href="https://www.designernews.co">Designer News</a></li>
   <li>[<a href="https://www.echojs.com/rss">RSS</a>] <a href="https://www.echojs.com">Echo JS</a></li>
-  <li>[<a href="https://feedpress.me/heydesigner">RSS</a>] <a href="https://heydesigner.com">HeyDesigner</a></li>
+  <li>[<a href="https://heydesigner.com/feed/">RSS</a>] <a href="https://heydesigner.com">HeyDesigner</a></li>
   <li>[<a href="https://wdrl.info/feed">RSS</a>] <a href="https://wdrl.info/archive">Web Development Reading List (WDRL)</a></li>
   <li>[<a href="https://webplatform.news/feed.xml">RSS</a>] <a href="https://webplatform.news/">Web Platform News</a></li>
   <li>[<a href="https://feeds.feedburner.com/webdesignernews">RSS</a>] <a href="https://www.webdesignernews.com">WebdesignerNews</a></li>
