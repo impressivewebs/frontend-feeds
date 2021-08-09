@@ -184,7 +184,6 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://heydonworks.com/feed.xml">RSS</a>] <a href="https://heydonworks.com">Heydon Pickering</a></li>
   <li>[<a href="https://hiddedevries.nl/rss/full/">RSS</a>] <a href="https://hiddedevries.nl/en/blog/">Hidde de Vries</a></li>
   <li>[<a href="https://foobartel.com/notes/feed">RSS</a>] <a href="https://foobartel.com">Holger Bartel</a></li>
-  <li>[<a href="https://hugogiraudel.com/rss/index.xml">RSS</a>] <a href="https://hugogiraudel.com/">Hugo Giraudel</a></li>
   <li>[<a href="https://hussein-alhammad.com/blog/rss.xml">RSS</a>] <a href="https://hussein-alhammad.com/blog/">Hussein Al Hammad</a></li>
   <li>[<a href="https://bitsofco.de/rss/">RSS</a>] <a href="https://bitsofco.de/">Ire Aderinokun</a></li>
   <li>[<a href="https://www.jackfranklin.co.uk/feed.xml">RSS</a>] <a href="https://www.jackfranklin.co.uk">Jack Franklin</a></li>
@@ -193,6 +192,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://jameshfisher.com/feed.xml">RSS</a>] <a href="https://jameshfisher.com/">Jim Fisher</a></li>
   <li>[<a href="https://destroytoday.com/feeds/all">RSS</a>] <a href="https://2020.destroytoday.com/feeds/all">Jonnie Hallman</a></li>
   <li>[<a href="https://kilianvalkhof.com/feed/">RSS</a>] <a href="https://kilianvalkhof.com">Kilian Valkhof</a></li>
+  <li>[<a href="https://kittygiraudel.com/rss/index.xml">RSS</a>] <a href="https://kittygiraudel.com/">Kitty Giraudel</a></li>
   <li>[<a href="https://krasimirtsonev.com/blog/rss">RSS</a>] <a href="https://krasimirtsonev.com/blog">Krasimir Tsonev</a></li>
   <li>[<a href="https://laurakalbag.com/posts/index.xml">RSS</a>] <a href="https://laurakalbag.com/posts/">Laura Kalbag</a></li>
   <li>[<a href="https://www.a11ywithlindsey.com/rss.xml">RSS</a>] <a href="https://www.a11ywithlindsey.com/blog">Lindsey Kopacz</a></li>
