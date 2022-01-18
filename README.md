@@ -74,7 +74,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://designmodo.com/feed/">RSS</a>] <a href="https://designmodo.com/">Design Modo</a></li>
   <li>[<a href="https://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
   <li>[<a href="https://www.filamentgroup.com/lab/atom.xml">RSS</a>] <a href="https://filamentgroup.com/lab/">Filament Group, Inc: Lab</a></li>
-  <li>[<a href="https://blog.fullstacktraining.com/rss/">RSS</a>] <a href="https://blog.fullstacktraining.com/">Full Stack Training</a></li>
   <li>[<a href="https://gomakethings.com/feed/index.xml">RSS</a>] <a href="https://gomakethings.com">Go Make Things</a></li>
   <li>[<a href="https://www.blog.gov.uk/feed/">RSS</a>] <a href="https://www.blog.gov.uk">GOV.UK Blogs</a></li>
   <li>[<a href="https://feed.infoq.com/javascript/">RSS</a>] <a href="https://www.infoq.com/javascript/">InfoQ - JavaScript</a></li>
@@ -85,7 +84,7 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.nngroup.com/feed/rss/">RSS</a>] <a href="https://www.nngroup.com/articles">Nielsen Norman Group</a></li>
   <li>[<a href="https://developer.paciellogroup.com/feed/">RSS</a>] <a href="https://developer.paciellogroup.com">Paciello Group Blog</a></li>
   <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="https://scotch.io/">Scotch.io</a></li>
-  <li>[<a href="https://www.sitepen.com/feed/">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
+  <li>[<a href="https://www.sitepen.com/rss.xml">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
   <li>[<a href="https://www.twilio.com/blog/tag/javascript/feed">RSS</a>] <a href="https://www.twilio.com/blog/tag/javascript">Twilio - JavaScript</a></li>
@@ -270,7 +269,7 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://adblockplus.org/atom/?section=blog">RSS</a>] <a href="https://adblockplus.org/">AdBlock Plus Blog</a></li>
   <li>[<a href="https://blog.amp.dev/feed/">RSS</a>] <a href="https://blog.amp.dev">AMP Blog</a></li>
   <li>[<a href="https://brave.com/feed/">RSS</a>] <a href="https://brave.com">Brave Blog</a></li>
-  <li>[<a href="https://www.blog.google/products/chrome/rss">RSS</a>] <a href="https://www.blog.google/products/chrome/">Chrome Blog</a></li>
+  <li>[<a href="https://blog.google/products/chrome/rss/">RSS</a>] <a href="https://blog.google/products/chrome/">Chrome Blog</a></li>
   <li>[<a href="https://blog.chromium.org/feeds/posts/default">RSS</a>] <a href="https://blog.chromium.org/">Chromium Blog</a></li>
   <li>[<a href="https://spreadprivacy.com/rss/">RSS</a>] <a href="https://spreadprivacy.com/">DuckDuckGo Blog</a></li>
   <li>[<a href="https://blog.freedomscientific.com/feed/">RSS</a>] <a href="https://blog.freedomscientific.com/">Freedom Scientific</a></li>
@@ -341,9 +340,8 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://blog.logrocket.com/feed/">RSS</a>] <a href="https://blog.logrocket.com">LogRocket</a></li>
   <li>[<a href="https://www.machmetrics.com/speed-blog/feed/">RSS</a>] <a href="https://www.machmetrics.com/speed-blog">MachMetrics Speed Blog</a></li>
   <li>[<a href="https://netflixtechblog.com/feed">RSS</a>] <a href="https://netflixtechblog.com">Netflix TechBlog</a></li>
-  <li>[<a href="https://blog.npmjs.org/rss">RSS</a>] <a href="https://blog.npmjs.org/">npm blog</a></li>
   <li>[<a href="https://www.shimmercat.com/feed.xml">RSS</a>] <a href="https://www.shimmercat.com/">ShimmerCat</a></li>
-  <li>[<a href="https://engineering.shopify.com/blogs/engineering.atom">RSS</a>] <a href="https://engineering.shopify.com/blogs/engineering">Shopify Engineering</a></li>
+  <li>[<a href="https://shopify.engineering/blog.atom">RSS</a>] <a href="https://engineering.shopify.com/blogs/engineering">Shopify Engineering</a></li>
   <li>[<a href="https://speedcurve.com/blog/rss/">RSS</a>] <a href="https://speedcurve.com/blog/">Speed Matters Blog</a></li>
   <li>[<a href="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots">RSS</a>] <a href="https://thoughtbot.com/blog">thoughtbot</a></li>
   <li>[<a href="https://blog.twitter.com/engineering/en_us/blog.rss">RSS</a>] <a href="https://blog.twitter.com/engineering/en_us.html">Twitter Engineering</a></li>

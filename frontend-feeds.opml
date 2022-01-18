@@ -205,7 +205,7 @@
       <outline type="rss" title="AdBlock Plus Blog" text="AdBlock Plus Blog" htmlUrl="https://adblockplus.org/blog/" xmlUrl="https://adblockplus.org/atom/?section=blog"/>
       <outline type="rss" title="AMP Blog" text="AMP Blog" htmlUrl="https://blog.amp.dev/" xmlUrl="https://blog.amp.dev/feed/"/>
       <outline type="rss" title="Brave Blog" text="Brave Blog" htmlUrl="https://brave.com/blog/" xmlUrl="https://brave.com/feed/"/>
-      <outline type="rss" title="Chrome Blog" text="Chrome Blog" htmlUrl="https://www.blog.google/products/chrome/" xmlUrl="https://www.blog.google/products/chrome/rss"/>
+      <outline type="rss" title="Chrome Blog" text="Chrome Blog" htmlUrl="https://blog.google/products/chrome/" xmlUrl="https://blog.google/products/chrome/rss"/>
       <outline type="rss" title="Chromium Blog" text="Chromium Blog" htmlUrl="https://blog.chromium.org/" xmlUrl="https://blog.chromium.org/feeds/posts/default"/>
       <outline type="rss" title="DuckDuckGo Blog" text="DuckDuckGo Blog" htmlUrl="https://spreadprivacy.com/" xmlUrl="https://spreadprivacy.com/rss/"/>
       <outline type="rss" title="Freedom Scientific" text="Freedom Scientific" htmlUrl="https://blog.freedomscientific.com/" xmlUrl="https://blog.freedomscientific.com/feed/"/>
@@ -264,9 +264,8 @@
       <outline type="rss" title="LogRocket" text="LogRocket" htmlUrl="https://blog.logrocket.com/" xmlUrl="https://blog.logrocket.com/feed/"/>
       <outline type="rss" title="MachMetrics Speed Blog" text="MachMetrics Speed Blog" htmlUrl="https://www.machmetrics.com/speed-blog/" xmlUrl="https://www.machmetrics.com/speed-blog/feed/"/>
       <outline type="rss" title="Netflix TechBlog" text="Netflix TechBlog" htmlUrl="https://netflixtechblog.com/" xmlUrl="https://netflixtechblog.com/feed"/>
-      <outline type="rss" title="npm blog" text="npm blog" htmlUrl="https://blog.npmjs.org/" xmlUrl="https://blog.npmjs.org/rss"/>
       <outline type="rss" title="ShimmerCat Blog" text="ShimmerCat Blog" htmlUrl="https://www.shimmercat.com/blog/" xmlUrl="https://www.shimmercat.com/feed.xml"/>
-      <outline type="rss" title="Shopify Engineering" text="Shopify Engineering" htmlUrl="https://engineering.shopify.com/blogs/engineering" xmlUrl="https://engineering.shopify.com/blogs/engineering.atom"/>
+      <outline type="rss" title="Shopify Engineering" text="Shopify Engineering" htmlUrl="https://engineering.shopify.com/blogs/engineering" xmlUrl="https://shopify.engineering/blog.atom"/>
       <outline type="rss" title="Speed Matters Blog" text="Speed Matters Blog" htmlUrl="https://speedcurve.com/blog/" xmlUrl="https://speedcurve.com/blog/rss/"/>
       <outline type="rss" title="thoughtbot" text="thoughtbot" htmlUrl="https://thoughtbot.com/blog" xmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"/>
       <outline type="rss" title="Twitter Engineering" text="Twitter Engineering" htmlUrl="https://blog.twitter.com/engineering/" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss"/>
