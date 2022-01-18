@@ -227,6 +227,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.scottohara.me/feed.xml">RSS</a>] <a href="https://scottohara.me//">Scott O’Hara</a></li>
   <li>[<a href="https://scottvinkle.me/blogs/blog.atom">RSS</a>] <a href="https://scottvinkle.me/blogs/blog">Scott Vinkle</a></li>
   <li>[<a href="https://www.swyx.io/rss.xml">RSS</a>] <a href="https://swyx.io">Sean Wang</a></li>
+  <li>[<a href="https://catchts.com/api/rss">RSS</a>] <a href="https://catchts.com/">Serhii Bilyk</a></li>
   <li>[<a href="https://blog.sindresorhus.com/feed">RSS</a>] <a href="https://blog.sindresorhus.com">Sindre Sorhus</a></li>
   <li>[<a href="https://www.voorhoede.nl/blog-feed.xml">RSS</a>] <a href="https://www.voorhoede.nl/en/blog">Sjoerd De Voorhoede</a></li>
   <li>[<a href="https://moderncss.dev/feed/">RSS</a>] <a href="https://moderncss.dev/">Stephanie Eckles</a></li>
