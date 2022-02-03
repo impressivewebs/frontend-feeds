@@ -83,7 +83,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://love2dev.com/feed.rss">RSS</a>] <a href="https://love2dev.com/">Love2Dev</a></li>
   <li>[<a href="https://www.nngroup.com/feed/rss/">RSS</a>] <a href="https://www.nngroup.com/articles">Nielsen Norman Group</a></li>
   <li>[<a href="https://developer.paciellogroup.com/feed/">RSS</a>] <a href="https://developer.paciellogroup.com">Paciello Group Blog</a></li>
-  <li>[<a href="https://scotch.io/feed">RSS</a>] <a href="https://scotch.io/">Scotch.io</a></li>
   <li>[<a href="https://www.sitepen.com/rss.xml">RSS</a>] <a href="https://www.sitepen.com">SitePen</a></li>
   <li>[<a href="https://feeds.telerik.com/blogs">RSS</a>] <a href="https://www.telerik.com/">Telerik</a></li>
   <li>[<a href="https://blog.teamtreehouse.com/feed">RSS</a>] <a href="https://blog.teamtreehouse.com">Treehouse Blog</a></li>
