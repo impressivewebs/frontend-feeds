@@ -41,7 +41,6 @@
       <outline type="rss" title="Love2Dev" text="Love2Dev" htmlUrl="https://love2dev.com/blog/" xmlUrl="https://love2dev.com/feed.rss"/>
       <outline type="rss" title="Nielsen Norman Group" text="Nielsen Norman Group" htmlUrl="https://www.nngroup.com/articles/" xmlUrl="https://www.nngroup.com/feed/rss/"/>
       <outline type="rss" title="Paciello Group Blog" text="Paciello Group Blog" htmlUrl="https://developer.paciellogroup.com/" xmlUrl="https://developer.paciellogroup.com/feed/"/>
-      <outline type="rss" title="Scotch.io" text="Scotch.io" htmlUrl="https://scotch.io/" xmlUrl="https://scotch.io/feed"/>
       <outline type="rss" title="SitePen" text="SitePen" htmlUrl="https://www.sitepen.com/blog/" xmlUrl="https://www.sitepen.com/feed/"/>
       <outline type="rss" title="Telerik" text="Telerik" htmlUrl="https://www.telerik.com/blogs" xmlUrl="https://feeds.telerik.com/blogs"/>
       <outline type="rss" title="Treehouse Blog" text="Treehouse Blog" htmlUrl="https://blog.teamtreehouse.com/" xmlUrl="https://blog.teamtreehouse.com/feed"/>
@@ -69,7 +68,7 @@
       <outline type="rss" title="Jeremy Keith (Articles)" text="Jeremy Keith (Articles)" htmlUrl="https://adactio.com/" xmlUrl="https://adactio.com/articles/rss"/>
       <outline type="rss" title="Jeremy Keith (Journal)" text="Jeremy Keith (Journal)" htmlUrl="https://adactio.com/" xmlUrl="https://adactio.com/journal/rss"/>
       <outline type="rss" title="Jonathan Snook" text="Jonathan Snook" htmlUrl="https://snook.ca/" xmlUrl="https://snook.ca/jonathan/index.rdf"/>
-      <outline type="rss" title="Kent C. Dodds" text="Kent C. Dodds" htmlUrl="https://kentcdodds.com/blog" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>    
+      <outline type="rss" title="Kent C. Dodds" text="Kent C. Dodds" htmlUrl="https://kentcdodds.com/blog" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
       <outline type="rss" title="Lea Verou" text="Lea Verou" htmlUrl="https://lea.verou.me/" xmlUrl="https://lea.verou.me/feed/"/>
       <outline type="rss" title="Mark Otto" text="Mark Otto" htmlUrl="https://markdotto.com/" xmlUrl="https://markdotto.com/atom.xml"/>
       <outline type="rss" title="Mathias Bynens" text="Mathias Bynens" htmlUrl="https://mathiasbynens.be/" xmlUrl="https://mathiasbynens.be/notes.atom"/>
