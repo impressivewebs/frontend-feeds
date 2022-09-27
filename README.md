@@ -4,7 +4,7 @@ An up-to-date list of RSS feeds for front-end developers (overhauled as of March
 
 Despite the death of Google Reader, I still use RSS regularly, and I think lots of others in the industry do too &mdash; but probably not as frequently as we used to.
 
-This list was originally inspired by Paul Irish's list of front-end feeds [from 2011](https://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/), but it's evolved quite a bit since then. I built my own list, which I published [in 2014](https://www.impressivewebs.com/frontend-rss-feeds-revisited/), but I felt like it needed another refresh. For this update, I consulted [Šime Vidas' huge feeds list](https://github.com/simevidas/web-dev-feeds) to round this one out, along with a number of other sources.
+This list was originally inspired by Paul Irish's list of front-end feeds [from 2011](https://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/), but it's evolved quite a bit since then. I built my own list, which I published [in 2014](https://www.impressivewebs.com/frontend-rss-feeds-revisited/), but I felt like it needed another refresh. The feeds list has been updated multiple times since March 2020, to correct some broken feeds and other issues.
 
 The feeds list is divided into six sections, which I find is easier to digest when perusing it all weekly, or even daily:
 
