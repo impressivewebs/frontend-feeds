@@ -71,7 +71,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.deque.com/feed/">RSS</a>] <a href="https://www.deque.com">Deque</a></li>
   <li>[<a href="https://designmodo.com/feed/">RSS</a>] <a href="https://designmodo.com/">Design Modo</a></li>
   <li>[<a href="https://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
-  <li>[<a href="https://www.filamentgroup.com/lab/atom.xml">RSS</a>] <a href="https://filamentgroup.com/lab/">Filament Group, Inc: Lab</a></li>
   <li>[<a href="https://gomakethings.com/feed/index.xml">RSS</a>] <a href="https://gomakethings.com">Go Make Things</a></li>
   <li>[<a href="https://www.blog.gov.uk/feed/">RSS</a>] <a href="https://www.blog.gov.uk">GOV.UK Blogs</a></li>
   <li>[<a href="https://feed.infoq.com/javascript/">RSS</a>] <a href="https://www.infoq.com/javascript/">InfoQ - JavaScript</a></li>
@@ -152,7 +151,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://benfrain.com/feed/">RSS</a>] <a href="https://benfrain.com">Ben Frain</a></li>
   <li>[<a href="https://benmccormick.org/rss/">RSS</a>] <a href="https://benmccormick.org">Ben McCormick</a></li>
   <li>[<a href="https://blog.benmyers.dev/feed.xml">RSS</a>] <a href="https://blog.benmyers.dev/">Ben Myers</a></li>
-  <li>[<a href="https://uglyduck.ca/feed/">RSS</a>] <a href="https://uglyduck.ca/">Bradley Taunt</a></li>
+  <li>[<a href="https://bt.ht/atom.xml">RSS</a>] <a href="https://bt.ht/">Bradley Taunt</a></li>
   <li>[<a href="https://www.bram.us/feed/">RSS</a>] <a href="https://www.bram.us">Bram Van Damme</a></li>
   <li>[<a href="https://remotesynthesis.com/feed.xml">RSS</a>] <a href="https://remotesynthesis.com/">Brian Rinaldi</a></li>
   <li>[<a href="https://www.brucelawson.co.uk/feed/">RSS</a>] <a href="https://www.brucelawson.co.uk/">Bruce Lawson</a></li>
@@ -170,7 +169,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://textslashplain.com/feed/">RSS</a>] <a href="https://textslashplain.com">Eric Lawrence</a></li>
   <li>[<a href="https://meyerweb.com/eric/thoughts/category/tech/rss2/full/">RSS</a>] <a href="https://meyerweb.com/eric/thoughts">Eric Meyer</a></li>
   <li>[<a href="https://erikrunyon.com/feed.xml">RSS</a>] <a href="https://erikrunyon.com/">Erik Runyon</a></li>
-  <li>[<a href="https://flaviocopes.com/index.xml">RSS</a>] <a href="https://flaviocopes.com/">Flavio Copes</a></li>
+  <li>[<a href="https://flaviocopes.com/rss.xml">RSS</a>] <a href="https://flaviocopes.com/">Flavio Copes</a></li>
   <li>[<a href="https://writingjavascript.com/rss.xml">RSS</a>] <a href="https://writingjavascript.com/">Fredrik Söderström</a></li>
   <li>[<a href="https://geoffgraham.me/feed/">RSS</a>] <a href="https://geoffgraham.me">Geoff Graham</a></li>
   <li>[<a href="https://www.giftegwuenu.com/rss.xml">RSS</a>] <a href="https://www.giftegwuenu.com/">Gift Egwuenu</a></li>
@@ -234,7 +233,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://swizec.com/blog/feed">RSS</a>] <a href="https://swizec.com/blog">Swizec Teller</a></li>
   <li>[<a href="https://lihautan.com/rss.xml">RSS</a>] <a href="https://lihautan.com">Tan Li Hau</a></li>
   <li>[<a href="https://www.taniarascia.com/rss.xml">RSS</a>] <a href="https://www.taniarascia.com/">Tania Rascia</a></li>
-  <li>[<a href="https://www.iamtimsmith.com/rss.xml">RSS</a>] <a href="https://www.iamtimsmith.com">Tim Smith</a></li>
+  <li>[<a href="https://iamtimsmith.com/feed/">RSS</a>] <a href="https://www.iamtimsmith.com">Tim Smith</a></li>
   <li>[<a href="https://www.trysmudford.com/blog/index.xml">RSS</a>] <a href="https://www.trysmudford.com/blog/">Trys Mudford</a></li>
   <li>[<a href="https://thecodebarbarian.com/feed.xml">RSS</a>] <a href="https://thecodebarbarian.com">Valeri Karpov</a></li>
   <li>[<a href="https://viljamis.com/atom.xml">RSS</a>] <a href="https://viljamis.com/">Viljami Salminen</a></li>
@@ -316,7 +315,6 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
 These are similar to the multi-author blogs, but are blogs tied to a specific product, startup, company, etc.
 
 <ul>
-  <li>[<a href="https://9elements.com/blog/rss">RSS</a>] <a href="https://9elements.com/blog/">9elements Blog</a></li>
   <li>[<a href="https://americanexpress.io/feed.xml">RSS</a>] <a href="https://americanexpress.io/">AMEX Technology</a></li>
   <li>[<a href="https://auth0.com/blog/rss.xml">RSS</a>] <a href="https://auth0.com/blog/">Auth0 Blog</a></li>
   <li>[<a href="https://axesslab.com/feed/">RSS</a>] <a href="https://axesslab.com">Axess Lab</a></li>
@@ -333,7 +331,6 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://github.blog/engineering.atom">RSS</a>] <a href="https://github.blog">GitHub Engineering</a></li>
   <li>[<a href="https://blog.heroku.com/feed">RSS</a>] <a href="https://blog.heroku.com/">Heroku Blog</a></li>
   <li>[<a href="https://instagram-engineering.com/feed">RSS</a>] <a href="https://instagram-engineering.com">Instagram Engineering</a></li>
-  <li>[<a href="https://www.levelaccess.com/feed/">RSS</a>] <a href="https://www.levelaccess.com">Level Access</a></li>
   <li>[<a href="https://blog.logrocket.com/feed/">RSS</a>] <a href="https://blog.logrocket.com">LogRocket</a></li>
   <li>[<a href="https://www.machmetrics.com/speed-blog/feed/">RSS</a>] <a href="https://www.machmetrics.com/speed-blog">MachMetrics Speed Blog</a></li>
   <li>[<a href="https://netflixtechblog.com/feed">RSS</a>] <a href="https://netflixtechblog.com">Netflix TechBlog</a></li>
@@ -377,33 +374,4 @@ These are category feeds from Stack Overflow and front-end related subreddit fee
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=javascript&amp;sort=newest">Stack Overflow - JavaScript</a></li>
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=reactjs&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=reactjs&amp;sort=newest">Stack Overflow - React</a></li>
   <li>[<a href="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest">RSS</a>] <a href="https://stackoverflow.com/questions/tagged/?tagnames=vue.js&amp;sort=newest">Stack Overflow - Vue</a></li>
-</ul>
-
-
-
-
-### YouTube Channels
-These are RSS feeds for YouTube channels. I'm sure I could add a lot more to this category, I simply haven't done a lot of research in this area yet.
-
-<ul>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw">RSS</a>] <a href="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw">Ben Awad's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCfV36TX5AejfAGIbtwTc7Zw">RSS</a>] <a href="https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw">Chris Hawkes's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXVXfidLZQkppLPaATcHag">RSS</a>] <a href="https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag">Chris On Code's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCADyUOnhyEoQqrw_RrsGleA">RSS</a>] <a href="https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA">CSS-Tricks' YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA">RSS</a>] <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Fireship's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-1X402kT-JlLdAitxSMA">RSS</a>] <a href="https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA">Florin Pop's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ">RSS</a>] <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCO1cgjhGzsSYb1rsB4bFe4Q">RSS</a>] <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q">Fun Fun Function's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw">RSS</a>] <a href="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw">GoogleDevelopers's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC8fcRfj0bhyfT7_vLajV7gA">RSS</a>] <a href="https://www.youtube.com/user/ImpressiveWebs">Impressive Webs's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVCacndDCfGDf41P-z0iA">RSS</a>] <a href="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA">JSConf's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCtmYk7H-NNYLEe_LgBRYomA">RSS</a>] <a href="https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA">keyframers's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjglHy7pCPF4ES-S7FKxQg">RSS</a>] <a href="https://www.youtube.com/channel/UCwjglHy7pCPF4ES-S7FKxQg">KnifeCircus's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWPY8W-FAZ2HdDiJp2RC_sQ">RSS</a>] <a href="https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ">Leigh Halladay's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCW5YeuERMmlnqo4oq8vwUpg">RSS</a>] <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UChs1F5WNk3wYkefIEVGxpLQ">RSS</a>] <a href="https://www.youtube.com/channel/UChs1F5WNk3wYkefIEVGxpLQ">Peter Cooper's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCSDtqcJ8ZXviPrEcj1vuLiQ">RSS</a>] <a href="https://www.youtube.com/channel/UCSDtqcJ8ZXviPrEcj1vuLiQ">Smashing Magazine's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQvqii1ZqheK2UFB0jYPEA">RSS</a>] <a href="https://www.youtube.com/channel/UCxQvqii1ZqheK2UFB0jYPEA">Web Tools Weekly's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCoebwHSTvwalADTJhps0emA">RSS</a>] <a href="https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA">Wes Bos's YouTube Videos</a></li>
-  <li>[<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCwIu7m0WpCNXiKZfysX54Zg">RSS</a>] <a href="https://www.youtube.com/channel/UCwIu7m0WpCNXiKZfysX54Zg">Zell Liew's YouTube Videos</a></li>
 </ul>
