@@ -126,7 +126,7 @@ These are some of the more popular front-end blogs that feature a single author.
   <li>[<a href="https://www.xanthir.com/blog/atom/">RSS</a>] <a href="https://www.xanthir.com/blog/">Tab Atkins</a></li>
   <li>[<a href="https://timkadlec.com/remembers/atom.xml">RSS</a>] <a href="https://timkadlec.com/remembers/">Tim Kadlec</a></li>
   <li>[<a href="https://trentwalton.com/feed.xml">RSS</a>] <a href="https://trentwalton.com">Trent Walton</a></li>
-  <li>[<a href="https://una.im/feed.xml">RSS</a>] <a href="https://una.github.io">Una Kravets</a></li>
+  <li>[<a href="https://una.im/rss.xml">RSS</a>] <a href="https://una.github.io">Una Kravets</a></li>
   <li>[<a href="https://www.zachleat.com/web/feed/">RSS</a>] <a href="https://www.zachleat.com/web/">Zach Leatherman</a></li>
 </ul>
 

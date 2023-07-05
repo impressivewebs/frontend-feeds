@@ -78,7 +78,7 @@
       <outline type="rss" title="Tab Atkins" text="Tab Atkins" htmlUrl="https://www.xanthir.com/blog/" xmlUrl="https://www.xanthir.com/blog/atom/"/>
       <outline type="rss" title="Tim Kadlec" text="Tim Kadlec" htmlUrl="https://timkadlec.com/remembers/" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
       <outline type="rss" title="Trent Walton" text="Trent Walton" htmlUrl="https://trentwalton.com/" xmlUrl="https://trentwalton.com/feed.xml"/>
-      <outline type="rss" title="Una Kravets" text="Una Kravets" htmlUrl="https://una.im/" xmlUrl="https://una.im/feed.xml"/>
+      <outline type="rss" title="Una Kravets" text="Una Kravets" htmlUrl="https://una.im/" xmlUrl="https://una.im/rss.xml"/>
       <outline type="rss" title="Zach Leatherman" text="Zach Leatherman" htmlUrl="https://www.zachleat.com/" xmlUrl="https://www.zachleat.com/web/feed/"/>
     </outline>
 
@@ -89,7 +89,6 @@
       <outline type="rss" title="Adrian Roselli" text="Adrian Roselli" htmlUrl="https://adrianroselli.com/" xmlUrl="https://adrianroselli.com/feed"/>
       <outline type="rss" title="Ahmed Shadeed" text="Ahmed Shadeed" htmlUrl="https://ishadeed.com/articles/" xmlUrl="https://ishadeed.com/feed.xml"/>
       <outline type="rss" title="Alex Trost" text="Alex Trost" htmlUrl="https://frontend.horse/" xmlUrl="https://frontend.horse/rss.xml"/>
-      <outline type="rss" title="Amelia Wattenberger" text="Amelia Wattenberger" htmlUrl="https://wattenberger.com/" xmlUrl="https://wattenberger.com/rss"/>
       <outline type="rss" title="Andy Bell" text="Andy Bell" htmlUrl="https://piccalil.li/" xmlUrl="https://piccalil.li/feed.xml"/>
       <outline type="rss" title="Anthony Gore" text="Anthony Gore" htmlUrl="https://vuejsdevelopers.com/" xmlUrl="https://vuejsdevelopers.com/atom.xml"/>
       <outline type="rss" title="Antoine Vastel" text="Antoine Vastel" htmlUrl="https://antoinevastel.com/" xmlUrl="https://antoinevastel.com/feed.xml"/>
