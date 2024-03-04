@@ -15,9 +15,9 @@ The feeds list is divided into six sections, which I find is easier to digest wh
 5. [Hackernoon Tags](#hackernoon-tags)
 6. [Browsers, Engines, etc.](#browsers-engines-etc)
 7. [Libraries, Frameworks, etc.](#libraries-frameworks-etc)
-8. [Company &amp; Startup Blogs](#company--startup-blogs)
-9. [Developer &amp; Designer News](#developer--designer-news)
-10. [Q&amp;A Sites &amp; Forums](#qa-sites--forums)
+8. [Company & Startup Blogs](#company--startup-blogs)
+9. [Developer & Designer News](#developer--designer-news)
+10. [Q&A Sites & Forums](#qa-sites--forums)
 11. [YouTube Channels](#youtube-channels)
 
 I've excluded some feeds from this list for one or more of the following reasons:
@@ -33,7 +33,6 @@ I've excluded some feeds from this list for one or more of the following reasons
 This is always a work in progress so I'm happy to take suggestions, even if it's your own feed. So please contribute by opening an issue.
 
 The list of feeds is in an [OPML file](https://file.org/extension/opml) that you can use to import directly into your feed reader of choice. You'll also find the full list below with links to the RSS feed and the primary URL of the feed, if you just want to pick and choose your own.
-
 
 
 ## The List of Feeds
@@ -53,7 +52,6 @@ These are the sites with the most traffic, most popular, etc.
   <li>[<a href="https://www.sitepoint.com/feed/">RSS</a>] <a href="https://www.sitepoint.com">SitePoint</a></li>
   <li>[<a href="https://www.smashingmagazine.com/feed">RSS</a>] <a href="https://www.smashingmagazine.com/articles/">Smashing Magazine</a></li>
 </ul>
-
 
 
 ### Multi-Author Blogs
@@ -89,8 +87,6 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.webdesignerdepot.com/feed/">RSS</a>] <a href="https://www.webdesignerdepot.com">Webdesigner Depot</a></li>
   <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="https://webglfundamentals.org/">WebGL Fundamentals</a></li>
 </ul>
-
-
 
 
 ### Top Front-end Bloggers
@@ -129,8 +125,6 @@ These are some of the more popular front-end blogs that feature a single author.
   <li>[<a href="https://una.im/rss.xml">RSS</a>] <a href="https://una.github.io">Una Kravets</a></li>
   <li>[<a href="https://www.zachleat.com/web/feed/">RSS</a>] <a href="https://www.zachleat.com/web/">Zach Leatherman</a></li>
 </ul>
-
-
 
 
 ### More Front-end Bloggers
@@ -241,7 +235,6 @@ This is a boatload of other front-end bloggers that you might find useful.
 </ul>
 
 
-
 ### Hackernoon Tags
 Hackernoon has a ton of material, so I've divided their feed into categories most relevant to front-end developers.
 
@@ -253,8 +246,6 @@ Hackernoon has a ton of material, so I've divided their feed into categories mos
   <li>[<a href="https://hackernoon.com/tagged/programming/feed">RSS</a>] <a href="https://hackernoon.com/tagged/programming">Hacker Noon - Programming</a></li>
   <li>[<a href="https://hackernoon.com/tagged/react/feed">RSS</a>] <a href="https://hackernoon.com/tagged/react">Hacker Noon - React</a></li>
 </ul>
-
-
 
 
 ### Browsers, Engines, etc.
@@ -287,8 +278,6 @@ These are browser blogs and feeds for technologies related to search, developer 
 </ul>
 
 
-
-
 ### Libraries, Frameworks, etc.
 These are the official blogs for coding-related tools like frameworks or JavaScript libraries.
 
@@ -309,9 +298,7 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
 </ul>
 
 
-
-
-### Company &amp; Startup Blogs
+### Company & Startup Blogs
 These are similar to the multi-author blogs, but are blogs tied to a specific product, startup, company, etc.
 
 <ul>
@@ -343,9 +330,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
 </ul>
 
 
-
-
-### Developer &amp; Designer News
+### Developer & Designer News
 These are feeds that focus on news, links, etc. In other words, feeds within feeds.
 
 <ul>
@@ -360,9 +345,7 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
 </ul>
 
 
-
-
-### Q&amp;A Sites &amp; Forums
+### Q&A Sites & Forums
 These are category feeds from Stack Overflow and front-end related subreddit feeds from Reddit.
 
 <ul>
