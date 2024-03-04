@@ -104,7 +104,7 @@ These are some of the more popular front-end blogs that feature a single author.
   <li>[<a href="https://ethanmarcotte.com/wrote/feed.xml">RSS</a>] <a href="https://ethanmarcotte.com">Ethan Marcotte</a></li>
   <li>[<a href="https://feeds.feedburner.com/csswizardry">RSS</a>] <a href="https://csswizardry.com/">Harry Roberts</a></li>
   <li>[<a href="https://jakearchibald.com/posts.rss">RSS</a>] <a href="https://jakearchibald.com/">Jake Archibald</a></li>
-  <li>[<a href="https://meiert.com/en/feed/">RSS</a>] <a href="https://meiert.com/en/">Jens Meiert</a></li>
+  <li>[<a href="https://meiert.com/en/feed/">RSS</a>] <a href="https://meiert.com/en/">Jens Oliver Meiert</a></li>
   <li>[<a href="https://adactio.com/articles/rss">RSS</a>] <a href="https://adactio.com/articles/">Jeremy Keith (Articles)</a></li>
   <li>[<a href="https://adactio.com/journal/rss">RSS</a>] <a href="https://adactio.com/journal/">Jeremy Keith (Journal)</a></li>
   <li>[<a href="https://snook.ca/jonathan/index.rdf">RSS</a>] <a href="https://snook.ca/">Jonathan Snook</a></li>
