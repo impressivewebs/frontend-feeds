@@ -232,6 +232,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://thecodebarbarian.com/feed.xml">RSS</a>] <a href="https://thecodebarbarian.com">Valeri Karpov</a></li>
   <li>[<a href="https://viljamis.com/atom.xml">RSS</a>] <a href="https://viljamis.com/">Viljami Salminen</a></li>
   <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>
+  <li>[<a href="https://www.darrylbayliss.net/feed.xml">RSS</a>] <a href="https://www.darrylbayliss.net/feed.xml">Darryl Bayliss</a></li>
 </ul>
 
 
