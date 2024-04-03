@@ -60,7 +60,7 @@
       <outline type="rss" title="Ethan Marcotte" text="Ethan Marcotte" htmlUrl="https://ethanmarcotte.com/wrote/" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml"/>
       <outline type="rss" title="Harry Roberts" text="Harry Roberts" htmlUrl="https://csswizardry.com/archive/" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
       <outline type="rss" title="Jake Archibald" text="Jake Archibald" htmlUrl="https://jakearchibald.com/" xmlUrl="https://jakearchibald.com/posts.rss"/>
-      <outline type="rss" title="Jens O. Meiert" text="Jens O. Meiert" htmlUrl="https://meiert.com/en/" xmlUrl="https://meiert.com/en/feed/"/>
+      <outline type="rss" title="Jens Oliver Meiert" text="Jens Oliver Meiert" htmlUrl="https://meiert.com/en/" xmlUrl="https://meiert.com/en/feed/"/>
       <outline type="rss" title="Jeremy Keith (Articles)" text="Jeremy Keith (Articles)" htmlUrl="https://adactio.com/" xmlUrl="https://adactio.com/articles/rss"/>
       <outline type="rss" title="Jeremy Keith (Journal)" text="Jeremy Keith (Journal)" htmlUrl="https://adactio.com/" xmlUrl="https://adactio.com/journal/rss"/>
       <outline type="rss" title="Jonathan Snook" text="Jonathan Snook" htmlUrl="https://snook.ca/" xmlUrl="https://snook.ca/jonathan/index.rdf"/>
@@ -184,6 +184,7 @@
       <outline type="rss" title="Valeri Karpov" text="Valeri Karpov" htmlUrl="https://thecodebarbarian.com/" xmlUrl="https://thecodebarbarian.com/feed.xml"/>
       <outline type="rss" title="Viljami Salminen" text="Viljami Salminen" htmlUrl="https://viljamis.com/" xmlUrl="https://viljamis.com/atom.xml"/>
       <outline type="rss" title="Zell Liew" text="Zell Liew" htmlUrl="https://zellwk.com/blog/" xmlUrl="https://zellwk.com/feed.xml"/>
+      <outline type="rss" title="Darryl Bayliss" text="Darryl Bayliss" htmlUrl="https://darrylbayliss.net" xmlUrl="https://darrylbayliss.net/feed.xml"/>
     </outline>
 
     <outline title="Hackernoon Tags" text="Hackernoon Tags">
@@ -269,6 +270,7 @@
       <outline type="rss" title="Codrops Collective" text="Codrops Collective" htmlUrl="https://tympanus.net/codrops/collective/" xmlUrl="https://tympanus.net/codrops/collective/feed/"/>
       <outline type="rss" title="dailydevlinks" text="dailydevlinks" htmlUrl="https://dailydevlinks.com/" xmlUrl="https://dailydevlinks.com/feed/"/>
       <outline type="rss" title="Echo JS" text="Echo JS" htmlUrl="https://www.echojs.com/" xmlUrl="https://www.echojs.com/rss"/>
+      <outline type="rss" title="Frontend Dogma" text="Frontend Dogma" htmlUrl="https://frontenddogma.com/" xmlUrl="https://frontenddogma.com/feed/"/>
       <outline type="rss" title="Hey, designer!" text="Hey, designer!" htmlUrl="https://heydesigner.com/" xmlUrl="https://heydesigner.com/feed/"/>
       <outline type="rss" title="Web Platform News" text="Web Platform News" htmlUrl="https://webplatform.news/" xmlUrl="https://webplatform.news/feed.xml"/>
       <outline type="rss" title="WDRL" text="WDRL" htmlUrl="https://wdrl.info/" xmlUrl="https://wdrl.info/feed"/>
