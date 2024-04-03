@@ -268,12 +268,10 @@
     <outline title="Developer/Designer News" text="Developer/Designer News">
       <outline type="rss" title="Codrops Collective" text="Codrops Collective" htmlUrl="https://tympanus.net/codrops/collective/" xmlUrl="https://tympanus.net/codrops/collective/feed/"/>
       <outline type="rss" title="dailydevlinks" text="dailydevlinks" htmlUrl="https://dailydevlinks.com/" xmlUrl="https://dailydevlinks.com/feed/"/>
-      <outline type="rss" title="Designer News" text="Designer News" htmlUrl="https://www.designernews.co/" xmlUrl="https://www.designernews.co/?format=atom"/>
       <outline type="rss" title="Echo JS" text="Echo JS" htmlUrl="https://www.echojs.com/" xmlUrl="https://www.echojs.com/rss"/>
       <outline type="rss" title="Hey, designer!" text="Hey, designer!" htmlUrl="https://heydesigner.com/" xmlUrl="https://heydesigner.com/feed/"/>
       <outline type="rss" title="Web Platform News" text="Web Platform News" htmlUrl="https://webplatform.news/" xmlUrl="https://webplatform.news/feed.xml"/>
       <outline type="rss" title="WDRL" text="WDRL" htmlUrl="https://wdrl.info/" xmlUrl="https://wdrl.info/feed"/>
-      <outline type="rss" title="Webdesigner News" text="Webdesigner News" htmlUrl="https://www.webdesignernews.com/" xmlUrl="https://feeds.feedburner.com/webdesignernews"/>
     </outline>
 
     <outline title="Q&amp;A Sites" text="Q&amp;A Sites">
