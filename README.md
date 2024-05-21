@@ -69,7 +69,8 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://www.deque.com/feed/">RSS</a>] <a href="https://www.deque.com">Deque</a></li>
   <li>[<a href="https://designmodo.com/feed/">RSS</a>] <a href="https://designmodo.com/">Design Modo</a></li>
   <li>[<a href="https://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
-  <li>[<a href="https://gomakethings.com/feed/index.xml">RSS</a>] <a href="https://gomakethings.com">Go Make Things</a></li>
+  <li>[<a href="https://feeds.dzone.com/webdev">RSS</a>] <a href="https://dzone.com/web-development-programming-tutorials-tools-news">DZone Web Dev</a></li>
+  <li>[<a href="https://frontendmasters.com/blog/feed/">RSS</a>] <a href="https://frontendmasters.com/blog/">Frontend Masters</a></li>
   <li>[<a href="https://www.blog.gov.uk/feed/">RSS</a>] <a href="https://www.blog.gov.uk">GOV.UK Blogs</a></li>
   <li>[<a href="https://feed.infoq.com/javascript/">RSS</a>] <a href="https://www.infoq.com/javascript/">InfoQ - JavaScript</a></li>
   <li>[<a href="https://www.kirupa.com/modular/kirupa.xml">RSS</a>] <a href="https://www.kirupa.com/">Kirupa</a></li>
