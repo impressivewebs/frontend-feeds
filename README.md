@@ -22,24 +22,24 @@ The feeds list is divided into six sections, which I find is easier to digest wh
 
 I've excluded some feeds from this list for one or more of the following reasons:
 
-* The blog/site hasn't been updated in a long time
-* Posts are very infrequent (e.g. 2 per year or fewer)
-* Too many personal posts and other things that have nothing to do with web development, with no way to filter
-* Too many list posts, sponsored content, etc.
-* Paywalls (e.g. I've excluded most Medium feeds)
-
+- The blog/site hasn't been updated in a long time
+- Posts are very infrequent (e.g. 2 per year or fewer)
+- Too many personal posts and other things that have nothing to do with web development, with no way to filter
+- Too many list posts, sponsored content, etc.
+- Paywalls (e.g. I've excluded most Medium feeds)
 
 ## Suggestions?
+
 This is always a work in progress so I'm happy to take suggestions, even if it's your own feed. So please contribute by opening an issue.
 
 The list of feeds is in an [OPML file](https://file.org/extension/opml) that you can use to import directly into your feed reader of choice. You'll also find the full list below with links to the RSS feed and the primary URL of the feed, if you just want to pick and choose your own.
 
-
 ## The List of Feeds
+
 Here is the full list of feeds, categorized the same way as in the OPML file, and each category is in alphabetical order (same as in the OPML file).
 
-
 ### The Giants
+
 These are the sites with the most traffic, most popular, etc.
 
 <ul>
@@ -53,8 +53,8 @@ These are the sites with the most traffic, most popular, etc.
   <li>[<a href="https://www.smashingmagazine.com/feed">RSS</a>] <a href="https://www.smashingmagazine.com/articles/">Smashing Magazine</a></li>
 </ul>
 
-
 ### Multi-Author Blogs
+
 These are large blogs/websites similar to the ones in the previous category that feature multiple authors.
 
 <ul>
@@ -89,8 +89,8 @@ These are large blogs/websites similar to the ones in the previous category that
   <li>[<a href="https://webglfundamentals.org/atom.xml">RSS</a>] <a href="https://webglfundamentals.org/">WebGL Fundamentals</a></li>
 </ul>
 
-
 ### Top Front-end Bloggers
+
 These are some of the more popular front-end blogs that feature a single author.
 
 <ul>
@@ -127,8 +127,8 @@ These are some of the more popular front-end blogs that feature a single author.
   <li>[<a href="https://www.zachleat.com/web/feed/">RSS</a>] <a href="https://www.zachleat.com/web/">Zach Leatherman</a></li>
 </ul>
 
-
 ### More Front-end Bloggers
+
 This is a boatload of other front-end bloggers that you might find useful.
 
 <ul>
@@ -200,7 +200,6 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.madebymike.com.au/feed.xml">RSS</a>] <a href="https://www.madebymike.com.au/">Mike Riethmuller</a></li>
   <li>[<a href="https://mike.sherov.com/rss.xml">RSS</a>] <a href="https://mike.sherov.com/">Mike Sherov</a></li>
   <li>[<a href="https://miketaylr.com/posts/rss.xml">RSS</a>] <a href="https://miketaylr.com/posts">Mike Taylor</a></li>
-  <li>[<a href="https://programmingwithmosh.com/feed">RSS</a>] <a href="https://programmingwithmosh.com">Mosh Hamedani</a></li>
   <li>[<a href="https://typeofnan.dev/rss.xml">RSS</a>] <a href="https://typeofnan.dev">Nick Scialli</a></li>
   <li>[<a href="https://paul.kinlan.me/index.xml">RSS</a>] <a href="https://paul.kinlan.me/">Paul Kinlan</a></li>
   <li>[<a href="https://philna.sh/feed.xml">RSS</a>] <a href="https://philna.sh/">Phil Nash</a></li>
@@ -234,10 +233,11 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://viljamis.com/atom.xml">RSS</a>] <a href="https://viljamis.com/">Viljami Salminen</a></li>
   <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>
   <li>[<a href="https://www.darrylbayliss.net/feed.xml">RSS</a>] <a href="https://www.darrylbayliss.net/feed.xml">Darryl Bayliss</a></li>
+  <li>[<a href="https://www.developerway.com/rss.xml">RSS</a>] <a href="https://www.developerway.com/">Nadia Makarevich</a></li>
 </ul>
 
-
 ### Hackernoon Tags
+
 Hackernoon has a ton of material, so I've divided their feed into categories most relevant to front-end developers.
 
 <ul>
@@ -249,8 +249,8 @@ Hackernoon has a ton of material, so I've divided their feed into categories mos
   <li>[<a href="https://hackernoon.com/tagged/react/feed">RSS</a>] <a href="https://hackernoon.com/tagged/react">Hacker Noon - React</a></li>
 </ul>
 
-
 ### Browsers, Engines, etc.
+
 These are browser blogs and feeds for technologies related to search, developer specifications, browser engines, etc.
 
 <ul>
@@ -279,8 +279,8 @@ These are browser blogs and feeds for technologies related to search, developer 
   <li>[<a href="https://blog.whatwg.org/feed">RSS</a>] <a href="https://blog.whatwg.org">WHATWG Blog</a></li>
 </ul>
 
-
 ### Libraries, Frameworks, etc.
+
 These are the official blogs for coding-related tools like frameworks or JavaScript libraries.
 
 <ul>
@@ -299,8 +299,8 @@ These are the official blogs for coding-related tools like frameworks or JavaScr
   <li>[<a href="https://medium.com/feed/the-vue-point">RSS</a>] <a href="https://medium.com/the-vue-point">The Vue Point</a></li>
 </ul>
 
-
 ### Company & Startup Blogs
+
 These are similar to the multi-author blogs, but are blogs tied to a specific product, startup, company, etc.
 
 <ul>
@@ -331,8 +331,8 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://volument.com/rss.xml">RSS</a>] <a href="https://volument.com/blog/">Volument Blog</a></li>
 </ul>
 
-
 ### Developer & Designer News
+
 These are feeds that focus on news, links, etc. In other words, feeds within feeds.
 
 <ul>
@@ -345,8 +345,8 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
   <li>[<a href="https://webplatform.news/feed.xml">RSS</a>] <a href="https://webplatform.news/">Web Platform News</a></li>
 </ul>
 
-
 ### Q&A Sites & Forums
+
 These are category feeds from Stack Overflow and front-end related subreddit feeds from Reddit.
 
 <ul>
