@@ -200,7 +200,6 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://www.madebymike.com.au/feed.xml">RSS</a>] <a href="https://www.madebymike.com.au/">Mike Riethmuller</a></li>
   <li>[<a href="https://mike.sherov.com/rss.xml">RSS</a>] <a href="https://mike.sherov.com/">Mike Sherov</a></li>
   <li>[<a href="https://miketaylr.com/posts/rss.xml">RSS</a>] <a href="https://miketaylr.com/posts">Mike Taylor</a></li>
-  <li>[<a href="https://programmingwithmosh.com/feed">RSS</a>] <a href="https://programmingwithmosh.com">Mosh Hamedani</a></li>
   <li>[<a href="https://typeofnan.dev/rss.xml">RSS</a>] <a href="https://typeofnan.dev">Nick Scialli</a></li>
   <li>[<a href="https://paul.kinlan.me/index.xml">RSS</a>] <a href="https://paul.kinlan.me/">Paul Kinlan</a></li>
   <li>[<a href="https://philna.sh/feed.xml">RSS</a>] <a href="https://philna.sh/">Phil Nash</a></li>
