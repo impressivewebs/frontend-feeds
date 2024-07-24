@@ -28,7 +28,7 @@
       <outline type="rss" title="Deque Accessibility Blog" text="Deque Accessibility Blog" htmlUrl="https://www.deque.com/blog/" xmlUrl="https://www.deque.com/feed/"/>
       <outline type="rss" title="Design Modo" text="Design Modo" htmlUrl="https://designmodo.com/" xmlUrl="https://designmodo.com/feed/"/>
       <outline type="rss" title="DZone Web Dev" text="DZone Web Dev" htmlUrl="https://dzone.com/web-development-programming-tutorials-tools-news" xmlUrl="https://feeds.dzone.com/webdev"/>
-		<outline type="rss" title="Frontend Masters" text="Frontend Masters" htmlUrl="https://frontendmasters.com/blog/" xmlUrl="https://frontendmasters.com/blog/feed/>
+      <outline type="rss" title="Frontend Masters" text="Frontend Masters" htmlUrl="https://frontendmasters.com/blog/" xmlUrl="https://frontendmasters.com/blog/feed"/>
       <outline type="rss" title="Full Stack Training" text="Full Stack Training" htmlUrl="https://blog.fullstacktraining.com/" xmlUrl="https://blog.fullstacktraining.com/rss/"/>
       <outline type="rss" title="Go Make Things" text="Go Make Things" htmlUrl="https://gomakethings.com/" xmlUrl="https://gomakethings.com/feed/index.xml"/>
       <outline type="rss" title="GOV.UK Blogs" text="GOV.UK Blogs" htmlUrl="https://www.blog.gov.uk/" xmlUrl="https://www.blog.gov.uk/feed/"/>
