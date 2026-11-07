@@ -242,7 +242,7 @@ This is a boatload of other front-end bloggers that you might find useful.
 Hackernoon has a ton of material, so I've divided their feed into categories most relevant to front-end developers.
 
 <ul>
-  <li>[<a href="https://hackernoon.com/tagged/css/feed">RSS</a>] <a href="https://hackernoon.com/tagged/css">Hacker Noon - CSS</a></li>  
+  <li>[<a href="https://hackernoon.com/tagged/css/feed">RSS</a>] <a href="https://hackernoon.com/tagged/css">Hacker Noon - CSS</a></li>
   <li>[<a href="https://hackernoon.com/tagged/coding/feed">RSS</a>] <a href="https://hackernoon.com/tagged/coding">Hacker Noon - Coding</a></li>
   <li>[<a href="https://hackernoon.com/tagged/frontend/feed">RSS</a>] <a href="https://hackernoon.com/tagged/frontend">Hacker Noon - Frontend</a></li>
   <li>[<a href="https://hackernoon.com/tagged/javascript/feed">RSS</a>] <a href="https://hackernoon.com/tagged/javascript">Hacker Noon - JavaScript</a></li>
@@ -338,8 +338,8 @@ These are feeds that focus on news, links, etc. In other words, feeds within fee
 
 <ul>
   <li>[<a href="https://tympanus.net/codrops/collective/feed/">RSS</a>] <a href="https://tympanus.net/codrops">Codrops Collective</a></li>
+  <li>[<a href="https://dxsrc.org/feed/">RSS</a>] <a href="https://dxsrc.org/">dxsrc</a></li>
   <li>[<a href="https://www.echojs.com/rss">RSS</a>] <a href="https://www.echojs.com">Echo JS</a></li>
-  <li>[<a href="https://frontenddogma.com/feed/">RSS</a>] <a href="https://frontenddogma.com/">Frontend Dogma</a></li>
   <li>[<a href="https://heydesigner.com/feed/">RSS</a>] <a href="https://heydesigner.com">HeyDesigner</a></li>
   <li>[<a href="https://unicornclub.dev/feed/">RSS</a>] <a href="https://unicornclub.dev/">Unicorn Club</a></li>
   <li>[<a href="https://wdrl.info/feed">RSS</a>] <a href="https://wdrl.info/archive">Web Development Reading List (WDRL)</a></li>
