@@ -272,7 +272,7 @@
       <outline type="rss" title="dxsrc" text="dxsrc" htmlUrl="https://dxsrc.org/" xmlUrl="https://dxsrc.org/feed/"/>
       <outline type="rss" title="Echo JS" text="Echo JS" htmlUrl="https://www.echojs.com/" xmlUrl="https://www.echojs.com/rss"/>
       <outline type="rss" title="Hey, designer!" text="Hey, designer!" htmlUrl="https://heydesigner.com/" xmlUrl="https://heydesigner.com/feed/"/>
-      <outline type="rss" title="Unicorn Club" text="dailydevlinks" htmlUrl="https://unicornclub.dev/" xmlUrl="https://unicornclub.dev/feed/"/>
+      <outline type="rss" title="Unicorn Club" text="Unicorn Club" htmlUrl="https://unicornclub.dev/" xmlUrl="https://unicornclub.dev/feed/"/>
       <outline type="rss" title="Web Platform News" text="Web Platform News" htmlUrl="https://webplatform.news/" xmlUrl="https://webplatform.news/feed.xml"/>
       <outline type="rss" title="WDRL" text="WDRL" htmlUrl="https://wdrl.info/" xmlUrl="https://wdrl.info/feed"/>
     </outline>
