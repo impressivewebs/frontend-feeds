@@ -191,6 +191,8 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://marcus.io/feed">RSS</a>] <a href="https://marcus.io/blog">Marcus Hermann</a></li>
   <li>[<a href="https://feeds.feedburner.com/mariusschulz">RSS</a>] <a href="https://mariusschulz.com">Marius Schulz</a></li>
   <li>[<a href="https://blog.isquaredsoftware.com/index.xml">RSS</a>] <a href="https://blog.isquaredsoftware.com/">Mark Erikson</a></li>
+  <li>[<a href="https://markodenic.com/feed/">RSS</a>] <a href="https://markodenic.com/">Marko Denic</a></li>
+  <li>[<a href="https://markodenic.tech/feed/">RSS</a>] <a href="https://markodenic.tech/">Marko Denic Tech</a></li>
   <li>[<a href="https://markosaric.com/feed/">RSS</a>] <a href="https://markosaric.com">Marko Saric</a></li>
   <li>[<a href="https://betterwebtype.com/feed.xml">RSS</a>] <a href="https://betterwebtype.com/feed.xml">Matej Latin</a></li>
   <li>[<a href="https://mxstbr.blog/feed.atom">RSS</a>] <a href="https://mxstbr.blog/">Max Stoiber</a></li>
